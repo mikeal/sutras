@@ -32,7 +32,7 @@ What are the seventeen?
 Vasubandhu says:
 
 五識相應、意、　　有尋伺等三、
-Five consciousnesses corresponding, manas, vitarka vicāra etc. three,
+Five consciousnesses corresponding, mano (mind), vitarka vicāra etc. three,
 三摩地俱、非、　　有心、無心地、
 samādhi together, not, citta, acitta state,
 聞、思、修所立、　　如是具三乘、
@@ -43,7 +43,7 @@ samādhi together, not, citta, acitta state,
 
 一者、五識身相應地，二者、意地，三者、有尋有伺地，四者、無尋唯伺地，五者、無尋無伺地，六者、三摩呬多地，七者、非三摩呬多地，八者、有心地，九者、無心地，十者、聞所成地，十一者、思所成地，十二者、修所成地，十三者、聲聞地，十四者、獨覺地，十五者、菩薩地，十六者、有餘依地，十七者、無餘依地。
 1. pañca-vijñāna-kāya-saṁyukta-bhūmi,
-2. manas-bhūmi,
+2. mano-bhūmi,
 3. vitarka-vicāra-sahita-bhūmi,
 4. avitarka-vicāra-mātra-bhūmi,
 5. avitarka-avicāra-bhūmi,
@@ -82,7 +82,7 @@ It means dependent on the eye, discerns colors.
 That which it relies upon is together with its support, namely the eye.
 
 等無間依，謂意。
-Equal uninterrupted reliance, means manas.
+Equal uninterrupted reliance, means mano (mind).
 
 種子依，謂即此一切種子執受所依異熟所攝阿賴耶識。
 Seed reliance refers to the ālāyavijñāna, which is the basis upon which all seeds are grasped, accepted, and encompassed by differential maturation.
@@ -94,7 +94,7 @@ Thus briefly spoken are two kinds of reliance: form and non-form. The eye is for
 The eye refers to the pure form upon which cakṣur-vijñāna relies, produced by the four great elements, without the act of seeing or possessing an object.
 
 意，謂眼識無間過去識。
-Manas refers to the uninterrupted past cakṣur-vijñāna.
+Mano (mind) refers to the uninterrupted past cakṣur-vijñāna.
 
 一切種子識，謂無始時來樂著戲論熏習為因所生一切種子異熟識。
 ālaya-vijñāna refers to the consciousness of all seeds that arise from beginningless time, having delight, attachment, play, discussion, and habituation as causes, the vipāka-vijñāna.
@@ -174,7 +174,7 @@ It means dependent on the ear, discerns sounds.
 That which it relies upon is together with its support, namely the ear.
 
 等無間依，謂意。
-Equal uninterrupted reliance, means manas.
+Equal uninterrupted reliance, means mano (mind).
 
 種子依，謂一切種子阿賴耶識。
 Seed reliance refers to the ālāyavijñāna, which is the basis upon which all seeds are grasped.
@@ -183,7 +183,7 @@ Seed reliance refers to the ālāyavijñāna, which is the basis upon which all 
 The ear, refers to the pure form upon which śrotra-vijñāna relies, produced by the four great elements, without the act of seeing or possessing an object.
 
 意及種子，如前分別。
-Manas and seeds, as previously distinguished.
+Mano (mind) and seeds, as previously distinguished.
 
 彼所緣者，謂聲，無見有對。
 That which is objectified refers to sound, without the act of seeing or possessing an object.
@@ -215,86 +215,127 @@ What is the svabhāva of ghrāṇa-vijñāna?
 It means dependent on the nose, discerns odors.
 
 彼所依者，俱有依，謂鼻。
+That which it relies upon is together with its support, namely the nose.
 
 等無間依，謂意。
+Equal uninterrupted reliance, means mano (mind).
 
 種子依，謂一切種子阿賴耶識。
+Seed reliance refers to the ālāyavijñāna, which is the basis upon which all seeds are grasped.
 
 鼻，謂四大種所造鼻識所依淨色，無見有對。
+The nose, refers to the pure form upon which ghrāṇa-vijñāna relies, produced by the four great elements, without the act of seeing or possessing an object.
 
 意及種子，如前分別。
+Mano (mind) and seeds, as previously distinguished.
 
 彼所緣者，謂香、無見有對。
+That which is objectified refers to odor, without the act of seeing or possessing an object.
 
 此復多種。
+This again consists of many kinds.
 
 謂好香、惡香、平等香，鼻所嗅知根、莖、華、葉、果、實之香。
+Namely, pleasant odors, unpleasant odors, neutral odors; odors known by the nose from roots, stems, flowers, leaves, fruits, and seeds.
 
 如是等類，有眾多香。
+Such types include numerous odors.
 
 又香者，謂鼻所聞、鼻所取、鼻所嗅等差別之名。
+Furthermore, regarding odor, it refers to the distinctions in names such as what is smelled by the nose, what is acquired by the nose, what is sniffed by the nose, etc.
 
 是鼻所行、鼻境界，鼻識所行、鼻識境界、鼻識所緣，意識所行、意識境界、意識所緣。
+Thus, these are the operations of the nose, the domain of the nose, the operations of nose consciousness, the domain of nose consciousness, the object of nose consciousness, the operations of mental consciousness, the domain of mental consciousness, the object of mental consciousness.
 
 助伴及業，如前應知。
+Its assisting factors and actions should be known as previously.
 
 云何舌識自性？謂依舌，了別味。
+What is the svabhāva of jihvā-vijñāna? It means dependent on the tongue, discerns flavors.
 
 彼所依者，俱有依，謂舌。
+That which it relies upon is together with its support, namely the tongue.
 
 等無間依，謂意。
+Equal uninterrupted reliance, means mano (mind).
 
 種子依，謂一切種子阿賴耶識。
+Seed reliance refers to the ālāyavijñāna, which is the basis upon which all seeds are grasped.
 
 舌，謂四大種所造舌識所依淨色，無見有對。
+The tongue, refers to the pure form upon which jihvā-vijñāna relies, produced by the four great elements, without the act of seeing or possessing an object.
 
 意及種子，如前分別。
+Mano (mind) and seeds, as previously distinguished.
 
 彼所緣者，謂味，無見有對。
+That which is objectified refers to taste, without the act of seeing or possessing an object.
 
 此復多種。謂苦、酢、辛、甘、鹹、淡、可意、不可意、若捨處所，舌所甞。
+This again consists of many kinds. Namely bitter, sour, spicy, sweet, salty, bland, agreeable, disagreeable, or neutral places, tasted by the tongue.
 
 又味者，謂應甞、應吞、應噉、應飲、應舐、應吮、應受用，如是等差別之名。
+Furthermore, regarding taste, it refers to distinctions in names such as what should be tasted, swallowed, chewed, drunk, licked, sucked, accepted for use, and so on.
 
 是舌所行、舌境界，舌識所行、舌識境界、舌識所緣，意識所行、意識境界、意識所緣。
+Thus, these are the operations of the tongue, the domain of the tongue, the operations of tongue consciousness, the domain of tongue consciousness, the object of tongue consciousness, the operations of mental consciousness, the domain of mental consciousness, the object of mental consciousness.
 
 助伴及業，如前應知。
+Its assisting factors and actions should be known as previously.
 
 云何身識自性？謂依身，了別觸。
+What is the svabhāva of kāya-vijñāna? It means dependent on the body, discerns touch.
 
 彼所依者，俱有依，謂身。
+That which it relies upon is together with its support, namely the body.
 
 等無間依，謂意。
+Equal uninterrupted reliance, means mano (mind).
 
 種子依，謂一切種子阿賴耶識。
+Seed reliance refers to the ālāyavijñāna, which is the basis upon which all seeds are grasped.
 
 身，謂四大種所造身識所依淨色，無見有對。
+Body, refers to the pure form upon which kāya-vijñāna relies, produced by the four great elements, without the act of seeing or possessing an object.
 
 意及種子，如前分別。
+Mano (mind) and seeds, as previously distinguished.
 
 彼所緣者，謂觸，無見有對。
+That which is objectified refers to touch, without the act of seeing or possessing an object.
 
 此復多種。謂地、水、火、風、輕性、重性、滑性、澁性、冷、飢、渴、飽、力、劣、緩、急、病、老、死、蛘、悶、粘、疲、息、軟怯、勇，如是等類，有眾多觸。
+This again consists of many kinds. Namely earth, water, fire, wind, lightness, heaviness, smoothness, roughness, coldness, hunger, thirst, fullness, strength, weakness, slowness, quickness, illness, old age, death, itching, suffocation, stickiness, fatigue, breathing, timidity, courage, and so on. Such types include numerous touches.
 
 此復三種。謂好觸、惡觸、捨處所觸、身所觸。
+This again is of three kinds: namely, pleasant touch, unpleasant touch, neutral touch/locations of touch, and bodily touch.
 
 又觸者，謂所摩、所觸、若鞕、若軟、若動、若煖，如是等差別之名。
+Furthermore, regarding touch, it refers to distinctions in names such as what is rubbed, touched, whether hard, whether soft, whether moving, whether warm, and so on.
 
 是身所行，身境界，身識所行、身識境界、身識所緣，意識所行、意識境界、意識所緣。
+Thus, these are the operations of the body, the domain of the body, the operations of body consciousness, the domain of body consciousness, the object of body consciousness, the operations of mental consciousness, the domain of mental consciousness, the object of mental consciousness.
 
 助伴及業、如前應知。
+Its assisting factors and actions should be known as previously.
 
 復次，雖眼不壞，色現在前，能生作意若不正起，所生眼識必不得生。
+Furthermore, even if the eye is not impaired and forms are present in front of it, should the intention that arises be improper or not rightly initiated, the resultant cakṣur-vijñāna certainly will not manifest.
 
 要眼不壞，色現在前，能生作意正復現起，所生眼識方乃得生。
+Only if the eye is undamaged and the forms are present in front, and the arising intention is proper and correctly initiated, then the arising cakṣur-vijñāna can indeed manifest.
 
 如眼識生，乃至身識，應知亦爾。
+Just as with the arising of cakṣur-vijñāna, up to the arising of kāya-vijñāna, it should be known to be the same.
 
 復次，由眼識生，三心可得。
+Furthermore, from the arising of cakṣur-vijñāna, three types of mind can be obtained.
 
 如其次第，謂率爾心、尋求心、決定心。
+According to their sequence, they are referred to as the impulsive mind, the searching mind, and the decisive mind.
 
 初是眼識，二在意識。
+The first is cakṣur-vijñāna, and the second is in mano-vijñāna.
 
 決定心後方有染淨。
 
