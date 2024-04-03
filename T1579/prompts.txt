@@ -1,14 +1,11 @@
-Hello! I am working on translating a Buddhist Sutra from Chinese to English and have already made some progress.Below is the text that has been translated so far, followed by the next line that needs translation.I'm aiming for translations to be as accurate and literal as possible. Additionally, when Sanskrit terms are transliterated into Chinese, I need their Romanized Sanskrit equivalents provided.
+We're going to translate some Buddhist texts into English. This text is called the "Yogacarabhumi Shastra."
 
-Specific translations preferences include:
-* "anuttarā-samyak-saṃbodhi" for "無上正真道最正覺"
-  * "BuddhaDharma" for "佛道"
-    * "trisāhasra-mahāsāhasra-lokadhātu" for "三千大千世界"
+I'll give you the chinese text line-by-line.
 
-Here's what has been translated up to this point:
+First, look for chinese that is transliterated sanskrit. Tell me about any occurances of transliterated sanskrit.
 
+Then, translate the text to english, remaining as literal as possible, and use romanized sanskrit for any text that is transliterated. Write this on a single line with ``` before and after for easy parsing.
 
+You do not need to provide further commentary on the meaning of the text.
 
-Could you provide a detailed breakdown of the new line, including key phrases and terms, and then offer a completed English translation ?
-
-  Thank you for your assistance!
+Keep your translations consistent, and try to stay consistent with this source text:

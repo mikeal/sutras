@@ -8,123 +8,211 @@
 
 No. 1579 [cf. Nos. 1580-1584]
 瑜伽師地論卷第一
+Yogācārabhūmi Śāstra, Volume One
 
 彌勒菩薩說
+Maitreya Bodhisattva said
 
 三藏法師玄奘奉　詔譯
+Tripiṭaka Dharma Master Xuánzàng, commissioned by imperial decree, translated.
 
 本地分中五識身相應地第一
+The fundamental section among [the teachings on] the five corporeal-associated consciousnesses, Stage One.
 
 云何瑜伽師地？
+What is Yogācārabhūmi?
 
 謂十七地。
+Refers to seventeen stages.
 
 何等十七？
+What are the seventeen?
 
 嗢拕南曰：
+Vasubandhu says:
 
 五識相應、意、　　有尋伺等三、
+Five consciousnesses corresponding, manas, vitarka vicāra etc. three,
 三摩地俱、非、　　有心、無心地、
+samādhi together, not, citta, acitta state,
 聞、思、修所立、　　如是具三乘、
+śruti, cintā, bhāvanā established, thus equipped with triyāna,
+
 有依、及無依，　　是名十七地。
+āśrita, and anāśrita, this is called the seventeen bhūmis.
 
 一者、五識身相應地，二者、意地，三者、有尋有伺地，四者、無尋唯伺地，五者、無尋無伺地，六者、三摩呬多地，七者、非三摩呬多地，八者、有心地，九者、無心地，十者、聞所成地，十一者、思所成地，十二者、修所成地，十三者、聲聞地，十四者、獨覺地，十五者、菩薩地，十六者、有餘依地，十七者、無餘依地。
+1. pañca-vijñāna-kāya-saṁyukta-bhūmi,
+2. manas-bhūmi,
+3. vitarka-vicāra-sahita-bhūmi,
+4. avitarka-vicāra-mātra-bhūmi,
+5. avitarka-avicāra-bhūmi,
+6. samādhi-bhūmi,
+7. asamādhi-bhūmi,
+8. citta-bhūmi,
+9. acitta-bhūmi,
+10. śruti-sampatti-bhūmi,
+11. cintā-sampatti-bhūmi,
+12. bhāvanā-sampatti-bhūmi,
+13. śrāvaka-bhūmi,
+14. pratyekabuddha-bhūmi,
+15. bodhisattva-bhūmi,
+16. āśrita-bhūmi,
+17. anāśrita-bhūmi.
 
 如是略說十七，名為瑜伽師地。
+Thus briefly spoken seventeen, named as Yogācāra-bhūmi.
 
 云何五識身相應地？謂五識身自性，彼所依，彼所緣，彼助伴，彼作業，如是總名五識身相應地。
+What is the pañca-vijñāna-kāya-saṁyukta-bhūmi?
+
+It refers to the pañca-vijñāna-kāya-svabhāva, that which it relies upon, that which it is conditioned by, its assisting factors, its actions, thus collectively called the pañca-vijñāna-kāya-saṁyukta-bhūmi.
 
 何等名為五識身耶？所謂眼識、耳識、鼻識、舌識、身識。
+What is called pañca-vijñāna-kāya?
+
+It is called cakṣur-vijñāna, śrotra-vijñāna, ghrāṇa-vijñāna, jihvā-vijñāna, kāya-vijñāna.
 
 云何眼識自性？謂依眼，了別色。
+What is the svabhāva of cakṣur-vijñāna?
+
+It means dependent on the eye, discerns colors.
 
 彼所依者，俱有依，謂眼。
+That which it relies upon is together with its support, namely the eye.
 
 等無間依，謂意。
+Equal uninterrupted reliance, means manas.
 
 種子依，謂即此一切種子執受所依異熟所攝阿賴耶識。
+Seed reliance refers to the ālāyavijñāna, which is the basis upon which all seeds are grasped, accepted, and encompassed by differential maturation.
 
 如是略說二種所依。謂色、非色。眼是色，餘非色。
+Thus briefly spoken are two kinds of reliance: form and non-form. The eye is form; the remainder is non-form.
 
 眼，謂四大種所造眼識所依淨色，無見有對。
+The eye refers to the pure form upon which cakṣur-vijñāna relies, produced by the four great elements, without the act of seeing or possessing an object.
 
 意，謂眼識無間過去識。
+Manas refers to the uninterrupted past cakṣur-vijñāna.
 
 一切種子識，謂無始時來樂著戲論熏習為因所生一切種子異熟識。
+ālaya-vijñāna refers to the consciousness of all seeds that arise from beginningless time, having delight, attachment, play, discussion, and habituation as causes, the vipāka-vijñāna.
 
 彼所緣者，謂色，有見有對。此復多種。
+That which is objectified refers to form, which is visible and has an object. This again is of many kinds.
 
 略說有三，謂顯色、形色、表色。
+Briefly, there are three, namely rūpa (visible form), saṃsthāna (shape/form), and nimitta (characteristic sign).
 
 顯色者，謂青、黃、赤、白、光、影、明、闇、雲、煙、塵、霧，及空一顯色。
+rūpa, namely blue, yellow, red, white, light, shadow, brightness, darkness, clouds, smoke, dust, mist, and the singular visible form of space.
 
 形色者，謂長、短、方、圓、麁、細、正、不正、高、下色。
+saṃsthāna, referring to long, short, square, round, coarse, fine, straight, crooked, high, low form.
 
 表色者，謂取、捨、屈、伸、行、住、坐、臥，如是等色。
+Indicative color refers to grasp, release, bend, stretch, walk, stand, sit, lie, and such colors.
 
 又顯色者，謂若色顯了，眼識所行。
+nimitta, refers to grasping, releasing, bending, stretching, walking, standing, sitting, lying down, and such characteristics.
 
 形色者，謂若色積集長短等分別相。
+Furthermore, rūpa refers to colors that become distinctly visible, where the eye consciousness operates.
 
 表色者，謂即此積集色，生滅相續，由變異因，於先生處不復重生，轉於異處，或無間、或有間、或近、或遠差別生。或即於此處變異生，是名表色。
+Nimitta refers to this aggregation of colors, the succession of arising and ceasing, due to varying causes, not being reborn again at the initial place of arising, but moving to a different location, sometimes seamlessly, sometimes not, sometimes near, sometimes far, differing in emergence. Or it may vary and arise right in this place, this is named nimitta.
 
 又顯色者，謂光、明等差別。
+Furthermore, rūpa refers to differences such as light and brightness.
 
 形色者，謂長、短等積集差別。
+Saṃsthāna refers to distinctions in aggregates such as long and short.
 
 表色者，謂業用為依轉動差別。
+Nimitta refers to the distinctions in movement relying on the function of karma.
 
 如是一切顯、形、表色，是眼所行、眼境界、眼識所行、眼識境界、眼識所緣，意識所行、意識境界、意識所緣，名之差別。
+Thus, all such rūpa, saṃsthāna, and nimitta are the operations of the eye, the domain of the eye, the operations of eye consciousness, the domain of eye consciousness, the object of eye consciousness, the operations of mental consciousness, the domain of mental consciousness, the object of mental consciousness, termed distinctions.
 
 又即此色復有三種。謂若好顯色、若惡顯色、若俱異顯色，似色顯現。
+Furthermore, this rūpa again comprises three kinds. Namely, whether it is pleasant rūpa, whether it is unpleasant rūpa, or whether it is neutral rūpa, resembling visible appearances.
 
 彼助伴者，謂彼俱有相應諸心所有法。所謂作意、觸、受、想、思、及餘眼識俱有相應諸心所有法。
+Its assisting factors refer to those concurrent mental factors associated with it. Namely intention (cetanā), contact (sparśa), feeling (vedanā), perception (saṃjñā), conception (vitarka), and other mental factors associated with cakṣur-vijñāna.
 
 又彼諸法同一所緣，非一行相，俱有相應，一一而轉。
+Furthermore, these dharma share the same object, are not of identical activity, correspond concurrently, and each transforms individually.
 
 又彼一切各各從自種子而生。
+Furthermore, all of them arise individually from their own seeds.
 
 彼作業者，當知有六種。
+Its actions should be known to have six types.
 
 謂唯了別自境所緣，是名初業。
+Namely, only discerning the object of its own domain, this is called the first action.
 
 唯了別自相，唯了別現在，唯一剎那了別。
+Namely, only discerning its own characteristic, only discerning the present, only discerning in a single instant.
 
 復有二業。
+Furthermore, there are two more actions.
 
 謂隨意識轉、隨善染轉、隨發業轉。
+Namely, turning following consciousness, turning with virtuous defilements, and turning initiating karma.
 
 又復能取愛非愛果，是第六業。
+Also, being able to obtain the results of attachment and non-attachment, this is the sixth action.
 
 云何耳識自性？謂依耳，了別聲。
+What is the svabhāva of śrotra-vijñāna?
+
+It means dependent on the ear, discerns sounds.
 
 彼所依者，俱有依，謂耳。
+That which it relies upon is together with its support, namely the ear.
 
 等無間依，謂意。
+Equal uninterrupted reliance, means manas.
 
 種子依，謂一切種子阿賴耶識。
+Seed reliance refers to the ālāyavijñāna, which is the basis upon which all seeds are grasped.
 
 耳，謂四大種所造耳識所依淨色，無見有對。
+The ear, refers to the pure form upon which śrotra-vijñāna relies, produced by the four great elements, without the act of seeing or possessing an object.
 
 意及種子，如前分別。
+Manas and seeds, as previously distinguished.
 
 彼所緣者，謂聲，無見有對。
+That which is objectified refers to sound, without the act of seeing or possessing an object.
 
 此復多種。如螺貝聲、大小鼓聲、舞聲、歌聲、諸音樂聲、俳戲叫聲、女聲、男聲、風林等聲、明了聲、不明了聲、有義聲、無義聲、下中上聲、江河等聲、鬪諍諠雜聲、受持演說聲、論義決擇聲。如是等類，有眾多聲。
+This again consists of many kinds. Such as the sound of conch shells, the sound of large and small drums, the sound of dancing, singing, various musical sounds, the cries in drama, female voices, male voices, sounds of wind in the forest, etc., clear sounds, unclear sounds, meaningful sounds, meaningless sounds, low, middle, high sounds, sounds of rivers and streams, noisy quarreling sounds, the sound of receiving and expounding teachings, the sound of discussing and deciding on doctrines. Such types include numerous sounds.
 
 此略三種。謂因執受大種聲、因不執受大種聲、因執受不執受大種聲。
+This is briefly three kinds: namely, sounds due to grasping at great elements, sounds not due to grasping at great elements, and sounds due to both grasping and not grasping at great elements.
 
 初唯內緣聲，次唯外緣聲，後內外緣聲。
+The first is solely internally conditioned sounds, the second is solely externally conditioned sounds, and the latter is both internally and externally conditioned sounds.
 
 此復三種。謂可意聲、不可意聲、俱相違聲。
+This again consists of three kinds: namely, agreeable sounds, disagreeable sounds, and sounds that are a mix of both.
 
 又復聲者，謂鳴、音、詞、吼表彰語等差別之名。
+Furthermore, regarding sound, it refers to the distinctions in names such as ringing, tones, words, roars, and expressions denoting language, etc.
 
 是耳所行、耳境界，耳識所行、耳識境界、耳識所緣，意識所行、意識境界、意識所緣。
+Thus, these are the operations of the ear, the domain of the ear, the operations of ear consciousness, the domain of ear consciousness, the object of ear consciousness, the operations of mental consciousness, the domain of mental consciousness, the object of mental consciousness.
 
 助伴及業，如眼識應知。
+Its assisting factors and actions should be known as in the case of the eye consciousness.
 
 云何鼻識自性？謂依鼻，了別香。
+What is the svabhāva of ghrāṇa-vijñāna?
+
+It means dependent on the nose, discerns odors.
 
 彼所依者，俱有依，謂鼻。
 
@@ -423,4 +511,3 @@ No. 1579 [cf. Nos. 1580-1584]
 原夫三才成位，爰彰開闢之端；六羽為君，猶昧尊卑之序。訊餘軌於襄陸，淪胥靡徵；考陳跡於懷英，寂寥無紀。暨乎黃軒振武，玄頊疏功；帝道盛於唐虞，王業著於殷夏。葳蕤玉冊，照耀金圖；茂範曾芬，詳諸歷選。然則基神襲聖，衍慶摛和；軼三代而孤標，掩百王而逈秀。我大唐皇帝。無得而稱矣！斷鼇初載，萬有於是宅心；飛龍在辰，六幽於是仰德。偃洪流而恢地絡，練清氣而緝天維。散服韜戈，扇無為之道；移澆反璞，弘不言之化。悠悠庶類，叶夢於華胥；蠢蠢懷生，遂性於仁壽。大禮大樂，包曲臺而掩宣榭；宏謨宏典，澄璧水而藻環林。瑞露禎雲，翊紫空而表貺；祥鱗慶翼，繞丹禁而呈符。歲精所記之州，咸為疆埸；暄谷所謨之縣，並入隄封。廣闢轅宮，被文軌於殊俗；還開姬弈，均正朔於王會。大業成矣！大化清矣！於是遊心羽陵，寓情延閣，總萬篋於天縱，資一貫於生知；洞照神襟，深窮性道。俯同小伎，則絢發三辰；降習微毫，則妙逾八體。居域中之大寶，畢天下之能事。雖則甲夜觀書，見稱優洽；華旦成曲，獨擅風猷。仰挍鴻徽，豈可同年而語矣！有玄奘法師者，胎彰辯慧，躡身子之高蹤；生稟神奇。嗣摩什之芳軌。爰初束髮，即事抽簪；逈出蓋纏，深悟空假。研求四諦，嗟謬旨於真宗；鑽仰一乘，鑒訛文於實相。遂迺發弘誓願，起大悲心；思拯迷途，親尋正教。幸屬時康道泰，遠安邇肅，裂裳裹足，直趣迦維，闡皇澤於遐方，徵釋教於前域。越葱嶺之外，猶跬步而忘遠；遵竹園之左，譬親受而何殊。訪道周遊十有七載，經途所亘百有餘國。異方之語，資一音而並貫；未譯之經，罄五財而畢寫。若誦若閱，喻青蓮之受持；半句半偈，隨白馬而俱返。以貞觀十九年，持如來肉舍利一百五十粒、佛像七軀、三藏聖教要文凡六百五十七部，二月六日還至長安，奉勅於弘福寺安置，令所司供給，召諸名僧二十一人學通內外者，共譯持來三藏梵本；至二十一年五月十五日，肇譯瑜伽師地論。論梵本四萬頌，頌三十二字，凡有五分，宗明十七地義。三藏法師玄奘，敬執梵文譯為唐語；弘福寺沙門靈會、靈雋、智開、知仁，會昌寺沙門玄度，瑤臺寺沙門道卓，大總持寺沙門道觀，清禪寺沙門明覺，烝義筆受；弘福寺沙門玄謨，證梵語；大總持寺沙門玄應，正字；大總持寺沙門道洪，實際寺沙門明琰，寶昌寺沙門法祥，羅漢寺沙門惠貴，弘福寺沙門文備，蒲州栖巖寺沙門神泰，廓州法講寺沙門道深，詳證大義。本地分中，五識身相應地、意地、有尋有伺地、無尋唯伺地、無尋無伺地，凡十七卷，普光寺沙門道智，受旨證文；三摩呬多地、非三摩呬多地、有心無心地、聞所成地、思所成地、修所成地，凡十卷，蒲州普救寺沙門行友，受旨證文；聲聞地初、瑜伽種姓地盡第二瑜伽處，凡九卷，玄法寺沙門玄賾，受旨證文；聲聞地第三瑜伽處盡獨覺地，凡五卷，汴州真諦寺沙門玄忠，受旨證文；菩薩地、有餘依地、無餘依地，凡十六卷。簡州福眾寺沙門靖邁，受旨證文；攝決擇分，凡三十卷，大總持寺沙門辯機，受旨證文；攝異門分、攝釋分，凡四卷，普光寺沙門處衡，受旨證文；攝事分，十六卷，弘福寺沙門明濬，受旨證文銀青光祿大夫行太子左庶子高陽縣開國男臣許敬宗奉詔監閱，至二十二年五月十五日。絕筆，總成一百卷。佛滅度後，彌勒菩薩自覩史多天宮。降于中印度阿瑜他國，為無著菩薩之所說也。斯固法門極地，該三藏之遺文；如來後心暢五乘之奧旨。玄宗微妙不可思議，僧徒並戒行圓深，道業貞固。欣承嘉召，得奉高人，各罄幽心，共稟新義。隨畢奏上，有感宸衷；爰降殊恩，親裁鴻序。情超繫象，理絕名言。皇太子分耀黃離，纘基青陸，北搖傳樂，仰金聲而竊愧；東明御辯，瞻玉裕而多慚。九載勤經，漢儲斯陋；一朝成賦，魏兩韜英。既睹天文，頂戴無已；爰抽祕藻，讚歎功德。紆二聖之仙詞，闡三藏之幽鍵。載揚佛日，式導玄津，開夏景於蓮華，法流逾潔；泛春光於貝葉，道樹增輝。冀夫聖藻長懸，與天地而無極；真如廣被，隨塵沙而不窮。凡厥含靈，知所歸矣！
 
 瑜伽師地論卷第一
-

@@ -1,44 +1,44 @@
-1 本地分
-  1 五識身相應地
-    1章 十七地總說
-    2章 五識身地總說
-    3章 五識身地別釋
-      1節 眼識之五相
-      2節 耳識之五相
-      3節 鼻識之五相
-      4節 舌識之五相
-      5節 身識之五相
-    4章 作意與識生之關係
-    5章 五識與五心之關係
-    6章 舉喻釋五識之五相
-  2 意地
-    1章 意地五相
-      1節 標五相之名
-      2節 別釋意地五相
-        1項 自性
-        2項 所依
-        3項 所緣
-        4項 助伴
-        5項 作業
-          1目 對五識明作業
-          2目 明意識之勝作業（十四門）
+1 本地分 - Section on Basic Levels
+  1 五識身相應地 - The Stage Corresponding to the Five Consciousnesses
+    1章 十七地總說 - Chapter 1 General Discussion of the Seventeen Stages
+    2章 五識身地總說 - Chapter 2 General Discussion of the Five Consciousnesses Stages
+    3章 五識身地別釋 - Chapter 3 Specific Explanation of the Five Consciousnesses Stages
+      1節 眼識之五相 - Section 1 The Five Characteristics of Eye Consciousness
+      2節 耳識之五相 - Section 2 The Five Characteristics of Ear Consciousness
+      3節 鼻識之五相 - Section 3 The Five Characteristics of Nose Consciousness
+      4節 舌識之五相 - Section 4 The Five Characteristics of Tongue Consciousness
+      5節 身識之五相 - Section 5 The Five Characteristics of Body Consciousness
+    4章 作意與識生之關係 - Chapter 4 The Relationship Between Attention and the Arising of Consciousness
+    5章 五識與五心之關係 - Chapter 5 The Relationship Between the Five Consciousnesses and the Five Minds
+    6章 舉喻釋五識之五相 - Chapter 6 Using Metaphors to Explain the Five Characteristics of the Five Consciousnesses相
+  2 意地 - The Stage of Intention
+    1章 意地五相 - Chapter 1 The Five Characteristics of the Stage of Intention
+      1節 標五相之名 - Section 1 Naming the Five Characteristics
+      2節 別釋意地五相 - Section 2 Specific Explanation of the Five Characteristics of the Stage of Intention
+        1項 自性 - Item 1 Intrinsic Nature
+        2項 所依 - Item 2 Basis
+        3項 所緣 - Item 3 Objective Support
+        4項 助伴 - Item 4 Associates
+        5項 作業 - Item 5 Functions
+          1目 對五識明作業 - Objective 1 Clarifying the Functions Relative to the Five Consciousnesses
+          2目 明意識之勝作業（十四門） - Objective 2 Elucidating the Superior Functions of Intention Consciousness (Fourteen Aspects)
             1
             後序
             2
-    2章 以十門解釋地義
-      1節 別識八門
-        1項 色聚
-        2項 相應品(六目)
-        3項 三世
-        4項 四相
-        5項 四緣
-        6項 三性差別
-        7項 增處差別
-        8項 釋處名之別
-      2節 後二門
-        1項 善巧門
-        2項 事緣起門
-  3-5 有尋有伺等三地
+    2章 以十門解釋地義 - Chapter 2 The Significance of the Stage Explained Through Ten Gates
+      1節 別識八門 - Section 1 The Eight Gates of Distinct Knowing
+        1項 色聚 - Item 1 The Aggregation of Forms
+        2項 相應品(六目) - Item 2 Corresponding Categories (Six Objectives)
+        3項 三世 - Item 3 The Three Times
+        4項 四相 - Item 4 The Four Characteristics
+        5項 四緣 - Item 5 The Four Conditions
+        6項 三性差別 - Item 6 The Three Natures Distinctions
+        7項 增處差別 - Item 7 Additional Distinctions
+        8項 釋處名之別 - Item 8 Various Names of Places Explained
+      2節 後二門 - Section 2 The Final Two Gates
+        1項 善巧門 - Item 1 The Gate of Skillfulness
+        2項 事緣起門 - Item 2 The Gate of Dependent Origination of Phenomena門
+  3-5 有尋有伺等三地 - Stages of Active and Passive Searching, etc. (Three Stages)
     1章 總標列五門
     2章 界施設建立
       1節 數建立
