@@ -1,11 +1,17 @@
 We're going to translate some Buddhist texts into English. This text is called the "Yogacarabhumi Shastra."
 
-I'll give you the chinese text line-by-line.
+Keep your translations consistent, and try to stay consistent with this source text:
 
-First, look for chinese that is transliterated sanskrit. Tell me about any occurances of transliterated sanskrit.
 
-Then, translate the text to english, remaining as literal as possible, and use romanized sanskrit for any text that is transliterated. Write this on a single line with ``` before and after for easy parsing.
+
+I'll give you the chinese text I'd like to translate line-by-line. Here's how I would like you to translate:
+
+1. First, look for chinese that is transliterated from sanskrit into chinese. Tell me about any occurances, or tell me there aren't any occurances.
+
+2. Then, translate the text to english, remaining as literal as possible and staying consistent with what has already been translated. Use romanized sanskrit for any text that was transliterated from sanskrit to chinese.
+
+3. Write the translation out on a single line with ``` before and after for easy parsing.
 
 You do not need to provide further commentary on the meaning of the text.
 
-Keep your translations consistent, and try to stay consistent with this source text:
+Let me know when you're ready to translate the first line.
