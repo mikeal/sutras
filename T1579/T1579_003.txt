@@ -7,16 +7,27 @@
 #----------------------------------------------------------------------
 
 瑜伽師地論卷第三彌勒菩薩說
+Yogācārabhūmi Śāstra, Volume Three, spoken by Maitreya Bodhisattva
 
 三藏法師玄奘奉　詔譯
+Tripiṭaka Dharma Master Xuánzàng, commissioned by imperial decree, translated
 
 本地分中意地第二之三
+In the fundamental section, the second of the mano-bhūmi, part three
 
 復次，即前所說自性乃至業等五事，當知皆由三處所攝。謂由色聚故，心心所品故，及無為故。除餘假有法。
+Furthermore, the intrinsic nature and up to the five aspects previously mentioned should be understood as being encompassed by three domains: due to the aggregate of form, due to the category of mind and mental factors, and due to the unconditioned. Excluding additional nominally existent dharmas.
 
 今當先說色聚諸法。問：一切法生，皆從自種而起。云何說諸大種能生所造色耶？云何造色依彼，彼所建立，彼所任持，彼所長養耶？
+Now, we will first discuss the dharmas of the form aggregate.
+
+Question: All dharmas arise from their own seeds. How then can it be said that the great elements are capable of producing constructed forms?
+
+How are constructed forms dependent on them, established by them, supported by them, and nurtured by them?
+
 
 答：由一切內外大種及所造色種子，皆悉依附內相續心。乃至諸大種子未生諸大以來，造色種子終不能生造色。要由彼生，造色方從自種子生，是故說彼能生造色，要由彼生為前導故。由此道理，說諸大種為彼生因。云何造色依於彼耶？由造色生已，不離大種處而轉故。云何彼所建立？由大種損益，彼同安危故。云何彼所任持？由隨大種等量不壞故。云何彼所長養？由因飲食、睡眠、修習梵行三摩地等，依彼造色倍復增廣，故說大種為彼養因。如是諸大種望所造色有五種作用應知。
+Answer: All seeds of the internal and external great elements and constructed forms are entirely dependent on the continuum of the internal consciousness. Even before the seeds of the great elements give rise to the elements, the seeds of constructed forms ultimately cannot produce constructed forms. It is necessary for them to arise first; only then do constructed forms arise from their own seeds. Therefore, it is stated that they are capable of producing constructed forms, primarily because their emergence serves as a precursor. This is why the great elements are spoken of as the causal condition for their birth. How do constructed forms depend on them? Because, once constructed forms come into being, they transform without separating from the state of the great elements. How are they established by them? Due to their shared vulnerability to the increase or decrease of the great elements. How are they supported by them? Because they remain undamaged in proportion to the great elements. How are they nurtured by them? Due to the intake of food, sleep, and the practice of Brahma behaviors and samādhi, based on which constructed forms are greatly expanded, thereby declaring the great elements as the nurturing cause. Thus, regarding constructed forms, the great elements have five types of functions to be recognized.
 
 復次，於色聚中、曾無極微生。若從自種生時，唯聚集生，或細或中或大。又非極微集成色聚。但由覺慧分析諸色極量邊際，分別假立以為極微。又色聚亦有方分，極微亦有方分，然色聚有分非極微。何以故？由極微即是分，此是聚色所有，非極微復有餘極微，是故極微非有分。
 
@@ -121,4 +132,3 @@
 善等差別門、　　巧便、事為後。
 
 瑜伽師地論卷第三
-
