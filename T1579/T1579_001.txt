@@ -42,9 +42,9 @@ samādhi together, not, citta, acitta state,
 āśrita, and anāśrita, this is called the seventeen bhūmis.
 
 一者、五識身相應地，二者、意地，三者、有尋有伺地，四者、無尋唯伺地，五者、無尋無伺地，六者、三摩呬多地，七者、非三摩呬多地，八者、有心地，九者、無心地，十者、聞所成地，十一者、思所成地，十二者、修所成地，十三者、聲聞地，十四者、獨覺地，十五者、菩薩地，十六者、有餘依地，十七者、無餘依地。
-1. pañca-vijñāna-kāya-saṁyukta-bhūmi,
-2. mano-bhūmi,
-3. vitarka-vicāra-sahita-bhūmi,
+1. pañca-vijñāna-kāya-saṁyukta-bhūmi (five consciousness body aggregation ground),
+2. mano-bhūmi (thinking ground),
+3. vitarka-vicāra-sahita-bhūmi ([active] investigation (vitarka) and [passive] consideration (vicāra) possessing ground),
 4. avitarka-vicāra-mātra-bhūmi,
 5. avitarka-avicāra-bhūmi,
 6. samādhi-bhūmi,
