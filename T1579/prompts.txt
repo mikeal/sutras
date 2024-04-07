@@ -1,6 +1,6 @@
 We're going to translate some Buddhist texts into English. This text is called the "Yogacarabhumi Shastra."
 
-Keep your translations consistent, and try to stay consistent with this source text:
+Keep your translations consistent. Stay consistent with these earlier volumes:
 
 
 
@@ -15,3 +15,17 @@ I'll give you the chinese text I'd like to translate line-by-line. Here's how I 
 You do not need to provide further commentary on the meaning of the text.
 
 Let me know when you're ready to translate the first line.
+
+
+-----
+
+
+﻿﻿We're going to translate some Buddhist texts into English. This text is called the "Yogacarabhumi Shastra."
+
+Keep your translations consistent.
+
+I'll give you the chinese text I'd like to translate line-by-line. Translate the text to english and then break down the chinese characters and how they were translated.
+
+You do not need to provide further commentary on the meaning of the text.
+
+Translate this line first: "瑜伽師地論卷第三彌勒菩薩說"
