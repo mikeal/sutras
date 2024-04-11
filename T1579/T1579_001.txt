@@ -42,18 +42,18 @@ samādhi together, not, citta, acitta state,
 āśrita, and anāśrita, this is called the seventeen bhūmis.
 
 一者、五識身相應地，二者、意地，三者、有尋有伺地，四者、無尋唯伺地，五者、無尋無伺地，六者、三摩呬多地，七者、非三摩呬多地，八者、有心地，九者、無心地，十者、聞所成地，十一者、思所成地，十二者、修所成地，十三者、聲聞地，十四者、獨覺地，十五者、菩薩地，十六者、有餘依地，十七者、無餘依地。
-1. five consciousness body aggregation ground (pañca-vijñāna-kāya-saṁyukta-bhūmi),
-2. thought ground (mano-bhūmi),
-3. gross thought and subtle contemplation ground (vitarka-vicāra-sahita-bhūmi) [[  ([active] investigation (vitarka) and [passive] consideration (vicāra) possessing ground) ]],
-4. lacking gross thought, only subtle contemplation ground (avitarka-vicāra-mātra-bhūmi),
-5. neither gross thought nor subtle contemplation ground (avitarka-avicāra-bhūmi),
+1. five aggregating consciousnesses ground (pañca-vijñāna-kāya-saṁyukta-bhūmi),
+2. thinking ground (mano-bhūmi),
+3. first dhyana - gross thought and subtle contemplation ground (vitarka-vicāra-sahita-bhūmi) [[  ([active] investigation (vitarka) and [passive] consideration (vicāra) possessing ground) ]],
+4. second dhyana - lacking gross thought, only subtle contemplation ground (avitarka-vicāra-mātra-bhūmi),
+5. third dhyana - neither gross thought nor subtle contemplation ground (avitarka-avicāra-bhūmi),
 6. samādhi ground (samādhi-bhūmi),
 7. without samādhi ground (asamādhi-bhūmi),
 8. mind ground (citta-bhūmi),
 9. without mind ground (acitta-bhūmi),
 10. that which is heard accomplishing ground (śruti-sampatti-bhūmi),
 11. cognition accomplishing ground (cintā-sampatti-bhūmi),
-12. into being accomplishing ground (bhāvanā-sampatti-bhūmi),
+12. meditation accomplishing ground (bhāvanā-sampatti-bhūmi),
 13. voice hearer ground (śrāvaka-bhūmi),
 14. hermit buddha ground (pratyekabuddha-bhūmi),
 15. bodhisattva ground (bodhisattva-bhūmi),
@@ -82,7 +82,7 @@ It means dependent on the eye, differentiates form.
 That which is depended upon, together with its dependent, is called eye.
 
 等無間依，謂意。
-Equal uninterrupted dependence, is called mind (mano).
+Equal uninterrupted dependence, is called thinking.
 
 種子依，謂即此一切種子執受所依異熟所攝阿賴耶識。
 Seed dependent, refers to "all seeds" (ālāya) held, received, and depended upon, encompassed by differential maturation (vipāka) within ālāyavijñāna.
@@ -124,7 +124,7 @@ Furthermore, rūpa refers to colors that become distinctly visible, where the ey
 Nimitta refers to this aggregation of colors, the succession of arising and ceasing, due to varying causes, not being reborn again at the initial place of arising, but moving to a different location, sometimes seamlessly, sometimes not, sometimes near, sometimes far, differing in emergence. Or it may vary and arise right in this place, this is named nimitta.
 
 又顯色者，謂光、明等差別。
-Furthermore, rūpa refers to differences such as light and brightness.
+Furthermore, that which reveals form, is called light, brightness, and other such distinctions.
 
 形色者，謂長、短等積集差別。
 Saṃsthāna refers to distinctions in aggregates such as long and short.
@@ -174,7 +174,7 @@ It means dependent on the ear, discerns sounds.
 That which it relies upon is together with its support, namely the ear.
 
 等無間依，謂意。
-Equal uninterrupted reliance, means mano (mind).
+Equal uninterrupted dependence, is called thinking.
 
 種子依，謂一切種子阿賴耶識。
 Seed reliance refers to the ālāyavijñāna, which is the basis upon which all seeds are grasped.
@@ -218,7 +218,7 @@ It means dependent on the nose, discerns odors.
 That which it relies upon is together with its support, namely the nose.
 
 等無間依，謂意。
-Equal uninterrupted reliance, means mano (mind).
+Equal uninterrupted dependence, is called thinking.
 
 種子依，謂一切種子阿賴耶識。
 Seed reliance refers to the ālāyavijñāna, which is the basis upon which all seeds are grasped.
@@ -257,7 +257,7 @@ What is the svabhāva of jihvā-vijñāna? It means dependent on the tongue, dis
 That which it relies upon is together with its support, namely the tongue.
 
 等無間依，謂意。
-Equal uninterrupted reliance, means mano (mind).
+Equal uninterrupted dependence, is called thinking.
 
 種子依，謂一切種子阿賴耶識。
 Seed reliance refers to the ālāyavijñāna, which is the basis upon which all seeds are grasped.
@@ -290,7 +290,7 @@ What is the svabhāva of kāya-vijñāna? It means dependent on the body, discer
 That which it relies upon is together with its support, namely the body.
 
 等無間依，謂意。
-Equal uninterrupted reliance, means mano (mind).
+Equal uninterrupted dependence, is called thinking.
 
 種子依，謂一切種子阿賴耶識。
 Seed reliance refers to the ālāyavijñāna, which is the basis upon which all seeds are grasped.
@@ -377,7 +377,7 @@ Intention refers to the constantly operating intention, and the uninterrupted ce
 Consciousness refers to the discernment of the present object of cognition.
 
 彼所依者，等無間依，謂意。
-That which it relies upon is equal uninterrupted reliance, referred to as mano (mind).
+That which it depends upon is equal uninterrupted dependence, is called thinking.
 
 種子依，謂如前說一切種子阿賴耶識。
 Seed reliance refers to the ālāyavijñāna, which is the basis upon which all seeds are grasped, as previously stated.

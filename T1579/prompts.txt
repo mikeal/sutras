@@ -1,9 +1,5 @@
 We're going to translate some Buddhist texts into English. This text is called the "Yogacarabhumi Shastra."
 
-Keep your translations consistent. Stay consistent with these earlier volumes:
-
-
-
 I'll give you the chinese text I'd like to translate line-by-line. Here's how I would like you to translate:
 
 1. First, look for chinese that is transliterated from sanskrit into chinese. Tell me about any occurances, or tell me there aren't any occurances.
