@@ -65,6 +65,9 @@ const xml_to_html = (xml_element) => {
   if (xml_element.value) {
     html_element.textContent = xml_element.value;
   }
+  if (!xml_element.attr.id && xml_element.attr.n) {
+    html_element.setAttribute("id", xml_element.tag + "-" + xml_element.attr.n);
+  }
 
   for (const el of xml_element.children) {
     if (known_tags.has(el.tag)) {
@@ -79,4 +82,23 @@ const xml_to_html = (xml_element) => {
 
 body.tag = "tei-body";
 const html = xml_to_html(body);
-console.log(html.outerHTML);
+
+function wrapWithTemplate(str) {
+  // Basic HTML structure with DOCTYPE declaration, and <html>, <head>, and <body> tags
+  const header = `<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title></title>
+</head>
+<body>
+`;
+  const footer = `
+</body>
+</html>`;
+
+  return header + str + footer;
+}
+
+console.log(wrapWithTemplate(html.outerHTML));
