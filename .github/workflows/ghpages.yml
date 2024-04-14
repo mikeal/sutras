@@ -1,0 +1,17 @@
+   name: Deploy to GitHub Pages
+
+   on:
+     push:
+       branches:
+         - master  # Triggers the workflow on push events to the master branch
+
+   jobs:
+     deploy:
+       runs-on: ubuntu-latest
+       steps:
+         - uses: actions/checkout@v2
+         - name: Deploy
+           uses: peaceiris/actions-gh-pages@v3
+           with:
+             github_token: ${{ secrets.GITHUB_TOKEN }}
+             publish_dir: ./gh-pages  # Ensure this points to your build directory
