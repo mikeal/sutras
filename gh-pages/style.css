@@ -1,0 +1,80 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+Devanagari:wght@100..900&family=Noto+Sans+Mono:wght@100..900&family=Noto+Sans+SC:wght@100..900&family=Noto+Sans+Symbols+2&family=Noto+Sans+Symbols:wght@100..900&family=Noto+Sans+TC:wght@100..900&family=Noto+Sans:ital,wght@0,100..900;1,100..900&family=Noto+Serif+Devanagari:wght@100..900&family=Noto+Serif+SC&family=Noto+Serif+TC&family=Noto+Serif:ital,wght@0,100..900;1,100..900&display=swap"):
+    root {
+    /* Default font choice */
+    --font-choice: "Noto Sans";
+}
+
+body {
+    /* Default font - this will switch based on --font-choice */
+    font-size: 120%;
+    font-family: var(--font-choice), serif;
+}
+
+[lang="en"] {
+    --font-choice: "Noto Sans"; /* Default for English */
+}
+
+[lang="zh"] {
+    --font-choice: "Noto Sans TC"; /* Default for Traditional Chinese */
+}
+
+[lang="zh-Hans"] {
+    --font-choice: "Noto Sans SC"; /* Default for Simplified Chinese */
+}
+
+[lang="sa"] {
+    --font-choice: "Noto Sans Devanagari"; /* Default for Devanagari/Hindi */
+}
+
+/* Symbols */
+.symbols {
+    font-family: "Noto Sans Symbols", "Noto Sans Symbols 2", sans-serif;
+}
+
+tei-doc-number,
+tei-title,
+tei-mulu,
+verse-line {
+    display: block;
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+comparison-block {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: flex-start; /* Aligned to the left */
+}
+
+character-comparison {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    flex: 0 1 auto; /* Only takes as much space as needed */
+}
+
+sanskrit,
+chinese {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 5px;
+}
+
+devanagari,
+character {
+    font-size: 24px;
+}
+
+romanization {
+    font-size: 16px;
+    /* font-style: italic; */
+    text-align: center; /* Ensures romanization is centered under its script character */
+}
+
+definition {
+    font-size: 14px;
+    text-align: center; /* Centers definitions for better readability */
+}

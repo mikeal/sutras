@@ -46,6 +46,7 @@ const xml_to_html_tag_table = {
   milestone: "tei-milestone",
   docNumber: "tei-doc-number",
   p: "tei-p",
+  space: "tei-space",
   byline: "tei-byline",
 };
 const known_tags = new Set(Object.keys(xml_to_html_tag_table));
@@ -63,6 +64,7 @@ const xml_to_html = (xml_element) => {
   setAttributes(html_element, xml_element.attr);
 
   if (xml_element.value) {
+    html_element.setAttribute("lang", "zh");
     html_element.textContent = xml_element.value;
   }
   if (!xml_element.attr.id && xml_element.attr.n) {
@@ -91,6 +93,9 @@ function wrapWithTemplate(str) {
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title></title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link type="text/css" rel="stylesheet" href="style.css">
 </head>
 <body>
 `;
