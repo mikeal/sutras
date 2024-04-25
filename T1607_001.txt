@@ -1,0 +1,254 @@
+#----------------------------------------------------------------------
+#【經文資訊】大正新脩大藏經 第 31 冊 No. 1607 六門教授習定論
+#【版本記錄】發行日期：2023-12，最後更新：2022-10-12
+#【編輯說明】本資料庫由 財團法人佛教電子佛典基金會（CBETA）依「大正新脩大藏經」所編輯
+#【原始資料】蕭鎮國大德提供，維習安大德提供之高麗藏 CD 經文，北美某大德提供，李明芳大德提供新式標點
+#【其他事項】本資料庫可自由免費流通，詳細內容請參閱【財團法人佛教電子佛典基金會資料庫版權宣告】
+#----------------------------------------------------------------------
+
+No. 1607
+六門教授習定論一卷
+Practice of Concentration in the Six Doors, Chapter One
+
+無著菩薩本世親菩薩釋
+Verses by Bodhisattva Asaṅga; Commentary by Bodhisattva Vasubandhu
+
+三藏法師義淨奉　制譯
+Translated by Tripitaka Master Yijing, by imperial order
+
+今欲利益一切有情，令習世定及出世定，速能捨離諸煩惱故，述此方便。頌曰：
+Now, wishing to benefit all sentient beings, enabling them to practice worldly and super-worldly concentration, to quickly abandon all afflictions, thus, this method is expounded. The verse says:
+
+求脫者積集，　　於住勤修習，
+得三圓滿已，　　有依修定人。
+For those seeking liberation, accumulate and diligently practice in abidance,
+having attained the three perfections, then, rely on and practice concentration.
+
+
+釋曰：此初一頌總標六門。言求脫者，謂是求解脫人。積集者，謂能積集勝行資糧。於住勤修習者，於所緣處令心善住名之為定，由不散亂不動搖故。問：云何修習？謂得三圓滿已有依修定人。圓滿有三：一師資圓滿、二所緣圓滿、三作意圓滿。有依，謂是三定，一有尋有伺定、二無尋唯伺定、三無尋無伺定。修定人者，謂能修習奢摩他、毘鉢舍那。若人能於解脫起願樂心，復曾積集解脫資糧、心依於定、有師資等三而為依止，有依修習，由習定故能獲世間諸福及以殊勝圓滿之果。先作如是安立次第，故名總標。頌曰：
+Explanation: This first verse summarily identifies the six doors. "Those seeking liberation" refers to individuals aspiring for liberation. "Accumulate" means to gather the meritorious provisions. "Diligently practice in abidance" refers to letting the mind rest well in the object of meditation, which is known as concentration, because of not being disturbed or shaken. Question: How to practice? It means after obtaining the three completions, there is dependence on practicing concentration. There are three completions: the completion of a teacher's support, the completion of the object of focus, and the completion of concentration in thought. "Dependence" refers to three types of concentration: one with seeking and scanning, one without seeking but with scanning, and one without either seeking or scanning. A practitioner of concentration is someone who practices śamatha and vipaśyanā. If a person aspires joyously towards liberation, has accumulated provisions for liberation, and depends on concentration with the threefold support including a teacher's support, and practices with reliance, then by practicing concentration, they can obtain worldly blessings and the supreme fruits of completion. First establishing steps in such a manner is called the summary identification. The verse says:
+
+於三乘樂脫，　　名求解脫人，
+In delighting in liberation within the three vehicles, they are called persons seeking liberation,
+二種障全除，　　斯名為解脫。
+With the complete removal of two kinds of obstacles, this is called liberation.
+應知執受識，　　是二障體性，
+One should know that grasping, receiving, and consciousness are the nature of these two obstacles,
+惑種一切種，　　由能縛二人。
+The seeds of confusion of all kinds, because they can bind these two kinds of people.
+已除煩惱障，　　習氣未蠲除，
+Having removed the obstacle of afflictions, but not yet fully eliminated habitual tendencies,
+此謂聲聞乘，　　餘唯佛能斷。
+This is called the vehicle of the hearers, the rest can only be severed by the Buddha.
+若彼惑雖無，　　作儀如有惑，
+Even if those confusions are absent, behaving as if they have confusions,
+是習氣前生，　　若除便異此。
+These are previous lives' habitual tendencies, if removed, then they differ from this.
+
+釋曰：此之四頌釋求解脫者，謂於聲聞乘等有差別故。於三乘中心樂解脫，名求解脫。云何解脫？二種障全除，斯名為解脫。何者是二障，除之名脫？應知執受識是二障體性，識者即是阿賴耶識。執受者是依止義，謂是煩惱、所知二障體性。此復云何？惑種即是煩惱障自性，一切種即是所知障自性。又一切種者，即是二障種子，能縛二人，煩惱障種子能縛聲聞、一切種子能縛菩薩，由與聲聞、菩薩為繫縛故。云何此二解脫差別？謂聲聞人習氣未除，斷煩惱障而證解脫；唯佛世尊能總除故。云何習氣？彼惑雖無，所作形儀如有惑者，是名習氣。此中應言，若惑雖無，令彼作相如有惑者，此言作儀如有惑者，即是於因說果名故。彼謂聲聞獨覺，未知此是誰之習氣，謂是前生所有串習之事尚有餘氣，今雖惑盡，所為相狀似染形儀，名為習氣。若能除斷與此不同，應云：若彼習皆無，不作儀如惑。頌曰：
+Explanation: These four verses explain those seeking liberation, indicating distinctions within the vehicle of the hearers, etc. In the three vehicles, taking delight in liberation is called seeking liberation. How is liberation achieved? By the complete removal of two kinds of obstacles, this is named liberation. Which are the two obstacles, the removal of which signifies liberation? One should know that grasping, receiving, and consciousness constitute the essence of these two obstacles, with consciousness referring to the ālaya-vijñāna. Reliance, in the context of grasping and receiving, signifies the essence of the afflictive and cognitive obstacles. How so? The seed of confusion is essentially the afflictive obstacle, and all kinds of seeds are essentially the cognitive obstacle. Moreover, all kinds of seeds are the seeds of the two obstacles, capable of binding both hearers and Bodhisattvas, due to their binding nature to both hearers and Bodhisattvas. What differentiates these two liberations? It's said that hearers have not removed their habitual tendencies, they break through the afflictive obstacles and attain liberation; only the Buddha Tathagata can completely remove them. What are habitual tendencies? Even in the absence of these confusions, acting in a manner as if the confusions were present is called habitual tendencies. It should be said here that, even if there are no confusions, making one act as though there were, is referring to the acting as if there were confusions, spoken of in terms of explaining effects from causes. It is unknown whose habitual tendencies these refer to, implying remaining effects of past lives' habits; though now the confusions are gone, the behavioral appearances resemble those tainted, called habitual tendencies. If able to remove and be different from this, it should be said: If all such habits are absent, not acting as if confused. The verse says:
+
+種植諸善根，　　無疑除熱惱，
+於法流清淨，　　是名為積集。
+"Planting all good roots, doubtlessly removing afflictions,
+In the Dharma flows purity, this is called accumulation."
+能持樂聽法，　　善除其二見，
+但聞心喜足，　　是四事應知。
+"Able to maintain joy in hearing the Dharma, skillfully removing two views,
+Merely hearing, the heart fills with joy, these are four matters one should know."
+
+釋曰：此之二頌釋積集義。如經中說「此人先應修習多聞、復聽正法，諸見熱惱已正蠲除，心之蓋纏能正降伏。」依此文義故說初頌。云何積集所有善根？謂能持正法故。以此為先，令其信等善法增故。云何無疑？謂樂聽法故。由知法故，已生未生所有疑惑悉能除滅。云何除熱惱？謂除二見故。二見云何？一者欲令他識知見、二者自起高舉見。謂作是念：「如何令他得知我是具德之人。」是則名為令他識見。依此見故自欲高舉，名自高見。此二能令心焦熱故，名為熱惱。云何法流清淨？謂能除遣但聞法時心生喜足故。上之除字流入於此。於法流清淨者，謂聽法時心無散亂相續而流，心清淨故蓋纏止息。若聽法無厭，更能進思勤修不息，方得名為法流清淨。當知此據聞思修位，如次應知。
+Commentary: These two verses elucidate the significance of accumulation. As the scriptures say, "A person should first cultivate extensive learning and listening to the right Dharma, having correctly eliminated all views and afflictions, and subdue the entanglements of the mind." This explains the first verse according to the text's meaning. How do we accumulate all good roots? By adhering to the correct Dharma. This takes precedence to increase virtues such as faith. How is doubt eliminated? By delighting in listening to the Dharma. Through understanding the Dharma, all current and future doubts can be completely eradicated. How are afflictions removed? By eliminating two views. What are these two views? One is the desire for others to recognize one's understanding and insights; the other is to elevate oneself based on one's views, with the thought, "How can I make others recognize me as a person of virtue?" This is called making others recognize one's views. Due to this view, one desires to elevate oneself, which is called self-elevation view. These two can cause the mind to burn with affliction, thus named afflictions. How is purity achieved in the flow of Dharma? By merely hearing the Dharma and feeling joy and satisfaction, which eliminates afflictions. The "elimination" mentioned earlier connects here. When the flow of Dharma is pure, it means that, while listening to the Dharma, the mind flows continuously without distraction, and due to the purity of mind, entanglements cease. If one listens to the Dharma insatiably and furthers one's contemplation and diligent practice without stopping, only then can it truly be called the purity of Dharma flow. It is understood that this is based on the stages of hearing, contemplating, and practicing, and should be recognized accordingly.
+
+次有十六頌，釋於住勤修習。初一總標，餘是別釋。頌曰：
+Following, there are sixteen verses that explain the practice of diligent cultivation. The first one provides a general introduction, while the rest offer specific explanations. The verse says:
+
+所緣及自體，　　差別并作意，
+心亂住資糧，　　修定出離果。
+Objects of focus and their nature, differences and intention combined,
+Mind's turmoil finds sustenance in abiding, cultivation leads to liberation's result.
+
+言所緣者，有其三種。
+Speaking of the objects of focus, there are three kinds.
+
+外上及以內，　　此三所緣生，
+應知住有三，　　自體心無亂。
+External, superior, and internal, from these three objects of focus arise,
+Know there are three kinds of abidings, where the mind itself is without turmoil.
+
+釋曰：言三種者，一外緣、二上緣、三內緣。外緣謂白骨等觀所現影像，是初學境界。上緣謂未至定緣靜等相。內緣謂從其意言所現之相為所緣境。自體謂是心無亂相，名之為住。心無亂者，於外等處三種緣時，隨其所緣心無動亂。頌曰：
+Commentary: Speaking of the three kinds, they are 1) external objects of focus, 2) superior objects of focus, and 3) internal objects of focus. External objects refer to images such as white bones contemplated upon, which are initial stages of practice. Superior objects pertain to states not yet reaching concentration but involve tranquility and similar qualities. Internal objects are those that arise from the mind's intention, serving as the focus of attention. The self-nature means the mind is without turmoil, which is referred to as abidance. A mind without turmoil, when engaging with any of the three kinds of objects externally, etc., remains undisturbed by whatever it focuses on. The verse says:
+
+第一住相應，　　定心者能見，
+於境無移念，　　相續是明人。
+In the first state of abidance, those with concentrated minds can see,
+With no wavering thoughts towards objects, continuous clarity marks the wise.
+第二住相應，　　厭離心寂靜，
+專意無移念，　　相續是明人。
+In the second state of abidance, the mind is tranquil and disenchanted,
+With focused intention and no wavering thoughts, continuous clarity marks the wise.
+第三住相應，　　於前境凝住，
+定意無移念，　　相續是明人。
+In the third state of abidance, firmly fixed upon the prior object,
+With resolute intention and no wavering thoughts, continuous clarity marks the wise.
+
+釋曰：此之三頌，如其次第配外、上、內。言於境無移念者，謂於餘境心無散亂，故名無移。相續者，堅守持心令不斷絕。言明人者，或因自思、或從他教，於靜慮法而起加行，是謂明人。應知如次是隨法行及隨信行種性。言厭離心寂靜專意無移念者，謂於其境生厭離心。前唯觀境未能生厭，今時專注心生厭離而不散動。於前境凝住者，謂於意言所現之境，緣此境時其心凝定，故云定意無移念相續是明人。頌曰：
+Commentary: These three verses correspond in sequence to the external, superior, and internal objects of focus. Saying "with no wavering thoughts towards objects" means the mind is not scattered among other objects, hence it is called unwavering. "Continuous" refers to firmly maintaining the mind without interruption. The term "the wise" refers to those who either through self-reflection or through learning from others, engage in further practices of meditation, thereby being called the wise. It should be understood that accordingly, this follows the nature of practices according to the Dharma and faith. Saying "the mind is tranquil and disenchanted, with focused intention and no wavering thoughts" means developing a disenchanted mind towards the object. Previously, merely observing the object did not engender disenchantment, but now, focusing the mind generates detachment without distraction. "Firmly fixed upon the prior object" means that, regarding the object manifested by the mind's intentions, the mind becomes firmly concentrated on this object at the time of focusing, hence it is said to have resolute intention and no wavering thoughts, continuous clarity marks the wise. The verse says:
+
+堅執及正流，　　并覆審其意，
+轉得心歡喜，　　對治品生時，
+惑生能息除，　　加行常無間，
+能行任運道，　　不散九應知。
+Firmly grasping and rightly flowing,
+Carefully examining one's intentions,
+Joy in the heart arises upon transformation,
+When the antidotal qualities emerge,
+Confusions can be ceased and eliminated,
+Diligent practice remains unceasing,
+Capable of walking the path effortlessly,
+Nine points to know in maintaining focus.
+
+釋曰：於彼住中差別有九，謂最初住、正念住、覆審住、後別住、調柔住、寂靜住、降伏住、功用住、任運住。
+Commentary: Within that state of abidance, there are nine distinctions, namely the initial abidance, the abidance of mindfulness, the abidance of careful examination, the subsequent abidance, the abidance of adjustment, the abidance of tranquility, the abidance of subjugation, the abidance of function, and the effortless abidance.
+
+此等並依阿笈摩經，隨句次第而為修習。若於最初學緣境時，其心堅執名最初住。次於後時令其正念流注不斷，名正念住。若依託此有亂心生，更覆審察緣境而住，名為覆審住。次於後時轉得差別，名後別住。次於後時對治生起，心得自在生歡喜時，名調柔住。於此喜愛，以無愛心對治生時，無所愛樂其心安靜，名寂靜住。次於後時所有已生未生重障煩惱為降伏故，名降伏住。次於後時以加行心於所緣境無間隨轉一緣而住，名為功用住。次於後時於所緣境心無加行任運隨流無間入定緣串習道，名任運住。此之九種心不流散，名之為住。應知以此不散之言，與堅執等皆相配屬。頌曰：
+These practices are based on the Ajitaśatru-kaukṛtya-vinodanā Sūtra, following the sequence of sentences for cultivation. When initially learning to focus on an object, the mind's firm adherence is called the initial abidance. Subsequently, allowing mindfulness to flow uninterruptedly is known as the abidance of mindfulness. If reliant on this, a disturbed mind arises, further examination and scrutiny of the focused object is called the abidance of careful examination. Following this, when differentiation occurs, it is known as the subsequent abidance. Afterward, when antidotes arise and the heart gains freedom and joy, it is called the abidance of adjustment. In this joy, when an antidote of dispassion arises and the mind becomes tranquil without attachment, it is known as the abidance of tranquility. Subsequently, for the subjugation of existing and future significant afflictions, it is called the abidance of subjugation. Following this, when the mind engages in diligent practice on the focused object continuously and turns solely towards one object, it is called the abidance of function. Afterward, when the mind effortlessly flows with the focused object, entering concentration seamlessly in the path of cultivation, it is known as the effortless abidance. These nine types of unwavering mind are called abidances. It should be understood that the term "unwavering," along with firm adherence and others, are all interconnected. The verse says:
+
+勵力并有隙，　　有用及無用，
+此中一六二，　　四作意應知。
+謂外內邪緣，　　麁重并作意，
+此亂心有五，　　與定者相違。
+於彼住心緣，　　不靜外散亂，
+掉沈心味著，　　內散亂應知。
+應識邪緣相，　　謂思親族等，
+生二種我執，　　是名麁重亂。
+見前境分明，　　分別觀其相，
+是作意散亂，　　異斯唯念心。
+於作意亂中，　　復有其亂相，
+於乘及靜慮，　　初二應除遣。
+Striving forcefully or with laxity, useful and useless,
+Among these, one sixty-two, four intentions should be recognized.
+Referring to external, internal, improper objects of focus, coarse and heavy contemplation,
+These five kinds of turmoil oppose concentration.
+In such states of abidance, the mind focusing on objects is restless, scattered externally,
+Dropping into torpor, clinging to sensations, internal turmoil should be recognized.
+Recognize the aspects of improper focus, such as pondering over relatives, etc.,
+Giving rise to two types of ego-attachment, this is called coarse turmoil.
+Seeing objects clearly before one, distinguishing and contemplating their characteristics,
+This is intention-induced distraction, unlike mere mindful awareness.
+Within the turmoil of intention, there are further characteristics of turmoil,
+In meditation and tranquility practices, the first two should be discarded.
+
+釋曰：應知作意有其四種，一勵力荷負作意、二有間荷負作意、三有功用荷負作意、四無功用荷負作意。此中堅執不散，是勵力荷負作意，初用功力而荷負故。次正流等六種不散，是有間荷負作意，中間數有亂心起故。無間加行，是有功用行荷負作意。入串習道，是無功用行荷負作意。如是攝已謂一六二，應知即是四種作意。又心散亂有其五種：一外心散亂、二內心散亂、三邪緣心散亂、四麁重心散亂、五作意心散亂。外心散亂者，於住心境起緣之時，遂緣餘事心流散故。內心散亂者，謂掉舉等三於所緣境中間亂起故。邪緣散亂者，於修定時諸有尋求親識等事而生顧戀。麁重心散亂者，有二我執令其心亂。於修定時有此二事，謂益及損。若身安隱名之為益，身體羸弱即是其損。或云我今得樂，或云我今有苦。或云是我之樂，或云是我之苦。此中我者，是執取義。言作意心散亂者，有其三種。於所緣相分明而住，是思察性。或從此乘更趣餘乘，或從此定更趣餘定，謂極分別思察定時，遂使心亂，名心散亂。異斯唯念心者，此能對治初作意散亂。由不分別而緣於境，但有念心，此明成就心不忘念。此三散亂，初二應捨，第三由是從定趣定，希勝上故亦非是過。頌曰：
+Commentary: It should be known that there are four types of intention: 1) Striving forcefully to bear the load, 2) Bearing the load with gaps, 3) Bearing the load with usefulness, and 4) Bearing the load without usefulness. Among these, firmly grasping without distraction is the striving forcefully to bear the load, initially applying effort to bear it. The flowing properly and six other types of non-distraction are bearing the load with gaps, due to the occasional arising of a disturbed mind in the middle. Continuous diligent practice is bearing the load with usefulness. Entering the path of cultivation is bearing the load without usefulness. Thus summarized, it's known as one-sixty-two, which are the four types of intention. Moreover, there are five types of mental distraction: 1) External mental distraction, 2) Internal mental distraction, 3) Improper focus mental distraction, 4) Coarse-heavy mental distraction, 5) Intentional mental distraction. External mental distraction occurs when, at the time of focusing, the mind wanders to other things. Internal mental distraction refers to the turmoil arising amidst the focus due to factors like torpor. Improper focus distraction happens when, during concentration practice, attachment arises from seeking after friends and acquaintances. Coarse-heavy mental distraction is caused by two types of self-attachment that disturb the mind. During concentration practice, these two issues arise, termed as benefit and harm. Comfort and ease are considered benefits, while physical weakness is harm. It might be thought, "I now feel pleasure," or "I now feel pain," assigning these sensations to one's self. In these, 'self' implies attachment. Regarding intentional mental distraction, there are three types: dwelling clearly on the characteristics of the focus, which is reflective in nature. Or moving from this vehicle to another, or from this state of concentration to another, which means intensely distinguishing and contemplating during concentration, thereby disturbing the mind, known as mental distraction. Unlike this, mere mindfulness can counteract the initial intentional distraction. By not differentiating and focusing on the object, just being mindful, this accomplishes the mind not forgetting. Among these three distractions, the first two should be abandoned; the third, due to moving from concentration to a superior concentration, is also not a fault for seeking higher states. The verse says:
+
+
+住戒戒清淨，　　是資糧住處，
+善護諸根等，　　四淨因應知。
+正行於境界，　　與所依相扶，
+於善事勤修，　　能除諸過失。
+最初得作意，　　次得世間淨，
+更增出世住，　　三定招三界。
+Maintaining pure precepts is the foundation for abidance,
+Safeguarding the senses and others, four purities should be known.
+Acting correctly in all domains, supporting what one relies upon,
+Diligently cultivating virtuous deeds, able to eliminate all faults.
+Initially achieving intentional focus, subsequently attaining worldly purity,
+Further enhancing transcendental abidance, three concentrations invite the three realms.
+
+釋曰：住資糧者，謂戒即是無邊功德所依止處，必先住戒，戒行清淨無有缺犯。若求戒淨，有四種因：一善護諸根、二飲食知量、三初夜後夜能自警覺與定相應，四於四威儀中正念而住。何故善護諸根等令戒清淨？由正行於境與所依相扶，善事勤修能除於過。初因即是於所行境行清淨故。二於所依身共相扶順，於受飲食離多少故。三於善事發起精勤故。四能除過失，進止威儀善用心故。由此四因，戒得清淨。如是應知，由三種定得三出離。緣外境時得作意住，緣上境時得世清淨，緣內心時得出世淨。住者即是永得出離，必趣涅槃更不退轉。已釋於住勤修習。頌曰：
+Commentary: The foundation of sustenance refers to the precepts, which are the basis for immeasurable merits and virtues, requiring initially the observance of precepts, with the conduct of the precepts being pure and without violation. If one seeks the purity of precepts, there are four causal factors: 1) Guarding the senses well, 2) Knowing the measure in eating and drinking, 3) Being self-aware during the early and late parts of the night, in harmony with concentration, 4) Remaining mindfully in the four postures. Why do guarding the senses and others lead to purity of the precepts? Because acting correctly towards objects and supporting what one relies upon, diligently cultivating good deeds can eliminate faults. The first cause is thus acting purely in the domain of conduct. The second is supporting the body in unison, in taking food and drink without excess or deficit. The third is the initiation of diligence in good deeds. The fourth is the elimination of faults, advancing and stopping with propriety and mindfulness. Through these four causes, the precepts are purified. Thus, it should be known that three types of concentrations lead to three liberations. By focusing on external objects, one achieves intentional abidance; by focusing on superior objects, one achieves worldly purity; by focusing inwardly, one achieves transcendental purity. Abidance here refers to the perpetual achievement of liberation, inevitably leading towards Nirvana without regression. This explains the cultivation of diligent practices in abidance. The verse says:
+
+多聞及見諦，　　善說有慈悲，
+常生歡喜心，　　此人堪教定。
+盡其所有事，　　如所有而說，
+善解所知境，　　斯名善教人。
+由聞生意言，　　說為寂滅因，
+名寂因作意，　　是謂善圓滿。
+Extensive learning and seeing the truth,
+Skilled in speaking with kindness and compassion,
+Always harboring a joyful heart,
+Such a person is fit to teach concentration.
+Completing all their tasks,
+Speaking as they truly know,
+Well understanding the objects of knowledge,
+This is called a good teacher.
+From hearing arises thoughtful speech,
+Speaking as a cause for tranquility and cessation,
+Naming this tranquil cause of intention,
+This is called perfect goodness.
+
+釋曰：圓滿有三，一師資圓滿、二所緣圓滿、三作意圓滿。此中初頌說師資圓滿，意顯其人善教圓滿、證悟圓滿、善語圓滿、無染心圓滿、相續說法加行圓滿。此顯教授師眾德圓滿，由此師故得聞正法有所證悟。次明所緣圓滿說第二頌，盡所有事如事而說，善所知境名為善說。此明師資能說諸事窮盡無悋，故名所緣圓滿。次明作意圓滿說第三頌，此顯以聞為因，所起意言能與聖道涅槃為正因故，緣此意言所有作意皆得圓滿。此中因言顯聞，即是意言之因。言寂滅者，即是涅槃及以道諦，自體寂滅及能趣滅故。總言之寂因作意者，明此作意緣寂滅因。何謂所緣？了法無性，如是緣時即是其因，亦是寂滅，故此作意名為寂因，是一體釋。又緣此作意亦名寂因，此別句釋。頌曰(准如是釋應云寂因作意，舊云如理作意者，非正翻也)：
+Commentary: Perfection involves three aspects: 1) perfection of the teacher's qualities, 2) perfection of the object of focus, and 3) perfection of intention. The first verse speaks of the perfection of the teacher's qualities, indicating that the person is fully accomplished in teaching, realization, eloquent speech, a mind free from contamination, and the perfection of continuously teaching the Dharma through practice. This showcases the complete virtues of teaching, through which the correct Dharma is heard and realized. The second verse clarifies the perfection of the object of focus, speaking completely about all matters as they are, understanding the objects of knowledge well is deemed skillful speech. This shows that the teacher can speak exhaustively on all matters without stinginess, hence it is called the perfection of the object of focus. The third verse discusses the perfection of intention, highlighting that hearing acts as a cause, and the thoughts that arise from it serve as the direct cause for the holy path and Nirvana, making all intentions based on these thoughts perfectly complete. Here, the cause mentioned reveals that hearing is the cause for thought. The term "cessation" refers to Nirvana and the truth of the path, the self-nature of cessation, and the capacity for achieving cessation. Generally speaking, the intentional focus on cessation indicates that this intention is based on the cause of cessation. What is the object of focus? Understanding the naturelessness of phenomena, such focus is the cause, also described as cessation, hence this intention is named the cause of cessation, forming a unified explanation. Additionally, the intention itself is also called the cause of cessation, providing a distinct explanation. The verse states (following this explanation, it should be said "intention focusing on cessation," the previous translation "intention according to reason" is not an accurate translation):
+
+謂尋求意言，　　此後應細察，
+意言無即定。　　靜慮相有三，
+無異緣無相，　　心緣字而住，
+此是心寂處，　　說名奢摩他。
+觀彼種種境，　　名毘鉢舍那，
+復是一瑜伽，　　名一二分定。
+麁重障見障，　　應知二種定，
+能為此對治，　　作長善方便。
+Referring to the pursuit of thoughts, thereafter one should discern carefully,
+When thoughts cease, there is concentration. The aspects of meditation have three,
+Without differentiating objects, without forming images, the mind focuses on a word and abides,
+This is the place of mental tranquility, termed Shamatha.
+Observing various objects, is called Vipashyana,
+Furthermore, this is a single Yoga, known as the Twelve-part Concentration.
+Coarse and obstructive views, recognize these two kinds of concentration,
+Serving as antidotes for these, acting as superior skillful means for growth.
+
+釋曰：次明有依諸修定者必有依託，謂依三定說尋求等。言尋求者，顯是有尋。既言有尋，准知有伺。言細察者，顯無尋唯伺。意言無者，欲顯無尋無伺。尋伺皆以意言為性，此據奢摩他法明其定義。說無異緣等，此明無差異義。但緣其字而心得住，名無異緣，亦名無相，但緣其字於觀義相所有作意非彼相故。此住名奢摩他，奢摩是寂止義，他是處義。非獨奢摩得盡於事。謂據其心寂止之處，心得凝住依止於定，此定即是凝心住處，故名奢摩他，異此便無。次據毘鉢舍那法明其定義說次一頌，謂依多境名為眾觀。所言彼者，謂與彼二俱相屬著，即奢摩他及所緣字。是依奢摩他得毘鉢舍那，依於字處所有諸義起諸觀故。於寂止處所有眾義依仗於字，謂緣眾義而起觀察名為眾觀。名一二分定者，或時但有寂處而無眾觀，或有眾觀而非寂處，或時俱有，應知即是止觀雙運。又奢摩他、毘鉢舍那有二種障，謂麁重障及見障，應知二定是此對治，如次應配。何故此二名長善方便？能長善法之方便故。云何令方便法得善清淨耶？頌曰：
+Commentary: Next, it is clarified that those who practice concentration must rely on something, referring to the three concentrations discussed in terms of searching, etc. The term "searching" signifies active seeking. Once "searching" is mentioned, it is to be understood that "watching" is also present. "Discerning carefully" indicates the absence of seeking but just watching. The phrase "when thoughts cease" aims to show the absence of both searching and watching. Both searching and watching by their nature involve thoughts; this is explained by the method of Shamatha to define its meaning. Speaking of "without differentiating objects," this clarifies the meaning of no differentiation. Merely focusing on a word and achieving mental abidance is called "without differentiating objects," also known as "without forming images," because the focus on the word does not involve contemplating the meaning or images associated with that word. This state of abidance is called Shamatha, where "Shamatha" means tranquility, and "tha" means place. It's not that tranquility alone fully encompasses the matter. It means according to the place of mental tranquility, the mind becomes concentrated and relies on concentration; this concentration is precisely the place of mental concentration, thus it is named Shamatha, and there is no difference from this. Next, based on the method of Vipashyana, its definition is clarified in the following verse, indicating relying on various objects as diverse contemplation. "That" refers to being attached together with those two, both Shamatha and the focused word. It is by relying on Shamatha that one achieves Vipashyana, due to contemplating various meanings based on the word. In the place of tranquility, all diverse meanings rely on the word, meaning contemplating various meanings is known as diverse contemplation. Being called the Twelve-part Concentration, there are times when there's only tranquility without diverse contemplation, times with diverse contemplation but not tranquility, and times when both are present, which should be understood as the dual practice of tranquility and insight. Furthermore, Shamatha and Vipashyana have two kinds of obstacles, namely the coarse obstacle and the obstacle of views. It should be known that these two concentrations act as antidotes for these, and they should be appropriately matched. Why are these two called superior skillful means? Because they extend the methods of the Dharma skillfully. How do skillful means make the Dharma pure and clear? The verse says:
+
+此清淨應知，　　謂修三種相，
+寂止策舉捨，　　隨次第應知。
+若心沈恐沒，　　於妙事起緣；
+若掉恐舉生，　　厭背令除滅。
+遠離於沈掉，　　其心住於捨，
+無功任運流，　　恒修三種相。
+定者修三相，　　不獨偏修一，
+為遮沈等失，　　復為淨其心。
+This purity should be known as the cultivation of three aspects: tranquility, invigoration, and relinquishment, to be understood in sequence.
+If the mind is sinking and fears submersion, arouse it with fascinating objects;
+If it is agitated and fears rising, dispel it with weariness.
+Far removed from sinking and agitation, let the mind dwell in relinquishment,
+Effortlessly flowing, always cultivate these three aspects.
+One in concentration cultivates these three aspects, not solely focusing on one,
+To prevent losses like sinking, and also to purify the mind.
+
+釋曰：為答前問，求淨定者修三種相。云何為三？謂止、舉、捨。復云何修？隨次第應知。隨其惑障生起之時，應次修習。在於何時？復修何相？且辯策舉相。若心沈恐沒定者修三相，如下當知。若心沈沒可修策舉相。何者是耶？於妙事起緣令心喜為相。又寂止相者，若心掉舉、或恐掉舉應修寂處。此云何？修厭背，令除滅。於所緣境極生厭惡，於自內心令過止息。捨相者，謂離沈掉。於何心中？謂心住捨。此捨相者，即是無功任運流恒修三種相。如是次第修三相時，諸習定者得清淨相。又奢摩他等即是定者，於此三相不獨修一。何以故？為遮沈等失。復為淨其心，若但修止內心沈沒，既沈沒時便應策舉。若因策舉心掉散者，觀不淨境令生厭離。於此捨相正修習時，名為正定能盡有漏，由此遂令心極清淨。應知此中皆是隨順正經文句，如理應思。頌曰：
+In response to the previous question, those seeking purified concentration should cultivate three aspects. What are the three? Namely, tranquility, invigoration, and relinquishment. How should they be cultivated? They should be understood in sequence. According to the arising of obstacles of confusion, one should practice accordingly. When and what aspect to cultivate? First, differentiate the aspect of invigoration. If the mind is sinking and fears submersion, then cultivate these three aspects, as will be explained. If the mind is sinking, one may cultivate the aspect of invigoration. What is it? Arouse the mind with joy by focusing on fascinating objects. Additionally, for the aspect of tranquility, if the mind is agitated or fears becoming agitated, one should cultivate tranquility. How is this achieved? By cultivating aversion to dispel it. Generate extreme aversion towards the object of focus, causing internal disturbances to cease. The aspect of relinquishment means being free from sinking and agitation. In which state of mind? That is, the mind dwells in relinquishment. This aspect of relinquishment is, indeed, effortlessly flowing, constantly cultivating the three aspects. When these three aspects are cultivated in sequence, those practicing concentration achieve a purified state. Moreover, Shamatha, etc., are instances of concentration where one does not only cultivate one aspect. Why? To prevent losses like sinking and to purify the mind. If one solely cultivates tranquility and the internal mind sinks, then it's time to invigorate when sinking occurs. If because of invigoration the mind becomes agitated, one should observe impure states to generate aversion. When correctly practicing the aspect of relinquishment, it is called proper concentration that exhausts all defilements, thereby making the mind extremely pure. It should be known that this is all in accordance with the proper scriptures and should be contemplated logically. The verse says:
+
+出離并愛樂，　　正住有堪能，
+此障惑皆除，　　定者心清淨。
+Renunciation and joy, with rightful abiding comes competence,
+All obstacles and confusions thus removed, the concentrator's mind becomes pure.
+
+釋曰：此明清淨之益，依《去塵經》說。佛告諸苾芻：「若人欲求內心淨，時有惑障現前不能除滅。欲斷除者，先於不善業道勿造大過，息罪惡見而求出家希求出離。若處中煩惱欲瞋害意，起惡尋思障勝愛樂，能除此障說愛樂言。若有微細眷屬尋思、世間尋思、不死尋思障其正住，對治此故說正住言。若有功用方入定者，此定即非堪任之性。若能除此，顯有堪任能除於惑，說堪能言。」此顯淨定之人得四種勝益。云何修定人果？頌曰：
+This explains the benefits of purity, in accordance with the "Chu Chen Sutra" (Removing Dust Sutra). The Buddha told the Bhikshus: "If someone wishes to purify their inner mind, at times, obstacles of confusion appear in front of them and cannot be removed. To eradicate them, one must first not commit severe misdeeds within the path of unwholesome actions, extinguish sinful views and seek to leave the household life with the hope of renunciation. If there arise disturbances of desire, anger, malice, and the obscurations of evil thoughts surpassing joy, to remove these obscurations, speak of joy. If there are subtle obsessions with family, worldly thoughts, thoughts of immortality that obstruct their proper abidance, to counteract this, speak of rightful abidance. If there are activities that impede entering concentration, this concentration is not of a nature capable of endurance. If one can remove this, revealing a capacity to remove confusion, speak of competence." This shows that the pure concentrator obtains four supreme benefits. What are the fruits for the one practicing concentration? The verse says:
+
+於此定門中，　　所說正修習，
+俗定皆明了，　　亦知出世定。
+Within this gateway of concentration, the prescribed correct practice is clear,
+Both worldly concentration is fully understood, and so is transcendent concentration.
+
+此頌意顯修習奢摩他、毘鉢舍那者獲現果故。若人能依所說定相修習之時，得諸世間勝果圓滿及出世果，如前已說。
+The intent of this verse is to highlight that those who practice Shamatha and Vipashyana attain immediate results. When individuals practice according to the described aspects of concentration, they achieve both the supreme worldly fruits and the transcendent fruits, as previously explained.
+
+問曰：如上所說欲明何事？答曰：
+Question: What is the purpose of the explanations given above?
+Answer:
+
+顯意樂依處，　　本依及正依，
+世間定圓滿，　　并了於出世。
+The purpose is to reveal the place of joyful intention,
+the fundamental reliance and the correct reliance,
+to complete worldly concentration,
+and to understand transcendental states.
+
+釋曰：略說義周，為會前事故說斯頌。如最初云：求脫者為顯意樂圓滿，積集者依處圓滿。此明有心修定，必須依託積集資糧故。於住勤修習者，顯本依圓滿。如經中說：佛告諸苾芻：「汝等先當依定能盡有漏，是我所說。若欲求出生死海者，離於正定無別方便。」得三圓滿者，顯正依圓滿，明師資承稟決定可依。有依修定人者，此顯修習圓滿。諸有智者如前所說，遠離放逸正修行時，世間諸定悉皆圓滿，及出世間咸能證悟，顯得果圓滿。
+The commentary succinctly encapsulates the essence, aiming to integrate previous discussions through this verse. As initially stated, the quest for liberation is to manifest the fulfillment of joyful intention, and the accumulators depend on fulfillment. This clarifies that the practice of concentration must rely on the accumulation of meritorious bases. For those diligently practicing abidance, it reveals the fulfillment of the fundamental reliance. As the scriptures say, the Buddha told the Bhikshus: "You should first rely on concentration to exhaust defilements, as I have taught. If you wish to escape the cycle of birth and death, there is no alternative method apart from the right concentration." Those who achieve the three fulfillments demonstrate the completion of the correct reliance, showing that the teacher's lineage and teachings are decisively reliable. For individuals practicing concentration with reliance, this showcases the completion of their practice. As wise individuals have stated previously, when properly practicing away from recklessness, all worldly concentrations are fully realized, and transcendental enlightenment is attainable, manifesting the completion of fruition.
+
+六門教授習定論一卷
+"Practice of Concentration through Six Methods: A Treatise in One Volume"
