@@ -42,14 +42,14 @@ How are realms (dhātus) provisionally established?
 It is specifically said:
 
 數、處、量、壽、受用、生、　　自體、因緣果分別。
-Enumeration, location, measure, lifecycle, enjoyment, birth, inherent nature, cause, condition, result and differentiation (vikalpa).
+Enumeration, location, measure, lifespan, enjoyment, birth, inherent nature, cause, condition, result and differentiation (vikalpa).
 
 當知界建立由八種相。一、數建立，二、處建立，三、有情量建立，四、有情壽建立，五、有情受用建立，六、生建立，七、自體建立，八、因緣果建立。
 It should be understood that the establishment through defining realms is based on eight characteristics:
 1) Establishment through enumeration,
 2) Establishment through location,
 3) Establishment through the measure of sentient beings,
-4) Establishment through the lifecycle of sentient beings,
+4) Establishment through the lifespan of sentient beings,
 5) Establishment through the enjoyment of sentient beings,
 6) Establishment through birth,
 7) Establishment through inherent nature,
@@ -83,18 +83,135 @@ For those who have departed from seeking (vitarka) and reflecting (vicāra) desi
 When the "realm without outflows" is conditioned by the first absorption (dhyāna), it is called the ground with seeking (vitarka) and reflecting (vicāra). Dependent upon the objects of seeking (vitarka) and reflecting (vicāra), such as the principle of suchness (tathatā), one enters this absorption (dhyāna).
 
 餘如前說。
+The rest are the same.
 
 處所建立者，於欲界中有三十六處。謂八大那落迦。
+In the establishment through location, within the realm of desire (kāmadhātu), there are thirty-six locations. These include the eight great hells.
 
 何等為八？一、等活，二、黑繩，三、眾合，四、號叫，五、大號叫，六、燒熱，七、極燒熱，八、無間。此諸大那落迦處，廣十千踰繕那。此外復有八寒那落迦處。何等為八？一、皰那落迦，二、皰裂那落迦，三、𠿒哳詀那落迦，四、郝郝凡那落迦，五、虎虎凡那落迦，六、青蓮那落迦，七、紅蓮那落迦，八、大紅蓮那落迦。從此下三萬二千踰繕那，至等活那落迦。從此復隔四千踰繕那，有餘那落迦。如等活大那落迦處，初寒那落迦處亦爾。從此復隔二千踰繕那，有餘那落迦應知。又有餓鬼處所。又有非天處所。傍生即與人天同處，故不別建立。復有四大洲，如前說。復有八中洲。又欲界天有六處。一、四大王眾天，二、三十三天，三、時分天，四、知足天，五、樂化天，六、他化自在天。復有摩羅天宮，即他化自在天攝，然處所高勝。復有獨一那落迦、近邊那落迦，即大那落迦及寒那落迦。以近邊故，不別立處。又於人中，亦有一分獨一那落迦可得。如尊者取菉豆子說：我見諸有情，燒然、極燒然、遍極燒然，總一燒然聚。如是等三十六處，總名欲界。
+What are the eight?
+
+1) Saṃjīva,
+2) Kālasūtra,
+3) Saṃghāta,
+4) Raurava,
+5) Mahāraurava,
+6) Tapana,
+7) Pratāpana, and
+8) Avīci.
+
+These places in the great hells extend across ten thousand yojanas.
+
+Beyond these, there are also eight cold hells. What are the eight?
+
+1) Arbuda,
+2) Nirarbuda,
+3) Aṭaṭa,
+4) Hahava,
+5) Huhuva,
+6) Utpala,
+7) Padma, and
+8) Mahāpadma.
+
+From these down thirty-two thousand yojanas, to the Saṃjīva hell. Four thousand yojanas below these, there are other hells. As with the place of the great Saṃjīva hell, the first of the cold hells is similar. Two thousand yojanas beyond these, other hells are to be understood.
+
+There are also the places of the hungry ghosts. There are also the places of the asuras. As births among these are alongside humans and gods, they are not established separately.
+
+There are also the four great continents, as previously mentioned.
+
+There are also the eight intermediary continents.
+
+In the desire realm, there are six heavenly places:
+
+1) Cāturmahārājika heaven,
+2) Trāyastriṃśa heaven,
+3) Yāma heaven,
+4) Tuṣita heaven,
+5) Nirmāṇarati heaven,
+6) Paranirmitavaśavartin heaven.
+
+There is also the Māra's palace, which is included in the Paranirmitavaśavartin heaven, yet distinguished by its superior location.
+
+There are also the solitary hells and neighboring hells, which include the great hells and cold hells. Due to their proximity, they are not established as separate places.
+
+Among humans, there is also a part that can be attained as the solitary hell. As the venerable said regarding the Udumbara flower: "I see all sentient beings, burning, severely burning, universally severely burning, totally in a single burning assembly." Thus, these thirty-six places are collectively named the desire realm.
 
 復次，色界有十八處。謂梵眾天、梵前益天、大梵天，此三由軟中上品熏修初靜慮故。少光天、無量光天、極淨光天，此三由軟中上品熏修第二靜慮故。少淨天、無量淨天、遍淨天，此三由軟中上品熏修第三靜慮故。無雲天、福生天、廣果天，此三由軟中上品熏修第四靜慮故。無想天即廣果攝，無別處所。復有諸聖，住止不共五淨宮地。謂無煩、無熱、善現、善見及色究竟。由軟、中、上、上勝、上極品雜熏修第四靜慮故。復有超過淨宮大自在住處。有十地菩薩，由極熏修第十地故，得生其中。
+Furthermore, the form realm (Rūpadhātu) consists of eighteen locations. These include:
+
+1) Brahmakāyika heaven,
+2) Brahmakāya heaven,
+3) Mahābrahma heaven,
+These three are due to the cultivation of the first absorption (dhyāna) in its inferior, middling, and superior aspects.
+
+4) Parittābha heaven,
+5) Apramāṇābha heaven,
+6) Ābhāsvara heaven,
+These three are due to the cultivation of the second absorption in its inferior, middling, and superior aspects.
+
+7) Parīttaśubha heaven,
+8) Apramāṇaśubha heaven,
+9) Śubhakṛtsna heaven,
+These three are due to the cultivation of the third absorption in its inferior, middling, and superior aspects.
+
+10) Anabhraka heaven,
+11) Śubhaprāpti heaven,
+12) Bṛhatphala heaven,
+These three are due to the cultivation of the fourth absorption in its inferior, middling, and superior aspects.
+
+The realm of no-thought (Asaññasatta) is included within the Bṛhatphala heaven, having no separate location.
+
+Furthermore, there are the sacred realms, the unwavering abodes of purification, which include:
+
+1) Avṛha,
+2) Atapa,
+3) Sudṛśa,
+4) Sudarśana,
+5) Akaniṣṭha,
+
+Due to the mixed cultivation of the fourth absorption in its inferior, middling, superior, more superior, and most superior aspects.
+
+Additionally, there exists a dwelling place of supreme independence beyond the pure abodes, where Bodhisattvas of the tenth ground are born by virtue of their profound cultivation of the tenth ground, achieving birth therein.
 
 復次，無色界有四處所，或無處所。
+Furthermore, the formless realm (Ārūpyadhātu) consists of four locations, or rather, it is without locations.
 
 有情量建立者，謂贍部洲人身量不定，或時高大，或時卑小，然隨自肘三肘半量。東毘提訶身量決定，亦隨自肘三肘半量，身又高大。如東毘提訶如是，西瞿陀尼、北拘盧洲身量亦爾，轉復高大。四大王眾天身量如拘盧舍四分之一。三十三天身量復增一足。帝釋身量半拘盧舍。時分天身量亦半拘盧舍。此上一切，如欲界天身量，當知漸漸各增一足。梵眾天身量半踰繕那。梵前益天身量一踰繕那。大梵天身量一踰繕那半。少光天身量二踰繕那。此上一切餘天身量各漸倍增。除無雲天。應知彼天減三踰繕那。又大那落迦身量不定。若作及增長極重惡不善業者，彼感身形其量廣大；餘則不爾。如大那落迦如是，寒那落迦、獨一那落迦、近邊那落迦、傍生、餓鬼亦爾。諸非天身量大小，如三十三天。當知無色界無有色故，無有身量。
+In the establishment through the measure of sentient beings:
+
+- The height of humans in Jambudvīpa varies; sometimes they are tall and sometimes they are short, but generally around three and a half elbows tall according to their own measure.
+- In the eastern continent of Pūrvavideha, the height of beings is fixed, also at three and a half elbow lengths, but their bodies are larger. As in Pūrvavideha, so too the heights of beings in the western continent of Aparagodānīya and the northern continent of Uttarakuru; their stature progressively increases.
+- The height of beings in the realm of the Four Great Kings is one quarter that of those in Uttarakuru.
+- In the realm of the Thirty-Three Gods, the height increases by one foot.
+- The height of Indra (Śakra) is half that of Uttarakuru.
+- The height in the realm of the Yāma devas is also half that of Uttarakuru.
+- Above this, all the way to the desire realm heavens, the height of beings gradually increases by one foot for each successive realm.
+- In the Brahmakāyika heaven, the height is half a yojana.
+- In the realm of Brahma's Retinue, the height is one yojana.
+- In the Great Brahma realm, the height is one and a half yojanas.
+- In the Minor Luminosity realm, the height is two yojanas, and for all higher realms above this, the height of beings doubles progressively, except in the realm without clouds, where it is understood that the height decreases by three yojanas.
+- The height of beings in the great hells is not fixed. Those who perform extremely heavy negative actions causing them to be reborn there have a very large physical form; this is not the case for others. As with the great hells, so too for the cold hells, the solitary hells, the neighboring hells, beings born in parallel existences, and hungry ghosts.
+- The size of asuras is similar to that of the beings in the realm of the Thirty-Three Gods.
+- It should be understood that in the formless realm, there is no corporeal form, and thus no measurement of physical bodies exists.
 
 壽建立者，謂贍部洲人壽量不定。彼人以三十日夜為一月，十二月為一歲。或於一時壽無量歲，或於一時壽八萬歲，或於一時壽量漸減乃至十歲。東毘提訶人壽量決定二百五十歲。西瞿陀尼人壽量決定五百歲。北拘盧洲人壽量決定千歲。又人間五十歲是四大王眾天一日一夜。以此日夜，三十日夜為一月，十二月為一歲。彼諸天眾壽量五百歲。人間百歲是三十三天一日一夜。以此日夜如前說，彼諸天眾壽量千歲。如是所餘，乃至他化自在天，日夜及壽量各增前一倍。又四大王眾天滿足壽量是等活大那落迦一日一夜。即以此三十日夜為一月，十二月為一歲。彼大那落迦壽五百歲。以四大王眾天壽量成等活大那落迦壽量，如是以三十三天壽量成黑繩大那落迦壽量，以時分天壽量成眾合大那落迦壽量，以知足天壽量成號叫大那落迦壽量，以樂化天壽量成大號叫大那落迦壽量，以他化自在天壽量成燒熱大那落迦壽量，應知亦爾。極燒熱大那落迦有情壽半中劫。無間大那落迦有情壽一中劫。非天壽量如三十三天。傍生、餓鬼壽量不定。又寒那落迦於大那落迦次第相望，壽量近半應知。又近邊那落迦、獨一那落迦受生有情壽量不定。梵眾天壽二十中劫一劫，梵前益天壽四十中劫一劫，大梵天壽六十中劫一劫，少光天壽八十中劫二劫。自此以上，餘色界天壽量相望，各漸倍增。唯除無雲。當知彼天壽減三劫。空無邊處壽二萬劫，識無邊處壽四萬劫，無所有處壽六萬劫，非想非非想處壽八萬劫。除北拘盧洲，餘一切處悉有中夭。又人、鬼、傍生趣有餘滓身；天及那落迦與識俱沒，無餘滓身。
+In terms of lifespan:
+
+- The lifespan of humans in Jambudvīpa is not fixed. They count thirty days and nights as one month, and twelve months as one year. At times, their lifespan is immeasurable, at other times eighty thousand years, and sometimes it progressively decreases to just ten years.
+- The lifespan of people in the continent of Pūrvavideha is fixed at two hundred and fifty years.
+- In the western continent of Aparagodānīya, the lifespan is fixed at five hundred years.
+- In the northern continent of Uttarakuru, the lifespan is fixed at one thousand years.
+- In the human realm, fifty years equal one day and one night in the realm of the Four Great Kings. Based on this day and night, thirty days and nights make one month, and twelve months make one year, with a total lifespan of five hundred years for these devas.
+- In the human realm, one hundred years equate to one day and one night in the realm of the Thirty-Three Gods. Following the same calculation as before, the total lifespan in this realm is one thousand years. From here onward, up to the Parinirmitavaśavartin heaven, the length of day and night and the lifespan double compared to the preceding realm.
+- The full lifespan in the realm of the Four Great Kings equals one day and one night in Saṃjīva hell, calculated as thirty days and nights making one month, and twelve months making one year, totaling five hundred years of lifespan in this hell.
+- The lifespan in the dark hells such as Kālasūtra, Saṃghāta, up to Avīci increases progressively, based on the lifespan quantifications of the heavenly realms mentioned earlier.
+- The lifespan of beings in Raurava is half a kalpa, while in Avīci, it is a full kalpa.
+- The lifespan in the asura realm is similar to that in the realm of the Thirty-Three Gods, while the lifespan of beings in parallel existences and hungry ghosts is not fixed.
+- In the cold hells, the lifespan is roughly half compared to the corresponding hot hells.
+- The lifespan of beings in solitary hells and neighboring hells is not fixed.
+- In the Brahmakāyika heaven, the lifespan is twenty medium kalpas; in the Brahmakāya heaven, it's forty medium kalpas; in the Great Brahma heaven, sixty medium kalpas; in the Minor Luminosity heaven, eighty medium kalpas and two kalpas. From here onward, life spans in the higher realms of the form realm double progressively, except for Anabhraka, where the lifespan decreases by three kalpas.
+- In the formless realm, the lifespan in Ākāśānantyāyatana is twenty thousand kalpas, in Vijñānānantyāyatana is forty thousand kalpas, in Ākiñcañyāyatana is sixty thousand kalpas, and in Naivaṣaṃjñānāsaṃjñāyatana is eighty thousand kalpas.
+- Except for Uttarakuru, all other locations experience untimely deaths. Additionally, humans, ghosts, and beings in parallel existences may have residual bodies; however, in the heavens and hells, beings perish along with their consciousness, leaving no residual form.
 
 受用建立者，略有三種。謂受用苦樂、受用飲食、受用婬欲。
 
