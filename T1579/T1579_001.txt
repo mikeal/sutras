@@ -6,6 +6,39 @@
 #【其他事項】本資料庫可自由免費流通，詳細內容請參閱【財團法人佛教電子佛典基金會資料庫版權宣告】
 #----------------------------------------------------------------------
 
+Tell me what division/section this is, any titles or sections, and briefly summarize this juan **only** of the chinese Yogacarabhumisastra, providing your answer in english noting translations. No need to summarize the treatise in general, just this juan.
+The excerpt provided is from the first volume of the Yogācārabhūmi Śāstra, a foundational text of the Yogācāra school of Mahayana Buddhism, which was translated into Chinese by the eminent scholar and translator Xuanzang (玄奘) in the Tang dynasty. The passage outlines the structure and contents of this volume and provides a brief overview of the teachings it contains, specifically focusing on the concept of the "bhūmis" or stages of spiritual development.
+
+**Division/Section:**
+The text is identified as part of the *Da Tang Da Zang Jing* (大正新脩大藏經) or the Great Tang Dynasty Buddhist Canon, a comprehensive collection of Buddhist scriptures. This particular treatise is cataloged under T1579, indicating its order within the collection.
+
+**Juan (Volume) Summary:**
+This **juan** (volume) discusses the foundational aspects of the Yogācāra path and elaborates on the "seventeen stages" or *bhūmis* that a practitioner might progress through on their journey towards enlightenment. These stages begin with the "five consciousnesses corresponding to the corporeal" and extend through various levels of meditative absorptions, cognitive processes, and spiritual attainments, culminating in the ultimate state of Buddhahood.
+
+The *bhūmis* outlined are as follows:
+1. Five consciousnesses corresponding to the corporeal
+2. Mano-bhūmi (mind ground)
+3. Vitarka-vicāra-sahita-bhūmi (first dhyana - investigation and analysis)
+4. Avitarka-vicāra-mātra-bhūmi (second dhyana - beyond investigation and analysis)
+5. Avitarka-avicāra-bhūmi (third dhyana - neither investigation nor analysis)
+6. Samādhi-bhūmi (meditative absorption)
+7. Asamādhi-bhūmi (non-meditative absorption)
+8. Citta-bhūmi (mind)
+9. Acitta-bhūmi (non-mind)
+10. Śruti-sampatti-bhūmi (accomplishment through hearing)
+11. Cintā-sampatti-bhūmi (accomplishment through thinking)
+12. Bhāvanā-sampatti-bhūmi (accomplishment through meditation)
+13. Śrāvaka-bhūmi (voice-hearer stage)
+14. Pratyekabuddha-bhūmi (solitary Buddha stage)
+15. Bodhisattva-bhūmi (bodhisattva stage)
+16. Āśrita-bhūmi (dependent stage)
+17. Anāśrita-bhūmi (independent stage)
+
+The treatise discusses the characteristics, functions, and processes associated with each stage, emphasizing the interconnectedness of mental phenomena, the development of wisdom, and the elimination of ignorance and afflictions. The text serves as a comprehensive guide for practitioners aiming to achieve the ultimate goal of Buddhahood through the systematic cultivation of insight and compassion.
+
+This volume, being just one part of a larger work, sets the stage for the detailed examination of Buddhist Yogācāra philosophy, including the nature of consciousness, the process of perception, and the path to liberation.
+
+
 No. 1579 [cf. Nos. 1580-1584]
 瑜伽師地論卷第一
 Yogācārabhūmi Śāstra, Volume One

@@ -6,6 +6,23 @@
 #【其他事項】本資料庫可自由免費流通，詳細內容請參閱【財團法人佛教電子佛典基金會資料庫版權宣告】
 #----------------------------------------------------------------------
 
+Tell me what division/section this is, any titles or sections, and briefly summarize this juan of the chinese Yogacarabhumisastra, providing your answer in english noting translations.
+The excerpt provided is from the **Yogācārabhūmi-śāstra (瑜伽師地論)**, particularly from **Volume 77**, as attributed to Maitreya and translated into Chinese by the eminent third-century Buddhist monk Xuanzang (三藏法師玄奘). This text represents a comprehensive work on the stages (bhūmis) of the path according to the Yogācāra school of Mahayana Buddhism.
+
+**Section Title and Summary:**
+
+**Title**: "攝決擇分中菩薩地之六" (In the section on 'Decisive Analysis within the Bodhisattva Stages')
+
+**Summary**:
+
+This portion of the *Yogācārabhūmi-śāstra* discusses advanced meditation practices (Samatha and Vipassanā), the types of objects or phenomena meditators focus on, and how these practices support the Bodhisattva's path towards enlightenment. It's an exposition on achieving a balanced state of mind through focusing on different aspects of meditation: discriminating and non-discriminating mental images, the boundaries of phenomena, and the process or actions related to phenomena.
+
+The discourse clarifies the nuanced approach Bodhisattvas must take in cultivating śamatha (calm abiding) and vipaśyanā (insight) through an intrinsic understanding of phenomena, utilizing the framework of scriptural categories as objects of contemplation to refine focus, insight, and ultimately, wisdom. Specific topics include the nature of objects meditated upon in śamatha and vipaśyanā, the pursuit of these practices within the Mahayana context relying on the aspiration for supreme enlightenment, and detailed explanations on how methodical meditation on specific objects leads to physical and mental pliancy, lightness, and ease.
+
+Furthermore, it touches upon the foundational Yogācāra concept of consciousness and its manifestations, discussing how the Bodhisattva discerns various states of consciousness and their characteristics to navigate the spiritual path effectively. It concludes with insights into the Liberation and the distinctive qualities and stages Bodhisattvas and Hearers (Śrāvakas) achieve as they progress on the path through the practice of these meditative methods.
+
+The concluding verses exhort followers to vigorously pursue this path, underscored by success stories of beings who were inspired to embark on the path to enlightenment upon hearing these teachings, highlighting the transformative power of the dharma when correctly understood and practiced.
+
 瑜伽師地論卷第七十七彌勒菩薩說
 
 三藏法師玄奘奉　詔譯
@@ -128,4 +145,3 @@
 爾時慈氏菩薩復白佛言：世尊！於是解深密法門中、當何名此教？我當云何奉持？佛告慈氏！此名瑜伽了義之教，於此瑜伽了義之教、汝當奉持。說此瑜伽了義教時、於大會中、有六百千眾生、發阿耨多羅三藐三菩提心；三百千聲聞、遠塵離垢，於諸法中得法眼淨；一百五十千聲聞、諸漏永盡，心得解脫；七十五千菩薩、獲得廣大瑜伽作意。
 
 瑜伽師地論卷第七十七
-

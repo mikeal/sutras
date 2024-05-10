@@ -6,6 +6,17 @@
 #【其他事項】本資料庫可自由免費流通，詳細內容請參閱【財團法人佛教電子佛典基金會資料庫版權宣告】
 #----------------------------------------------------------------------
 
+Tell me what division/section this is, any titles or sections, and briefly summarize this juan of the chinese Yogacarabhumisastra, providing your answer in english noting translations.
+The text you provided is from the 33rd chapter of the *Yogācārabhūmi-śāstra* (瑜伽師地論) as translated into Chinese by the monk Xuanzang (三藏法師玄奘). This work is a comprehensive compilation related to the Yogācāra school of Mahayana Buddhism and covers various stages (bhūmis) on the path of training of a yogi (a practitioner of yoga, in the broad sense of mental discipline and meditation).
+
+This particular chapter delves into the practices and accomplishments related to the paths of liberation and formless attainments (無色定), which are states of meditative absorption transcending the physical realm. The text outlines detailed meditation techniques and states leading to profound levels of concentration and insight, specifically focusing on moving beyond desires (離欲) and attachments to any form, sound, or sensation.
+
+It speaks of seven types of attentiveness (七作意) that meditators use to transcend desire, detailing methods to observe and analyze mental and physical experiences to gain liberation. These are aimed at understanding and breaking free from the cycle of rebirth through the mastery of various levels of concentration and insight, leading up to and including the formless realms—a series of increasingly subtle mental states beyond the perception of the physical world.
+
+The chapter also describes the process of achieving these states through the practice of "distancing from desires" (離欲) and entering various levels of "formless attainments" including the "Sphere of Infinite Space" (空無邊處), "Sphere of Infinite Consciousness" (識無邊處), "Sphere of Nothingness" (無所有處), and "Sphere of Neither Perception Nor Non-Perception" (非想非非想處). Additionally, it discusses the acquisition of supernatural abilities (神通), such as clairvoyance, clairaudience, and the recollection of past lives, through the perfection of these meditative absorptions.
+
+This division of the text is highly technical, presenting a systematic approach to achieving liberation by mastering one's mind and transcending worldly desires and forms, ultimately leading towards the attainment of Buddhahood. It's a guide for serious practitioners detailing the path through progressively deeper states of meditation, insight, and detachment.
+
 瑜伽師地論卷第三十三彌勒菩薩說
 
 三藏法師玄奘奉　詔譯
@@ -184,4 +195,3 @@
 復次，此中云何應知離欲者相？謂離欲者，身業安住，諸根無動，威儀進止無有躁擾，於一威儀能經時久，不多驚懼，終不數數易脫威儀。言詞柔軟、言詞寂靜，不樂諠雜、不樂眾集，言語安詳。眼見色已，唯覺了色，不因覺了而起色貪；如是耳聞聲已、鼻嗅香已、舌甞味已、身覺觸已，唯覺了聲乃至其觸，不因覺了而起聲貪乃至觸貪。能無所畏，覺慧幽深，輕安廣大，身心隱密，無有貪婪、無有憤發，能有堪忍，不為種種欲尋思等諸惡尋思擾亂其心。如是等類，當知名為離欲者相。
 
 瑜伽師地論卷第三十三
-

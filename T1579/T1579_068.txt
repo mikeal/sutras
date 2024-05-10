@@ -6,6 +6,27 @@
 #【其他事項】本資料庫可自由免費流通，詳細內容請參閱【財團法人佛教電子佛典基金會資料庫版權宣告】
 #----------------------------------------------------------------------
 
+Tell me what division/section this is, any titles or sections, and briefly summarize this juan of the chinese Yogacarabhumisastra, providing your answer in english noting translations.
+This text is from Volume 30 of the Taisho Shinshu Daizokyo (大正新脩大藏經), No. 1579, known as the *Yogācārabhūmiśāstra* (瑜伽師地論), which can be translated as "Discourse on the Stages of Yogic Practice". It was translated by the renowned Buddhist scholar and translator Xuanzang (三藏法師玄奘) under imperial order. This particular segment is from the 68th scroll (卷) of the text, specifically focusing on a section relating to the Śrāvakabhūmi, or the stage of a hearer (聲聞地).
+
+### Summary
+
+The section of the *Yogācārabhūmiśāstra* provided discusses various aspects of Buddhist philosophy and practice, primarily through a series of questions and answers. It dives into key Buddhist concepts such as the nature of cessation (寂滅), the truth of suffering (苦諦), the truth of the origin of suffering (集諦), and insights into the realization and practice leading towards liberation (涅槃).
+
+1. **Cessation and Truths**: It starts with inquiries about cessation - whether all phenomena ceasing is equivalent to the truth of cessation. The text clarifies that phenomena can cease due to impermanence without necessarily meaning the ultimate truth of cessation has been realized. It then outlines two types of cessation: due to the end of afflictions and dependent cessation.
+
+2. **Constant Nature of Liberation**: There's a discussion on the constant (常) nature of liberation, showing that liberation is not something that emerges or disappears over time, but rather, it's an unwavering truth, always existing beyond the transient nature of worldly phenomena.
+
+3. **Four Noble Truths (四諦)**: Various elements of the Four Noble Truths – the truths of suffering, its origin, cessation, and the path leading to cessation – are explored. Particularly, the text delves into the idea that right view is essential for understanding these truths and advancing on the path.
+
+4. **Ethical and Monastic Conduct**: There are significant portions discussing ethical conduct, monastic rules (Vinaya), and the importance of right speech, right action, and right livelihood. This includes a detailed exposition on the benefits of adhering to precepts and the pitfalls of unethical behaviors, including deceit.
+
+5. **Monastic Discipline (Vinaya)**: It talks about the importance of monastic discipline in detail, including different types of monastic offenses, the conditions under which they are considered offenses, and how one can be purified of these transgressions.
+
+6. **Practice and Liberation**: The text emphasizes the importance of correct practice and the development of wisdom for the attainment of Nirvana. It reflects on the cultivation of the Eightfold Path and the nature of spiritual practice that leads to the realization of ultimate truths.
+
+This *juan* (卷), or scroll, is rich with doctrinal expositions, practical advice for monastic life, and philosophical investigations into the nature of existence, suffering, and liberation according to the Yogācāra school of Mahayana Buddhism. It demonstrates the depth and breadth of Buddha's teachings as interpreted and transmitted by Xuanzang, illustrating the path to enlightenment through understanding, ethical conduct, meditative practice, and wisdom.
+
 瑜伽師地論卷第六十八彌勒菩薩說
 
 三藏法師玄奘奉　詔譯
@@ -138,4 +159,3 @@
 復次，毘奈耶中，由五因緣，所受用事不得清淨。一、性有罪故；二、不端嚴故；三、不任用故；四、非攝屬故；五、不作淨故。性有罪者，謂依偽斗、偽秤、偽函、繫縛、撾打、若斫、若殺，及摣撮等所獲財物而受用之，名不清淨。不端嚴者，謂受田宅及諸賄貨、象、馬、牛、羊、雞、猪狗、犬、大男、大女、小男、小女、奴婢、作使、金銀、珍寶及生穀等而受用之，名不清淨。不任用者，謂大小便利、洟唾所污，膿血、肪膏此等塗染，復有所餘如是等類，若受用者，名不清淨。如世尊言：便利等器皆不清淨，不應受用。非攝屬者，謂或僧祇物，若不被差，不墮鉢中，亦不屬鉢；或別人物，不與、不捨、亦不捐棄，非處委信，亦復非量而受用之，名不清淨。不作淨者，謂五種淨。何等為五？一、受得淨，二、損壞淨，三、委寄淨，四、時法淨，五、捨分別淨。與此相違，所有受用名為清淨。
 
 瑜伽師地論卷第六十八
-

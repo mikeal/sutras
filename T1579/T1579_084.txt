@@ -6,6 +6,21 @@
 #【其他事項】本資料庫可自由免費流通，詳細內容請參閱【財團法人佛教電子佛典基金會資料庫版權宣告】
 #----------------------------------------------------------------------
 
+Tell me what division/section this is, any titles or sections, and briefly summarize this juan **only** of the chinese Yogacarabhumisastra, providing your answer in english noting translations. No need to summarize the treatise in general, just this juan.
+The excerpt provided is from **Juan (Scroll) 84** of the **Yogācārabhūmi-śāstra** by Maitreya, as translated into Chinese by the renowned translator Xuanzang under imperial command. This text is a foundational treatise for the Yogācāra school of Mahayana Buddhism and covers a wide range of topics related to Buddhist philosophy and practice.
+
+In this specific juan, the discussion falls under the category of **"Śāstra on Other Aspects" (般若波羅蜜多),** broadly speaking, as it engages in detailed analysis and classification of various concepts critical to understanding Yogācāra Buddhism. The text delves into numerous classifications and philosophical discussions that encompass:
+
+- The nature of desires and the false perceptions associated with them.
+- The practice of generosity towards the community of monks and the value associated with such acts.
+- Interpretations of the skandhas (aggregates), dhātus (elements), and āyatanas (sense bases) from a Yogācāra perspective, with emphasis on their impermanent and non-substantial nature.
+- Detailed exploration of the concepts of attachment, aversion, ignorance, and the various kinds of afflictions that arise from them.
+- The importance of right understanding and practice in achieving liberation from the cyclical existence (saṃsāra).
+
+This juan underlines the **Yogācāra** emphasis on the mind and consciousness in interpreting and navigating the Buddhist path. It covers extensive doctrinal classifications, aiming to categorize and clarify the multitude of concepts that arise in the pursuit of understanding reality as prescribed by the Yogācāra tradition. The text uses various similes and metaphors to elucidate the transient and unsatisfactory nature of worldly phenomena, advocating for a path that leads towards realization and liberation.
+
+Points such as the misleading allure of desires, the process of becoming free from attachments, and the cultivation of practices that lead towards a deeper understanding and eventual enlightenment are highlighted. This juan, like many others within the work, is dense with technical terms and philosophical analysis, reflecting Xuanzang's dedication to accurately conveying the complexities of Yogācāra thought to the Chinese Buddhist community.
+
 瑜伽師地論卷第八十四彌勒菩薩說
 
 三藏法師玄奘奉　詔譯
@@ -87,4 +102,3 @@
 如是名為攝異門分。如是異門，於諸經中，隨其麁顯言多用者，略已採集示差別義。其餘無量諸佛世尊所說異門及義差別，由此方隅、由此所學、由此言教，應當精勤別別思擇異門、異義顯示安立。
 
 瑜伽師地論卷第八十四
-

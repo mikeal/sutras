@@ -6,6 +6,23 @@
 #【其他事項】本資料庫可自由免費流通，詳細內容請參閱【財團法人佛教電子佛典基金會資料庫版權宣告】
 #----------------------------------------------------------------------
 
+Tell me what division/section this is, any titles or sections, and briefly summarize this juan **only** of the chinese Yogacarabhumisastra, providing your answer in english noting translations. No need to summarize the treatise in general, just this juan.
+The text provided is from the 91st fascicle of the Yogācārabhūmi-śāstra (瑜伽師地論), as translated into Chinese by the eminent translator Xuanzang (玄奘) under imperial commission. This particular section is labeled as part of the "攝事分" (She Shi Fen), which translates to something akin to the section on "Compendium of Practices" or "Incorporation of Acts". It falls under a larger division that discusses various aspects of the Yogācāra practice, providing a detailed framework for understanding the mind and phenomena from the Yogācāra perspective.
+
+This fascicle extensively deals with various topics essential for practitioners on the path, but notably focuses on:
+- The nature of desire and detachment, and the implications for practitioners in or out of the desire realm.
+- A detailed discussion on the correct approach to questioning within the spiritual context.
+- An analysis of the afflicted mental states and how they relate to external objects, internally processed perceptions, and concepts.
+- Insight into the nature of contamination and purity relating to the senses and the external world.
+- Advice on practitioners’ conduct regarding desires, contemplations, and the discernment between beneficial and harmful mental activities.
+- The mechanism of cognitive and sensory processing leading to bondage or liberation, depending on one's attachment to or detachment from the objects of desire.
+- Discussions on ethical discipline (Vinaya) and the importance of safeguarding one's senses and thoughts to navigate the path toward liberation.
+- Elaborations on the nature of suffering, the process of its accumulation, and the path towards its cessation.
+
+The text emphasizes the interconnectedness of thought, action, and resultant states of being, urging practitioners towards mindfulness, ethical conduct, and deep contemplation to achieve ultimate liberation (Nirvana). It incorporates discussions on various levels of realization, the importance of guarding the senses, understanding the nature of phenomena (dharmas), and insights into achieving states of concentration and wisdom.
+
+This fascicle, like many others within the Yogācārabhūmi-śāstra, serves as a comprehensive guide for practitioners seeking to deepen their understanding of the Yogācāra path, elucidating complex concepts with detailed expositions and practical advice for advancing on the path to enlightenment.
+
 瑜伽師地論卷第九十一彌勒菩薩說
 
 三藏法師玄奘奉　詔譯
@@ -131,4 +148,3 @@
 復次，略有四種尋求我論。由此論故，薩迦耶見未永斷者，求我尋思數數現行。云何為四？一者、尋求我我用何以為自性？二者、尋求我我為常，為是無常？三者、尋求云何我我是常、無常？四者、尋求我所有我住在何處？當知此中，略有四種尋求於我。一者、尋求自性，二者、尋求其轉，三者、尋求其因，四者、尋求窟宅。此中三種，可得施設諸行差別，又此施設可非顛倒。第四一種，由一切種，終不可得施設差別。當知施設我自性者，謂即施設十二種處所生六識，并受、想思以為其我，過此餘我不可得故。又即此我體是無常，由有生故、老故、死故。又此諸行，以於諸趣種種自體生起差別不成實故，說如幻事。想、心、見倒迷亂性故，說如陽焰。起盡法故，說有增減。剎那性故，名曰暫時。數數壞已，速疾有餘頻頻續故，說為速疾現前相續。來無所從，往無所至，是故說為本無今有，有已散滅。由如是相，略說生身展轉無常，及有因剎那展轉無常。如是三種，如理施設我之自性若轉、若因。施設我之所有窟宅，終不可得。由諸行中，離諸行性，別有實我住諸行中不可得故。由是因緣，約世俗諦諸行尚空，不可施設，何況勝義。是故一向於空立空。如是由心如理作意，聞解了故、思等了故、修諦了故，如其次第差別說言：應當歡喜、應當等喜、應當遍喜。
 
 瑜伽師地論卷第九十一
-

@@ -6,6 +6,24 @@
 #【其他事項】本資料庫可自由免費流通，詳細內容請參閱【財團法人佛教電子佛典基金會資料庫版權宣告】
 #----------------------------------------------------------------------
 
+Tell me what division/section this is, any titles or sections, and briefly summarize this juan of the chinese Yogacarabhumisastra, providing your answer in english noting translations.
+The provided text is from the **"Yogācārabhūmiśāstra" (瑜伽師地論)**, specifically from **Volume 38**. This ancient Buddhist scripture is attributed to Maitreya and was translated into Chinese by the famous translator Xuanzang (玄奘) under imperial command. The text is foundational to the Yogācāra (Yogacara) school of Mahayana Buddhism, laying out the stages of practice for a yogācāra practitioner.
+
+This section, "卷第三十八" (Volume 38), covers part of the **Bodhisattva Bhūmi** (菩薩地), focusing on essential elements that a Bodhisattva should integrate and manifest. It delves into profound topics, subdivided into various sections as follows:
+
+1. **Concept of Enlightenment (Bodhi):** It articulates the essence of enlightenment in terms of two types of cessations (斷) and two types of wisdom (智), namely the cessation of afflictions and obstructions to omniscience, and the corresponding wisdoms that arise from these cessations.
+
+2. **The Seven Superiorities:** This part explores seven domains in which one aspires to achieve superiority, reflecting the profound qualities and attributes that a Bodhisattva should cultivate to accomplish the ultimate goal of enlightenment.
+
+3. **Teaching Methodologies and Practices:** It describes specific methods and practices, including deep understanding, seeking the Dharma, teaching Dharma, practicing according to Dharma, imparting teachings correctly, admonishing, and utilizing skillful means to assimilate and teach Dharma effectively.
+
+4. **Engagements in Yogic Practice:** Topics related to engaging in yogic practices, instructions for dealing with learners' minds, and further philosophical inquiries that a Bodisattva explores to understand the intricacies of reality and consciousness.
+
+5. **Various Dimensions of Wisdom and Learning:** Further elaboration on acquiring different aspects of wisdom and applying them in the path of learning and teaching. This includes acquiring knowledge from various domains (五明) like inner knowledge, logic, linguistics, medicine, and crafts to aid in the spiritual journey and benefit beings.
+
+This section is intricate and laden with philosophical depth, covering how a Bodhisattva should cultivate knowledge, wisdom, and compassion. It underscores the importance of understanding and removing the afflictions and obstructions that hinder the realization of Buddhahood, using both analytical wisdom and the accumulation of meritorious deeds through teaching and practicing the Dharma. The emphasis is on the practical application of these teachings to accomplish enlightenment for oneself and to help all sentient beings on their path.
+
+
 瑜伽師地論卷第三十八彌勒菩薩說
 
 三藏法師玄奘奉　詔譯
@@ -170,4 +188,3 @@
 云何菩薩方便所攝身語意業？當知略說菩薩所有四種攝事，是名方便。如世尊言：菩薩成就四種攝事所攝方便，方名菩薩。復何因緣，惟四攝事說名方便？謂諸菩薩，略由如是攝事所攝四種方便，於諸有情普能攝受、調伏、成熟。除此無有若過若增。何等名為四種方便？一、隨攝方便，二、能攝方便，三、令入方便，四、隨轉方便。若諸菩薩先行布施，當知是名隨攝方便。何以故？先以種種財物布施饒益有情，為欲令彼聽受所說，奉教行故。若諸菩薩次行愛語，於彼彼處有愚癡者，為欲除彼所有愚癡令無餘故，令其攝受瞻察正理。如是愛語，當知名為能攝方便。若諸菩薩知彼有情攝受瞻察正道理已，次行利行，拔彼有情出不善處，於其善處勸導、調伏、安處、建立。如是利行，當知名為令入方便。若諸菩薩如是方便令諸有情得趣入已，最後與其於正事業同共修行，令彼隨轉。由是因緣，令所化者不作是說：汝自無有圓滿淨信、圓滿尸羅、圓滿惠捨、圓滿智慧，何賴於善勸導於他，諫誨、呵擯、與作憶念。是故菩薩所行第四同事攝事，當知是名隨轉方便。如是菩薩四種方便，若總若別所攝身業、語業、意業，是名方便所攝三業。於諸有情能正攝受、調伏、成熟。
 
 瑜伽師地論卷第三十八
-

@@ -6,6 +6,28 @@
 #【其他事項】本資料庫可自由免費流通，詳細內容請參閱【財團法人佛教電子佛典基金會資料庫版權宣告】
 #----------------------------------------------------------------------
 
+Tell me what division/section this is, any titles or sections, and briefly summarize this juan **only** of the chinese Yogacarabhumisastra, providing your answer in english noting translations. No need to summarize the treatise in general, just this juan.
+The excerpt you provided is from the **88th scroll (juan)** of the **Yogācārabhūmi-śāstra (瑜伽師地論)**, spoken by Maitreya Bodhisattva and translated into Chinese by the monk Xuanzang under imperial command.
+
+This particular section of the text delves into various philosophical and practical aspects of Buddhism, focusing on the nature of the mind, wisdom, and the path to enlightenment. Key themes include:
+
+- **The Nature of Wisdom**: It discusses two types of wisdom; correct (正智) and erroneous (邪智), emphasizing how they arise from dealing with phenomena, with correct wisdom discerning the true nature of things unlike the erroneous.
+
+- **Mental Transformation and Liberation**: It addresses how attachment to transient pleasures leads to suffering and contrasts this with the state of Nirvana, which is of two kinds based on whether it's approached through entreaty or not.
+
+- **The Role of Teachings and Teachers**: It emphasizes the importance of proper teaching and the teacher's role in guiding students towards understanding the impermanent nature of existence and overcoming attachment and ignorance.
+
+- **Understanding Nirvana**: It elaborates on attaining a state of Nirvana through following the teachings correctly, contemplating the impermanence of all components of existence, and severing ties with all forms of afflictions.
+
+- **Scriptural Authority and Personal Revelation**: It highlights the difference between sutras spoken at the request of disciples versus those expressed spontaneously by the Buddha, stating the intent behind each.
+
+- **Moral and Philosophical Refinements**: It discusses various moral and philosophical nuances concerning speech, action, understanding the Dharma, and how wisdom aids in distinguishing between beneficial and harmful actions.
+
+- **Dealing with Delusional Beliefs and Emotions**: Toward the end, it dives into combating misconceptions around selfhood and existential notions that lead to suffering, advocating for precise understanding and mindfulness as tools for liberation.
+
+This juan encapsulates a comprehensive discourse on discriminating between right and wrong wisdom, the transient nature of pleasures, the pursuit of Nirvana, and the moral obligations of a practitioner towards understanding the Buddha's teachings. The discussions aim to guide the practitioner through discerning the nature of phenomena, leading to the realization of emptiness, and ultimately towards liberation.
+
+
 瑜伽師地論卷第八十八彌勒菩薩說
 
 三藏法師玄奘奉　詔譯
@@ -183,4 +205,3 @@
 復次，由五種相，有學、無學二種差別。謂諸無學所成就智，說名無上；一切有學所成就智，說名有上。如智無上，當知正行及與解脫無上亦爾。又諸無學，以善清淨諸聖慧眼觀佛法身，有學不爾。又諸無學，以善圓滿無顛倒行奉事如來，有學不爾。是名五相。
 
 瑜伽師地論卷第八十八
-

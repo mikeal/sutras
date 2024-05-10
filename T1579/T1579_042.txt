@@ -6,6 +6,26 @@
 #【其他事項】本資料庫可自由免費流通，詳細內容請參閱【財團法人佛教電子佛典基金會資料庫版權宣告】
 #----------------------------------------------------------------------
 
+Tell me what division/section this is, any titles or sections, and briefly summarize this juan of the chinese Yogacarabhumisastra, providing your answer in english noting translations.
+This text is from the 42nd juan (volume) of the Yogācārabhūmi-śāstra, attributed to Maitreya and translated into Chinese by the monk Xuanzang under imperial order. The Yogācārabhūmi-śāstra is a key text of the Yogācāra school of Mahayana Buddhism, detailing the stages of the path of a bodhisattva. This specific section discusses various aspects of moral discipline (śīla), diligence (vīrya), and patience (kṣānti) pertaining to the bodhisattva path, amongst other topics, organizing the ethical and spiritual practices that bodhisattvas should undertake.
+
+### Summary
+
+The segment is from the section discussing **the bodhisattva precepts** and **bodhisattva practices**, focusing particularly on the **precepts of a bodhisattva** and **patience (kṣānti)**. It is structured around the explanations of various types of vows or ethical disciplines (śīla) and the detailed exposition on the practice of patience, which is categorized under several headings:
+
+1. **Different Types of Precepts**: It outlines the three main types of precepts observed by bodhisattvas, namely, precepts taken formally through a ritual, natural precepts based on the bodhisattva's inherent disposition towards compassion and wisdom, practiced precepts that are cultivated over time through actions, and precepts that arise from employing skillful means.
+
+2. **The Challenge of Observing these Precepts**: The text discusses the challenges bodhisattvas face in upholding these precepts, especially when encountering adverse conditions or threats to life, and emphasizes the need for resilience and unwavering commitment.
+
+3. **Patience (Kṣānti)**: An extensive section describes various forms of patience that a bodhisattva must cultivate, including enduring suffering, tolerating harm from others without anger, and patience in understanding the profound doctrines of Buddhism. It highlights the importance of patient endurance as a means to cultivate compassion, wisdom, and ultimate realization.
+
+4. **Engagement in Virtuous Activities**: It further explores how a bodhisattva engages in virtuous activities through various types of diligence, ensuring that their actions are aligned with the goal of benefiting all sentient beings and achieving Buddhahood.
+
+5. **Connection to Bodhisattva Practices**: The text connects these precepts and practices directly to the cultivation of the bodhisattva path, outlining how these ethical disciplines and the practice of patience contribute to the realization of enlightenment.
+
+Throughout, the text emphasizes the bodhisattva's commitment to the welfare of all beings, the rigorous ethical discipline they must maintain, and the importance of patience and perseverance in overcoming obstacles on the path to enlightenment. It provides a detailed guide for bodhisattvas on how to live a life of moral purity, compassionate action, and steadfast dedication to the attainment of Buddhahood for the sake of all sentient beings.
+
+
 瑜伽師地論卷第四十二彌勒菩薩說
 
 三藏法師玄奘奉　詔譯
@@ -203,4 +223,3 @@
 如是最初自性精進，乃至最後清淨精進，皆得菩薩大菩提果。菩薩依此所有精進，圓滿精進波羅蜜多，能於無上正等菩提速疾已證、當證、今證。
 
 瑜伽師地論卷第四十二
-

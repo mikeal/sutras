@@ -6,6 +6,27 @@
 #【其他事項】本資料庫可自由免費流通，詳細內容請參閱【財團法人佛教電子佛典基金會資料庫版權宣告】
 #----------------------------------------------------------------------
 
+Tell me what division/section this is, any titles or sections, and briefly summarize this juan of the chinese Yogacarabhumisastra, providing your answer in english noting translations.
+This text is from the 22nd volume of the *Yogācārabhūmiśāstra*, spoken by Maitreya Bodhisattva, and translated into Chinese by the eminent translator Xuanzang under imperial command. This scripture is part of the Mahayana Buddhist canon, focusing on the stages of practice for Yogacara practitioners. The Yogācārabhūmiśāstra is a foundational text of the Yogācāra school, detailing the path of practice from the initial stages to the highest levels of spiritual attainment.
+
+The specific section provided discusses the "Out of Home" stage (出離地), which is part of the series on the stages of development for śrāvakas (voice-hearers) within the broader context of Buddhist spiritual practice. This stage is about the cultivation of detachment from worldly desires and the development of spiritual disciplines leading towards liberation.
+
+Summary and Key Points:
+
+1. **Definitions of Detachment**: The text begins with a verse explaining detachment from desires both worldly (世間離欲) and transcendent (出世間離欲), highlighting the importance of using both mundane and supermundane means for achieving liberation.
+
+2. **Path Towards Detachment**: It contrasts the paths towards detachment: through mundane (世間道) and supermundane (出世道) means. Mundane means encompass practices leading towards the initial dhyana (禪定, meditative absorptions), viewing lower realms as coarse and higher realms as peaceful. The supermundane means involve closely associating with virtuous friends, comprehending the Four Noble Truths, and cultivating the path towards liberation.
+
+3. **Foundations of Practice**: The text lists prerequisites for pursuing detachment, including self and others' fulfillment, desire for good dharmas, precepts, meditative practices, and association with good friends, among others.
+
+4. **Moral Precepts (戒律儀)**: A significant portion of the text delves into the importance of moral precepts (śīla) as foundational to the spiritual path, reflecting on bodily actions, speech, and mental activities, ensuring they do not cause harm to oneself or others.
+
+5. **Benefits of Maintaining Precepts**: By maintaining purity in moral precepts, the practitioner can enjoy numerous benefits, which include mental happiness, protection from harm, respect from others, and destinations favorable for continued spiritual practice after death.
+
+6. **Conclusion**: This section wraps up with encouragement for dedicated practice in following the moral discipline as a means to achieve liberation from worldly attachments and ultimately reach Nirvana.
+
+This portion of the *Yogācārabhūmiśāstra* explicitly underscores the indispensability of ethical conduct and the cultivation of detachment as core elements in the yogic path towards enlightenment. It provides both theoretical framework and practical guidance on cultivation, crucial for advancing in the Buddhist practice.
+
 瑜伽師地論卷第二十二彌勒菩薩說
 
 三藏法師玄奘奉　詔譯
@@ -213,4 +234,3 @@
 如是已說戒蘊廣辨、戒蘊虧損、戒蘊圓滿、戒蘊異門、戒蘊觀察及以清淨、戒蘊所有功德勝利。於此宣說明了開示一切種相，最極圓滿資糧所攝尸羅律儀。若有自愛樂沙門性、婆羅門性諸善男子，應勤修學。
 
 瑜伽師地論卷第二十二
-

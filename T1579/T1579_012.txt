@@ -6,6 +6,33 @@
 #【其他事項】本資料庫可自由免費流通，詳細內容請參閱【財團法人佛教電子佛典基金會資料庫版權宣告】
 #----------------------------------------------------------------------
 
+Tell me what division/section this is, any titles or sections, and briefly summarize this juan of the Yogacarabhumisastra in chinese.
+The text you provided is from the "Yogacarabhumi Sastra" (瑜伽師地論), specifically the twelfth volume as translated into Chinese by the esteemed Chinese monk Xuanzang (三藏法師玄奘). This work is a comprehensive compendium on the stages of the path according to the Yogacara school of Mahayana Buddhism.
+
+### Division/Section Information:
+
+- **Title:** 瑜伽師地論卷第十二 (The Twelfth Volume of the Yogacarabhumi Sastra)
+- **Translator:** Xuanzang (三藏法師玄奘)
+- **Section:** This volume discusses meditative practices and philosophies as part of the broader "Yogacarabhumi Sastra."
+
+### Summary:
+
+This twelfth volume delves into various aspects of meditation and consciousness from the Yogacara perspective. It touches on themes such as the practice and refinement of meditation (including entering and emerging from meditative absorptions), the nature of consciousness and perception, and the methodologies for training the mind to perceive the ultimate nature of reality. Specifically, it:
+
+1. **Discusses various meditation techniques and stages**, including entering the first meditative absorption (dhyana) up to the state of neither perception nor non-perception. It explains how these practices are grounded in mindfulness and right effort.
+
+2. **Explores the four immeasurables (Brahmaviharas):** loving-kindness (metta), compassion (karuna), empathetic joy (mudita), and equanimity (upekkha).
+
+3. **Analyzes the nature of consciousness** and its manifestations in different realms of existence. This includes discussions around the "store-consciousness" (alaya-vijnana), which serves as a foundational layer of consciousness collecting karmic imprints.
+
+4. **Outlines the path towards realizing the true nature of phenomena,** emphasizing the importance of wisdom (prajna) in overcoming ignorance and attaining enlightenment.
+
+5. **Addresses various obstacles and aids in meditation,** such as overcoming distractions, cultivating conducive mental states, and the role of a teacher in guiding one's practice.
+
+6. **Interconnects meditative practice with ethical conduct and philosophical understanding,** showing how a comprehensive approach is essential for spiritual progress.
+
+This volume, like others in the "Yogacarabhumi Sastra," is rich in detail about the theory and practice of meditation. It serves not only as a guide for meditation but also as a philosophical treatise explaining the underlying mind processes and the nature of reality from a Yogacara Buddhist perspective.
+
 瑜伽師地論卷第十二彌勒菩薩說
 
 三藏法師玄奘奉　詔譯
@@ -219,4 +246,3 @@
 如是已說靜慮、解脫、等持、等至。
 
 瑜伽師地論卷第十二
-

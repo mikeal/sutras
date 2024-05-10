@@ -6,6 +6,21 @@
 #【其他事項】本資料庫可自由免費流通，詳細內容請參閱【財團法人佛教電子佛典基金會資料庫版權宣告】
 #----------------------------------------------------------------------
 
+Tell me what division/section this is, any titles or sections, and briefly summarize this juan of the chinese Yogacarabhumisastra, providing your answer in english noting translations.
+This text is from the 76th fascicle of the *Yogācārabhūmiśāstra* (瑜伽師地論), a key scripture in the Yogācāra tradition of Mahayana Buddhism, attributed to Maitreya-nātha and translated into Chinese by the eminent translator Xuanzang (玄奘) under imperial commission. The *Yogācārabhūmiśāstra* systematically outlines the stages (bhūmis) of the path (mārga) for a yogācāra (practitioner) towards attaining Buddhahood.
+
+This specific juan (卷, fascicle) belongs to the section on *Śatadharmā-prakāśamukha-sāstra* within the larger work, discussing advanced Yogācāra philosophical concepts and practices, especially those about the nature of consciousness and reality from the perspective of advanced bodhisattva practice.
+
+The text elaborates on mind (心), intention (意), and consciousness (識), focusing particularly on their intricate nature and how a bodhisattva should understand and cultivate mastery over these aspects of experience to progress towards enlightenment. It discusses the secret and proficient understanding of these elements, embodying a sophisticated psychological analysis. Furthermore, it deeply explores the doctrine of "three natures" (trisvabhāva): the imaginary nature (parikalpita-svabhāva), the dependent nature (paratantra-svabhāva), and the perfected nature (pariniṣpanna-svabhāva), attributing them to the mental processes and phenomenological experiences.
+
+The text also covers various subjects like the transformation of consciousness, nature of perception, examination of dharmas (phenomena), and the ultimate emptiness (śūnyatā) of all dharmas, progressively revealing the bodhisattva path from initial cultivation to the achievement of non-attachment and non-dual wisdom. It emphasizes the importance of understanding the emptiness and interdependent origination of all phenomena for spiritually liberating insight.
+
+The conversation style is predominately through questions and answers, with bodhisattvas asking the Buddha about profound topics and the Buddha providing detailed explanations. This method is typical of Mahāyāna sūtras, facilitating the exposition of complex teachings in an accessible manner.
+
+Moreover, the text's dialogues often conclude with verses summarizing the teachings, a common practice in Buddhist literature to aid memorization and facilitate the transmission of key doctrinal points.
+
+Ultimately, this fascicle from the *Yogācārabhūmiśāstra* aims to guide the bodhisattva in deeply understanding the nature of mind, consciousness, and reality, steering them towards the realization of Buddhahood for the benefit of all sentient beings.
+
 瑜伽師地論卷第七十六彌勒菩薩說
 
 三藏法師玄奘奉　詔譯
@@ -146,4 +161,3 @@
 佛告勝義生菩薩曰：善男子！此名勝義了義之教，於此勝義了義之教，汝當奉持。說此勝義了義教時，於大會中，有六百千眾生發阿耨多羅三藐三菩提心；三百千聲聞遠塵離垢，於諸法中得法眼淨；一百五十千聲聞永盡諸漏，心得解脫；七十五千菩薩得無生法忍。
 
 瑜伽師地論卷第七十六
-

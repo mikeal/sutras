@@ -6,6 +6,24 @@
 #【其他事項】本資料庫可自由免費流通，詳細內容請參閱【財團法人佛教電子佛典基金會資料庫版權宣告】
 #----------------------------------------------------------------------
 
+Based on the detailed and extensive content provided from Juan (volume) 83 of the Yogācārabhūmiśāstra, it focuses on the sections concerning the ways of cultivating and understanding various intrinsic and extrinsic doctrinal elements, practical teachings, and meditative practices as presented in the Yogacara tradition. This specific volume features a mixture of verses and prose elucidating the following main themes and sections:
+
+1. **The Role of Teachers and Disciples**: It delves into the characteristics and importance of different types of teachers (such as the Great Teacher, the Follow-up Teacher, and the Teacher who Inherits the Dharma) and their contributions to the propagation of the Dharma. It also discusses the nature of discipleship within the context of receiving and transmitting the teachings.
+
+2. **Moral Instruction and Discipline**: The text covers the ethical dimensions of Buddhism, including the practices of giving (dāna), observing precepts (śīla), and various aspects of moral and ethical conduct that lead to the purification and development of the practitioner.
+
+3. **Meditative Practices and Wisdom Development**: It addresses the cultivation of mindfulness, insight, and wisdom. Different methods of meditation, the role of wisdom (prajñā), and how these practices lead to the understanding of emptiness, impermanence, and no-self are expounded upon.
+
+4. **Types of Beings and Their Path to Liberation**: There is an exploration of different sentient beings and their capacities for liberation, detailing the conditions and practices necessary for freeing oneself from the cycle of rebirth and attaining enlightenment.
+
+5. **Understanding of Phenomena through Yogacara Lens**: The text provides a thorough analysis of the nature of phenomena, consciousness, and reality from the Yogacara perspective, emphasizing the constructed nature of experience and the path to recognize and transcend it.
+
+6. **Philosophical Discussions**: It engages in deep philosophical discourse on the nature of reality, expounding on the concepts of emptiness, the dependent origination of phenomena, and the ultimate nature of existence according to the Yogacara school.
+
+7. **The Final Goal**: The volume concludes with discussions on the final goals of the Buddhist path, such as the attainment of nirvana, the cessation of all defilements, and the realization of Buddhahood, including the qualities and attributes of a Buddha.
+
+In summary, Juan 83 of the Yogācārabhūmiśāstra is a comprehensive guide that covers a wide range of topics from ethical conduct and meditation to profound philosophical insights. It offers a detailed exposition of the Yogacara tradition’s teachings on how to live a virtuous life, cultivate the mind, and ultimately achieve enlightenment.
+
 瑜伽師地論卷第八十三
 
 彌勒菩薩說
@@ -785,4 +803,3 @@
 復次，無餘斷者，謂是總句。永棄捨者，諸纏斷故。永變吐者，隨眠斷故。言永盡者，過去解脫故。永離欲者，現在解脫故。言永滅者，未來解脫故。永寂靜者，由見道故。永滅沒者，由修道故。當知此中，由二種道斷煩惱事，顯無餘斷。
 
 瑜伽師地論卷第八十三
-

@@ -6,6 +6,29 @@
 #【其他事項】本資料庫可自由免費流通，詳細內容請參閱【財團法人佛教電子佛典基金會資料庫版權宣告】
 #----------------------------------------------------------------------
 
+Tell me what division/section this is, any titles or sections, and briefly summarize this juan **only** of the chinese Yogacarabhumisastra, providing your answer in english noting translations. No need to summarize the treatise in general, just this juan.
+The provided text is from the **92nd juan (volume)** of the **Yogācārabhūmi-śāstra (瑜伽師地論)**, a key text in the Yogācāra tradition of Mahāyāna Buddhism. This particular volume appears to be structured around discussions of various aspects of practice and philosophy within the Yogācāra framework, with teachings attributed to Maitreya and translated by the eminent 7th-century Chinese Buddhist monk and translator, Xuanzang (玄奘).
+
+### Section/Division
+This juan is part of the larger body of the Yogācārabhūmi-śāstra, which systematically outlines the stages of the Bodhisattva path, among other topics. It falls within the broad category of texts dealing with Yogācāra ("Yoga Practice") philosophy and practice, underlining the mechanism of consciousness, perception, and the construction of reality through cognitive processes.
+
+### Titles or Sections and Summary
+The excerpt mentions several components that are representative of Yogācāra teachings, focusing on aspects like **mindful awareness, the control of sensory gates, the manifestation of thoughts and phenomena, and the application of ethical discipline to transcend worldly attachments and ignorance.**
+
+Key points detailed in this juan include:
+
+- **Mindful Awareness and Guarding the Sense Doors:** It discusses the importance of mindful awareness and the guarding of the sense doors as methods to prevent the arising of defilements stemming from sensory experience.
+
+- **Phenomena (Dharma) Observation:** There's a detailed exposition on observing phenomena without attachment, highlighting the characteristics of arising, abiding, and cessation to avoid the traps of self and self-related projections.
+
+- **Ethical Discipline:** The text underscores the significance of ethical discipline in stabilizing the mind and preparing it for deeper insight, emphasizing the cultivation of virtues that lead to tranquility and the eventual realization of emptiness or the absence of an inherent self-nature in phenomena.
+
+- **The Practitioner’s Progress:** It includes instructions and reflections on how a practitioner progresses in their training, including dealing with desires, overcoming afflictions, and the cultivation of higher states of concentration and wisdom.
+
+- **Teachings on Reality’s Nature:** Reflections on the nature of reality, employing concepts like emptiness (śūnyatā), to elucidate the non-dual nature of experience and the ultimate goal of liberation from cyclical existence (samsara).
+
+This juan of the Yogācārabhūmi-śāstra is dense with philosophical exposition and practical advice, drawing from the profound depths of Mahāyāna Buddhist psychology and metaphysics. It serves both as a guide for the practitioner on the path to enlightenment and as a sophisticated treatise on the nature of consciousness and reality according to the Yogācāra tradition.
+
 瑜伽師地論卷第九十二彌勒菩薩說
 
 三藏法師玄奘奉　詔譯
@@ -82,4 +105,3 @@
 復次，於善說法毘柰耶中，復由三相，應知大師其德圓滿；又由二相，應知弟子其德圓滿。云何三相，應知大師其德圓滿？謂佛世尊，為諸弟子最初施設遠離二邊中道正行，是名第一師德圓滿。又於聖教未生信者、有毀犯者，以正方便令入聖教，離諸毀犯，是名第二師德圓滿。又於聖教已得入者，由四法攝正攝受之，是名第三師德圓滿。云何名為四種法攝？一、於祕密，以其如法閑靜教授而教授之，不以非法。二、於違犯，以其如法苦切語言，現前呵擯，非不如法。三、於尋思、依止耽嗜，教令於內勤修寂靜。四、令時時聽聞正法，常無懈廢。又令遠離相似正法，及令對治棄捨正行，當知即是於其祕密，能引如法閑靜教授。於實毀犯，若正了知要當呵擯方調伏者，以如法言現前呵擯，心無雜染。於尋思者，方便令其易得決了。於諸流蕩五妙欲者，示其過患，令生厭離。漸次修學乃至證入第四靜慮，所有尋思、依止耽嗜，方能於內究竟寂靜。自令無惱，令他攝取，當知是名於時時間聽聞正法，常無懈廢。云何二相，諸弟子眾其德圓滿？謂諸弟子，最初忍受大師所見，謂諸法中空無我見。由是因緣，於諸法中，不增益我起邪執著，亦不毀壞世俗道理。勝意樂故，無所隨從；隨言說故，亦不遠離。是名第一諸弟子眾其德圓滿。又彼於見既忍受已，能正修行法隨法行。由四法攝所攝受時，若彼諸法有苦有害，如實了知，能速斷滅；若彼諸法無苦無害，如實了知，能速作證。是名第二諸弟子眾其德圓滿。如是大師及弟子眾之所攝受諸佛聖教，當知一向無染清淨，諸聰慧者之所歸趣。
 
 瑜伽師地論卷第九十二
-

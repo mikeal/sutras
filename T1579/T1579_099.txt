@@ -6,6 +6,28 @@
 #【其他事項】本資料庫可自由免費流通，詳細內容請參閱【財團法人佛教電子佛典基金會資料庫版權宣告】
 #----------------------------------------------------------------------
 
+Tell me what division/section this is, any titles or sections, and briefly summarize this juan **only** of the chinese Yogacarabhumisastra, providing your answer in english noting translations. No need to summarize the treatise in general, just this juan.
+The provided text is from the 99th volume of the Yogācārabhūmiśāstra (Discourse on the Stages of Yogic Practice), attributed to Maitreya and translated into Chinese by the famed pilgrim and translator Xuanzang under imperial command. This volume is part of the "Great Treasury of Buddhist Scriptures" (Taishō Shinshū Daizōkyō).
+
+**Division/Section:**
+This volume falls under the section known as "Absorption in Matters" (攝事分), specifically addressing issues related to "Subduing Matters" (調伏事總擇攝) as the first part of the series on this topic.
+
+**Summary:**
+This juan (volume) discusses various topics related to the regulations, practices, and ethical disciplines observed by Buddhist monastics, emphasizing the Vinaya (disciplinary code). Key highlights include:
+
+- Definitions of "Piṇḍapāta Matter" (Piṇḍapāta is the practice of alms gathering) and discussions on the principles and disciplines related to alms gathering, revealing the importance of various forms of conduct and discipline in ensuring a monastic’s adherence to the Buddha’s teachings and their practical application in everyday monastic activities.
+
+- The text elucidates on matters concerning the 'offenses' (罪) a monk might commit, detailing the consequences and the systems in place for confession, repentance, and restoration, thereby highlighting the Buddhist path's emphasis on moral purification and the maintenance of communal harmony within the monastic community.
+
+- It discusses the essential principles of living in harmony, dealing with transgressions, and the importance of a disciplined monastic life as foundational to Buddhist practice. This includes addressing the methods for dealing with transgressions (such as confession and atonement), aiming to cultivate a pure communal and personal practice.
+
+- It also touches upon the significance of proper conduct, both individually and within the community, to prevent the arising of disputes and to address them effectively when they occur, detailing various types of disputes that can arise within the monastic community and methods to resolve them.
+
+- The volume further elaborates on the concept of "purification" and the practices conducive to overcoming obstacles in one's practice, highlighting the broader Mahayana themes of compassion, wisdom, and the pursuit of enlightenment, not just for oneself but for the benefit of all beings.
+
+This juan, like others in the Yogācārabhūmiśāstra, provides a comprehensive guide to monastic discipline, psychological and philosophical aspects of the practice, aiming to guide practitioners towards deepening their understanding and practice of Buddhism. Through detailed analyses of monastic rules and practical advice on living a spiritually wholesome life, it contributes significantly to the broader Mahayana literature on ethics, meditation, and spiritual development.
+
+
 瑜伽師地論卷第九十九彌勒菩薩說
 
 三藏法師玄奘奉　詔譯
@@ -221,4 +243,3 @@
 何等復名四種除滅？一者、願出所犯除滅；二者、施與清淨除滅；三者、許求實性除滅；四者、各各發露除滅。
 
 瑜伽師地論卷第九十九
-

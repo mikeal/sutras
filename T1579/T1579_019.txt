@@ -6,6 +6,31 @@
 #【其他事項】本資料庫可自由免費流通，詳細內容請參閱【財團法人佛教電子佛典基金會資料庫版權宣告】
 #----------------------------------------------------------------------
 
+Tell me what division/section this is, any titles or sections, and briefly summarize this juan of the Yogacarabhumisastra in chinese.
+This text is from the nineteenth volume of the Yogācārabhūmiśāstra (瑜伽師地論卷第十九), a pivotal text in the Yogācāra school of Mahāyāna Buddhism, attributed to Maitreya and translated into Chinese by the eminent translator Xuanzang (三藏法師玄奘). The text explores various aspects of the Yogācāra path and philosophy, focusing on the development of the yogi's practice and understanding as they progress through different stages of spiritual attainment.
+
+The passage breaks into several key sections and themes:
+
+1. **善語 (Good Speech)**: It discusses the importance and characteristics of skillful speech, emphasizing speaking in ways that are pleasing, uncontaminated, and beneficial to oneself and others.
+
+2. **信、慚、戒、施、法 (Faith, Shame, Precepts, Generosity, and Dharma)**: This part underscores the virtues and the path leading to celestial realms, highlighting the cultivation of faith, ethical behavior, generosity, and understanding of the Dharma as praised by the wise.
+
+3. **多聞 (Extensive Learning)**: It touches on how extensive learning in the Dharma leads to moving away from evil, renouncing meaningless matters, and ultimately achieving Nirvana.
+
+4. **靜慮 (Meditative Absorption)**: The text delves into the significance of meditative absorption, portraying it as an essential practice for overcoming worldly and mental pollutants, and for attaining intuitive wisdom and liberation.
+
+5. **染 (Defilements)** and **解脫 (Liberation)**: Detailed discussions center on recognizing and overcoming various defilements, understanding the true nature of phenomena to achieve liberation, and embodying the attributes of an arhat free from attachments and ignorance.
+
+6. **心 (Mind)**: A substantial examination of the nature of the mind, addressing its capacity for liberation and understanding, the cessation of defilements, and the importance of mindfulness and wisdom.
+
+7. **欲 (Desires)**: The narrative warns about the dangers of indulging in sensory pleasures and desires, illustrating how they lead to suffering and bondage, while also presenting the path towards renunciation, contentment, and liberation.
+
+8. **梵行 (Monastic Practices)**: There's an emphasis on the disciplined and ethical conduct expected within the monastic community, illustrating the virtues, practices, and mindset leading to spiritual awakening and liberation.
+
+9. **Conclusion and Summaries**: The text concludes with summaries of the previously discussed themes, encapsulating the essence of the teachings on virtuous conduct, mindfulness, understanding, and liberation from cyclic existence.
+
+In essence, this part of the Yogācārabhūmiśāstra articulates the foundational practices and philosophical underpinnings essential for progressing on the spiritual path within the Yogācāra tradition, emphasizing ethical conduct, meditative practice, wisdom, understanding the nature of mind and phenomena, and the renunciation of worldly desires and attachments.
+
 瑜伽師地論卷第十九彌勒菩薩說
 
 三藏法師玄奘奉　詔譯
@@ -225,4 +250,3 @@
 作、劬勞、得義、　　論議十四種。
 
 瑜伽師地論卷第十九
-

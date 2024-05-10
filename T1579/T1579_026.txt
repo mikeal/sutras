@@ -6,6 +6,17 @@
 #【其他事項】本資料庫可自由免費流通，詳細內容請參閱【財團法人佛教電子佛典基金會資料庫版權宣告】
 #----------------------------------------------------------------------
 
+Tell me what division/section this is, any titles or sections, and briefly summarize this juan of the chinese Yogacarabhumisastra, providing your answer in english noting translations.
+This excerpt is from the **Yogācārabhūmiśāstra (瑜伽師地論)**, specifically from volume 26, spoken by Maitreya Bodhisattva and translated into Chinese by the venerable Xuanzang under imperial command. The text represents a seminal work in the Yogācāra tradition of Mahāyāna Buddhism, detailing the stages (bhūmis) on the path of a bodhisattva and the practices and mental states associated with them.
+
+The section you've provided appears to be discussing the **Characteristics of Voice-Hearer Levels (聲聞地)**, focusing on topics like the different types of practitioners (補特伽羅, "buddha"), their establishment, what they meditate on, how they are instructed, how they practice, the adaptability of their practice methods, obstacles in meditation, the nuances of meditation, and the outcomes of their practice.
+
+This part of the text is delving into the **classification of practitioners** based on specific qualities such as their spiritual faculties (sharp or dull), emotional tendencies (e.g., inclination towards greed, hatred, or delusion), and stages on the path (stream-entry, once-returner, non-returner, arahant). It also addresses how these practitioners are guided, how they engage with and meditate on their objects of focus, and the expected results of their meditative practice, including dealing with challenges such as those posed by Māra (demonic influences) and reaching a state of śūnyatā (emptiness or voidness), ultimately aiming for liberation from Saṃsāra.
+
+Specifically, **twenty-eight categories of practitioners** are outlined, covering a breadth from those of dull faculties to those who are liberated in various manners, such as through one lifetime or after several rebirths across different realms. Additionally, it detailed strategies for overcoming specific defilements tied to each practitioner type, utilizing methodologies like meditating on impurity to overcome desire or cultivating mettā (loving-kindness) to counteract aversion.
+
+The text is not just a philosophical exposition but also serves as a practical guide, indicating different meditational practices and philosophical reflections geared towards progressing on the path towards enlightenment. It stands as a comprehensive manual for the cultivation of mind and understanding of reality as perceived through the Yogācāra lens, deeply influential in East Asian Buddhism and beyond.
+
 瑜伽師地論卷第二十六彌勒菩薩說
 
 三藏法師玄奘奉　詔譯
@@ -298,4 +309,3 @@
 若有瞋行補特伽羅，於諸有情修習慈愍，令瞋微薄，名於瞋恚心得清淨。
 
 瑜伽師地論卷第二十六
-

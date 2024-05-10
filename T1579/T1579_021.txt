@@ -6,6 +6,19 @@
 #【其他事項】本資料庫可自由免費流通，詳細內容請參閱【財團法人佛教電子佛典基金會資料庫版權宣告】
 #----------------------------------------------------------------------
 
+Tell me what division/section this is, any titles or sections, and briefly summarize this juan of the Yogacarabhumisastra in chinese.
+This text is part of the Yogācārabhūmiśāstra (瑜伽師地論), specifically from Volume 21, as translated into Chinese by the venerable Xuanzang (三藏法師玄奘) under imperial decree. The Yogācārabhūmiśāstra is a significant and comprehensive work of the Yogācāra school within Mahayana Buddhism, covering a broad range of teachings and practices related to the path of becoming a yogācāra or "yoga practitioner."
+
+This particular section (Juan 21) focuses on the Śrāvakabhūmi (聲聞地), the "Stage of the Hearers" or "The Disciples' Ground," and it starts with the section on "Pravṛttibhūmi" or "The Section on Engagement" (本地分中聲聞地第十三初瑜伽處種姓地第一), diving into concepts like the stages or conditions necessary for practitioners (specifically śrāvakas or "hearers" in this context) concerning their spiritual capacities, conditions, and the practices leading towards liberation or enlightenment from samsara.
+
+The text discusses various aspects of spiritual practice, such as the significance of "seed nature" (種姓地), which metaphorically talks about the latent predispositions or the spiritual 'seeds' that can blossom into full awakening given the right conditions. It emphasizes the importance of encountering the teachings (dharma), moral discipline, and other factors that contribute to spiritual maturation and ultimately, liberation.
+
+Additionally, the document delves into differentiations among practitioners based on their spiritual faculties (sharp, medium, dull), their engagement with the teachings, their conduct, and their progress towards enlightenment. It touches on the obstacles encountered by practitioners, the significance of virtuous company, and the influence of external conditions on the cultivation of the path.
+
+Moreover, it outlines the necessary conditions for progress on the path, including proper understanding and practice of the Buddha’s teachings, moral discipline, association with good spiritual friends, and the cultivation of a range of virtuous qualities and practices that support the journey to enlightenment.
+
+This section of the Yogācārabhūmiśāstra thus provides a detailed framework for understanding the stages of spiritual development according to the Yogācāra school, specifically for those on the path of a śrāvaka, detailing the intricacies and gradations involved in progressing from initial engagement with the path (seed nature) to ultimately achieving liberation.
+
 瑜伽師地論卷第二十一彌勒菩薩說
 
 三藏法師玄奘奉　詔譯
@@ -268,4 +281,3 @@
 如是所說若趣入自性、若趣入安立、若已趣入者所有諸相、若已趣入補特伽羅，一切總說名趣入地。
 
 瑜伽師地論卷第二十一
-

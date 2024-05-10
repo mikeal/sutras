@@ -6,6 +6,31 @@
 #【其他事項】本資料庫可自由免費流通，詳細內容請參閱【財團法人佛教電子佛典基金會資料庫版權宣告】
 #----------------------------------------------------------------------
 
+Tell me what division/section this is, any titles or sections, and briefly summarize this juan of the chinese Yogacarabhumisastra, providing your answer in english noting translations.
+The content provided appears to be from the 61st volume of the *Yogācārabhūmi-śāstra*, spoken by Maitreya Bodhisattva and translated by the Tripitaka Dharma Master Xuanzang under imperial order. The text is a central work in the Yogācāra tradition of Mahāyāna Buddhism, constituting a detailed analysis of the stages (bhūmis) of the Bodhisattva path.
+
+This volume covers various aspects of Buddhist practice and philosophy, categorized into several sections as follows:
+
+1. **The faults and virtues of kings**: It provides detailed lists of a king's potential downfalls and virtues, highlighting qualities and behaviors that lead either to decline or to an esteemed and virtuous rule. This is relevant not just to historical monarchs but can also be applied metaphorically to anyone in a position of leadership or authority.
+
+2. **Types of individuals based on spiritual practice**: The text categorizes beings (likely practitioners) into three levels based on their spiritual conducts, such as lower, intermediate, and superior (referring to as 下士, 中士, 上士, respectively). It describes their behaviors, practices, and orientations towards personal benefit, benefitting others, and combining both personal gain and altruism.
+
+3. **Different types of disciples**: Discussed in terms of their inclination towards evil deeds or their abstention from them, indicating various levels of spiritual maturity and ethical conduct.
+
+4. **Detailed advice on rulership and governance**: It presents a comprehensive guide for rulers on leading justly and wisely, touching on ethical governance, economic management, military strategy, and personal conduct.
+
+5. **Analysis of suffering, its types, and causes**: The text briefly touches on fundamental Buddhist teachings on suffering (dukkha), including the analysis of the aggregates (skandhas) and how suffering arises, persists, and can be extinguished through the practice.
+
+6. **Discussion on various types of practitioners**: It delineates practitioners based on their commitment and approach to practice, detailing, for instance, those who are overly attached to worldly desires and how such attachments hinder spiritual progress.
+
+7. **Guidance on ethical practices and meditative attainments**: The treatise provides insights into ethical disciplines, contemplative practices, and the attainment of serene states of mind (samādhi), illustrating the path towards liberation and enlightenment.
+
+8. **Emphasis on renunciation and realization**: It encourages renunciation of worldly attachments and the realization of ultimate truths through dedicated practice, showcasing the path towards achieving higher spiritual states and liberation.
+
+9. **Advice on generosity and conduct**: The scripture also contains advice on practicing generosity, maintaining moral precepts, and other aspects of the Bodhisattva path essential for spiritual growth and the welfare of all beings.
+
+The *Yogācārabhūmi-śāstra* lays down a comprehensive framework for understanding the spiritual journey from a Yogācāra perspective, emphasizing the development of mind and consciousness and the cultivation of virtues for the attainment of Buddhahood.
+
 瑜伽師地論卷第六十一彌勒菩薩說
 
 三藏法師玄奘奉　詔譯
@@ -189,4 +214,3 @@
 我已略說有尋有伺等三地決擇，其中處處餘決擇文，更不復現。
 
 瑜伽師地論卷第六十一
-

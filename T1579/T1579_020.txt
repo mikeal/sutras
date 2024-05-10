@@ -6,6 +6,33 @@
 #【其他事項】本資料庫可自由免費流通，詳細內容請參閱【財團法人佛教電子佛典基金會資料庫版權宣告】
 #----------------------------------------------------------------------
 
+Tell me what division/section this is, any titles or sections, and briefly summarize this juan of the Yogacarabhumisastra in chinese.
+The text provided is from the twentieth volume of the *Yogācārabhūmiśāstra*, spoken by Maitreya Bodhisattva and translated into Chinese by the venerable Xuanzang during the Tang Dynasty. This important Buddhist scripture belongs to the Yogacara school of Mahayana Buddhism, and it systematically outlines the stages of practice that a Yogacara practitioner must go through on the path to enlightenment.
+
+In this specific volume, the focus is on the twelfth section called "Bhumi of the Cultivation that Leads to Achievement" (*修所成地*). This section is detailed and methodically describes the process of spiritual cultivation, emphasizing the systematic approach in advancing one’s practice towards the ultimate goal of enlightenment. Here’s a brief summary divided into its significant parts or themes according to the text:
+
+1. **Introduction:** It starts with a brief introduction emphasizing the emphasis on practice (cultivation) towards achievement.
+
+2. **Four Aspects of Cultivation:** It outlines that the path to achievement involves four main areas: the place of practice, the causes and conditions for practice, the methods of meditation (yoga), and the fruition of practice.
+
+3. **The Seven Limbs:** These are the elements comprising complete cultivation, including perfecting generosity, hearing the true Dharma, contemplating nirvana, maturation of liberating wisdom, practice of antidotes, purification of worldly and supramundane kinds.
+
+4. **Factors for Perfecting Birth:** It discusses the ten conditions that contribute to perfecting one's birth, which are vital for effective practice, split into internal and external conditions such as being born in a suitable location, having a supportive community, and encountering a Buddha in the world.
+
+5. **Hearing the True Dharma:** It talks about perfecting the hearing of the true Dharma through proper proclamation and reception of teachings.
+
+6. **Contemplating Nirvana:** The emphasis here is on focusing on nirvana as the ultimate goal, encouraging practitioners to listen to teachings with the sole purpose of achieving liberation, devoid of worldly intentions.
+
+7. **Maturation of Wisdom for Liberation:** This section deals with perfecting wisdom that leads to liberation, touching upon mindfulness and clear comprehension as essential components of this maturation process.
+
+8. **Practices for Overcoming Obstacles:** It discusses detailed practices aimed at overcoming obstacles in different stages of a practitioner's life, be it as a layperson, a monastic, or in solitary retreat.
+
+9. **The Purity in Mundane and Supramundane Terms:** The text elaborates on achieving purity in both worldly and transcendent aspects through practices leading to deep meditative states and insights.
+
+10. **Concluding Parts:** Culminates with the importance of transcending worldly attachments and fully realizing the path, ultimately achieving the supreme goal of Buddhahood. It emphasizes achieving the highest level of purity and clarity in one's practice and understanding.
+
+Each section systematically builds upon the previous, detailing the path of a practitioner from the foundational steps of engaging with the spiritual community, listening to the Dharma, to the deeper stages of meditation and insight, leading to the ultimate transcendence of worldly and mental afflictions. This volume of the *Yogācārabhūmiśāstra* serves as a comprehensive manual for practitioners on their path to enlightenment, deeply rooted in the Yogacara philosophical framework.
+
 瑜伽師地論卷第二十彌勒菩薩說
 
 三藏法師玄奘奉　詔譯
@@ -259,4 +286,3 @@
 如是如先所說若修處所，若修因緣，若修瑜伽，若修果，一切總說為修所成地。
 
 瑜伽師地論卷第二十
-

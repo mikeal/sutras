@@ -6,6 +6,29 @@
 #【其他事項】本資料庫可自由免費流通，詳細內容請參閱【財團法人佛教電子佛典基金會資料庫版權宣告】
 #----------------------------------------------------------------------
 
+Tell me what division/section this is, any titles or sections, and briefly summarize this juan **only** of the chinese Yogacarabhumisastra, providing your answer in english noting translations. No need to summarize the treatise in general, just this juan.
+The provided text is the 78th juan (scroll) of the Yogācārabhūmi-śāstra, attributed to Maitreya and translated by Xuanzang under imperial order. This juan focuses on the "Bodhisattva Stages" within the "Exposition of Determination" section, detailing various aspects of the bodhisattva path.
+
+### Sections and Summary
+
+This juan discusses complex topics centered on the bodhisattva's progression through levels or bhūmis, purity aspects, practices, and the realization of Buddhahood, structured around several key sections:
+
+1. **The Bodhisattva's Ten Grounds (Bhūmis)**: Starting with an inquiry by Avalokiteśvara about the ten grounds and their purity, it's established that there are four kinds of purity and eleven categories covering the entire path from a bodhisattva's initial resolution to Buddhahood.
+
+2. **Qualities and Purification of the Grounds**: The text categorizes various defilements and obscurations that are to be overcome on each ground, including ignorance and coarseness, which are countered by specific practices and realizations.
+
+3. **Incremental Purification and Achievements**: Progress through the bodhisattva stages involves sequentially overcoming finer levels of defilement and embracing more potent forms of discipline, meditation, and wisdom, leading to increasingly profound levels of enlightenment and ability to benefit beings.
+
+4. **The Distinctive Features and Virtues of the Bhūmis**: Each ground is associated with specific virtues, practices, and achievements. The progression is marked by greater joy, purity, illumination, wisdom, and finally, the complete Buddhahood.
+
+5. **The Role and Impact of Practices**: The juan discusses how the practices of the bodhisattvas (e.g., generosity, ethical discipline, patience, effort, meditation, and wisdom) are cultivated and perfected across the grounds, detailing the transformative impact on the practitioner's mind and capacities.
+
+6. **The Phenomenology of the Bodhisattva Path**: Detailed explanations of how bodhisattvas perceive and interact with the world and beings around them as they progress, emphasizing the transformation in their understanding, capabilities, and spontaneous compassionate activity.
+
+7. **The Ultimate Stage - Buddhahood**: Towards the end, it discusses the culmination of a bodhisattva's journey - Buddhahood, characterized by unfathomable wisdom, compassion, and skillful means, manifest in the ability to benefit all sentient beings effortlessly and boundlessly.
+
+This juan emphasizes the sophistication and dedication required on the bodhisattva path, framing it as a gradual but definitive progression towards ultimate enlightenment. It explores the interplay between understanding and practice that defines the Mahāyāna approach to buddhahood, offering a detailed roadmap for practitioners aiming for the highest goal.
+
 瑜伽師地論卷第七十八彌勒菩薩說
 
 三藏法師玄奘奉　詔譯
@@ -221,4 +244,3 @@
 世尊！於此解深密法門中，此名何教？我當云何奉持？善男子！此名如來成所作事了義之教，於此如來成所作事了義之教，汝當奉持。說是如來成所作事了義教時，於大會中有七十五千菩薩摩訶薩，皆得圓滿法身證覺。
 
 瑜伽師地論卷第七十八
-

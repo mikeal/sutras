@@ -6,6 +6,29 @@
 #【其他事項】本資料庫可自由免費流通，詳細內容請參閱【財團法人佛教電子佛典基金會資料庫版權宣告】
 #----------------------------------------------------------------------
 
+Tell me what division/section this is, any titles or sections, and briefly summarize this juan **only** of the chinese Yogacarabhumisastra, providing your answer in english noting translations. No need to summarize the treatise in general, just this juan.
+The specific juan (volume) from the Yogācārabhūmiśāstra (瑜伽師地論) provided here is juan number 97, translated by the eminent Tang dynasty monk and scholar Xuanzang (玄奘). This particular section falls under the broader category of practices or engagements (攝事分) and primarily discusses aspects related to the cultivation of Bodhi (enlightenment or awakening) from the perspective of the Yogācāra school. Here's a brief summary of the key topics covered in this volume:
+
+### Summary of Juan 97 of the Yogācārabhūmiśāstra:
+
+- **Foundation of Mindfulness (念住)**: The discussion begins with the practice of mindfulness, touching upon its criticality in the path toward enlightenment. It elaborates on the four foundations of mindfulness: mindfulness of the body, feelings, mind, and phenomena.
+
+- **Spiritual Faculties and Powers (根、力)**: The text moves on to discuss the development of the five spiritual faculties (信、精進、念、定、慧 - faith, diligence, mindfulness, concentration, and wisdom) and their transformation into the five spiritual powers.
+
+- **The Path and Awakening (覺、道支)**: It describes the elements of the noble eightfold path and the factors leading to awakening, emphasizing how cultivation leads to profound spiritual realization.
+
+- **Monastic Duties and Higher Practices (沙門、沙門義)**: This section might refer to the higher monastic practices and the role of the monastic community in pursuing the path to enlightenment.
+
+- **Vices and Virtues (愛、取)**: The discussion includes insights on attachments, cravings, and how to overcome them to achieve a state free of defilements.
+
+- **Cultivating Spiritual Qualities (修)**: It advises on cultivating specific spiritual qualities and practices essential for attaining bodhi, including detailed practices related to concentration and insight meditation.
+
+- **Towards Non-attachment and Liberation (證淨)**: The text concludes with guidance on transcending worldly attachments, culminating in the attainment of purity and liberation.
+
+Throughout this juan, the emphasis is on practical aspects of the Yogācāra practice, focusing on mindfulness, cultivation of spiritual faculties, overcoming defilements, and ultimately aiming for liberation and enlightenment. Practices are highlighted, and attainments are discussed in the context of progressing on the path toward complete awakening.
+
+This summary encapsulates the essence of the teachings and practices outlined in juan 97, maintaining a focus on the steps and methods that lead practitioners from mindfulness practice through to the subtleties of achieving the bodhi mind, overseeing the progression from foundational practices to the ultimate liberation.
+
 瑜伽師地論卷第九十七彌勒菩薩說
 
 三藏法師玄奘奉　詔譯
@@ -157,4 +180,3 @@
 復次，修四念住所引功德，當知能感最勝增上究竟果故，名有大果；當知能感最勝增上樂勝利故，名有大利。
 
 瑜伽師地論卷第九十七
-

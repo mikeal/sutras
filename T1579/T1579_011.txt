@@ -6,6 +6,23 @@
 #【其他事項】本資料庫可自由免費流通，詳細內容請參閱【財團法人佛教電子佛典基金會資料庫版權宣告】
 #----------------------------------------------------------------------
 
+Tell me what division/section this is, any titles or sections, and briefly summarize this juan of the Yogacarabhumisastra in chinese.
+The text you've provided is from the 11th fascicle (juan) of the *Yogācārabhūmiśāstra* (Treatise on the Stages of Yogic Practice), spoken by Maitreya Bodhisattva and translated into Chinese by the Tripitaka Master Xuanzang under imperial command. This particular section details the *Samādhi Bhūmi* (the stage of meditation), which is one of the stages towards achieving enlightenment according to Yogacara Buddhism.
+
+The section starts by outlining its contents with a general marking (總標), establishment (與安立), focused contemplation (作意), differentiation (相差別), summarizing the essence of Sutras (攝諸經宗要), and finally addressing various miscellaneous meanings (最後眾雜義).
+
+The discussion then moves into detailing the characteristics of meditation (三摩地), starting with the general types of meditative absorptions, including the Four Dhyanas (靜慮), the Formless Absorptions, and the various liberations, attainments, and meditative states that a practitioner can experience. These sections comprehensively cover the structures and states of meditative practice according to the Yogacara Buddhist school.
+
+Following are explanations of establishing oneself in these meditative states (云何安立), which is not only about entering these states but also the related virtues, such as joy, happiness, equanimity, and how these virtues are cultivated through meditative practice away from the desire realm (離欲界).
+
+The text elaborates on the obstacles that can arise during meditation, categorized as the Five Hindrances (五蓋), and how to nourish or avoid these hindrances through proper contemplation and practice. It provides a detailed analysis of maintaining a meditative state by understanding the proper food (食) for promoting or discouraging specific hindrances.
+
+Furthermore, it discourses on the different contemplations or mindful practices (作意差別) and the objects of focus (所緣差別) within meditative practice, offering a profound insight into dealing with various mental phenomena, including handling subtle distractions, employing skillful means (方便), and achieving meditative absorptions.
+
+Lastly, it discusses the cultivation of meditative practice through specific attention to one's intentions, actions, and understandings (e.g., observing the impermanent nature of phenomena), which are crucial for advancing in the Yogacara stages of practice toward ultimate liberation.
+
+This fascicle offers a deep dive into the nuanced practices of meditation within the Yogacara tradition, encapsulating both the theoretical underpinnings and practical applications of achieving Samadhi or meditative concentration, which is essential for progressing on the Buddhist path to enlightenment.
+
 瑜伽師地論卷第十一彌勒菩薩說
 
 三藏法師玄奘奉　詔譯
@@ -338,4 +355,3 @@
 復次，如是諸相即前根本四相所攝，謂所緣相、具攝一切。因緣相亦爾。前與後為因緣故，為令後後得明淨故。正方便相一切種別，皆因緣相。如正方便，邪方便亦爾。一是白品相，第二黑品相。諸染污相唯應遠離。所餘諸相唯應修習。於彼彼時應修習故。
 
 瑜伽師地論卷第十一
-

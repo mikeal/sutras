@@ -6,6 +6,27 @@
 #【其他事項】本資料庫可自由免費流通，詳細內容請參閱【財團法人佛教電子佛典基金會資料庫版權宣告】
 #----------------------------------------------------------------------
 
+Tell me what division/section this is, any titles or sections, and briefly summarize this juan of the chinese Yogacarabhumisastra, providing your answer in english noting translations.
+The text provided is from the 30th volume of the Yogācārabhūmiśāstra, spoken by Maitreya Bodhisattva and translated into Chinese by the Tripitaka master, Xuanzang, under the imperial decree. This specific section focuses on the practice and contemplation associated with the path of a practitioner, particularly the Śrāvakabhūmi (the stage of a hearer or disciple), which deals with various aspects of yogic practice including mindfulness, ethical discipline, meditation, and specific contemplative techniques.
+
+Major themes and practices covered in this section include:
+
+1. **Approach to Learning**: It starts by outlining the proper attitude and method for a practitioner commencing their yogic journey, emphasizing respectful interaction with teachers, a sincere desire for learning, and adherence to ethical discipline.
+
+2. **Mindfulness Practices**: The importance of mindfulness and right mindfulness in various contexts, including daily activities and meditation, is underscored. It delineates how a practitioner should cultivate mindfulness through actions, words, and thoughts.
+
+3. **Ethical Discipline**: The text discusses the importance of maintaining ethical discipline (śīla) and other foundational practices that support the yogic path, highlighting how these practices contribute to the well-being and progress of a practitioner.
+
+4. **Contemplative Practices**: Various contemplative practices are explored, including meditation on impermanence, the contemplation of not-self, and the cultivation of loving-kindness (maitrī) and compassion (karuṇā). The detailed discussion on contemplations aims at profound realizations concerning the nature of existence, leading to the liberation of the mind.
+
+5. **Understanding and Overcoming Mental Afflictions**: It also addresses the understanding of mental afflictions and the methods for overcoming them, which is crucial for progressing on the path towards enlightenment.
+
+6. **Higher Meditative States**: The text describes practices leading to the attainment of higher states of concentration (samādhi) and insight (prajñā), emphasizing the role these states play in achieving spiritual awakening.
+
+This juan focuses on explaining the theoretical foundations and practical aspects of these practices, guiding practitioners on how to effectively apply these principles in their spiritual journey towards enlightenment. The teachings encapsulated in this volume are aimed at helping practitioners deepen their understanding of Buddhist doctrine, enhance their meditation practice, and further their progress on the path to liberation.
+
+The meticulous translation and commentary by Xuanzang reflect the depth of Yogācāra teachings, offering detailed guidance on the cultivation of mind and the realization of the ultimate nature of reality through disciplined practice and contemplation.
+
 瑜伽師地論卷第三十彌勒菩薩說
 
 三藏法師玄奘奉　詔譯
@@ -204,4 +225,3 @@
 云何勤修慈愍觀者，尋思六事差別所緣毘鉢舍那？謂依慈愍增上正法聽聞受持增上力故，由欲利益安樂意樂，於諸有情作意與樂，發起勝解，是慈愍相。若能如是解了其義，如是名為於諸慈愍尋思其義。彼既如是解了義已，復能思擇：此為親品、此為怨品、此中庸品。是一切品，皆他相續之所攝故，於中發起外事勝解。又若親品，名為內事；怨、中庸品，名為外事。如是名為於諸慈愍尋思其事。復能思擇：如是三品，若無苦樂欲求樂者，願彼得樂。今於此中，有饒益相，名為親品；不饒益相，名為怨品；俱相違相，名中庸品。如是三品，若無苦樂欲求樂者，略有三種欲求樂心差別可得。一者、欲求欲界諸樂；二者、欲求色界有喜勇悅諸樂；三者、欲求離喜諸樂。如是若於欲樂匱乏，願彼皆得無罪欲樂。若於有喜、離喜諸樂有所匱乏，當知亦爾。是名尋思慈愍自相。復審思擇：若諸親品、若諸怨品、若中庸品，我於其中皆當發起相似性心、平等性心。何以故？我若作意與親品樂，此未為難；於中庸品作意與樂，亦未甚難；若於怨品作意與樂，乃甚為難。我於怨品尚應作意願與其樂，何況親品及中庸品而不與樂。何以故？此中都無能罵、所罵、能瞋、所瞋、能弄、所弄、能打、所打，唯有音聲、唯有名字。又我此身，隨所生起，有色麁重四大所造，隨所住處，便為如是觸所逼惱。略有二觸，謂音聲觸，及手足塊刀杖等觸。是身及觸皆是無常，能為如是不饒益者亦是無常。又復一切有情之類，皆有生老病死等法，本性是苦；故我不應於本性苦諸有情上，更加其苦，而不與樂。又亦不應不與怨家作善知識、不攝一切有情之類以為自體。又世尊言：我不觀見如是種類有情可得。無始世來經歷生死，長時流轉，不互相為或父、或母、兄弟、姊妹，若軌範師，若親教師、若餘尊重、似尊重者。由是因緣，一切怨品無不皆是我之親品。又怨、親品，無有決定真實可得。何以故？親品餘時轉成怨品；怨品餘時轉成親品，是故一切無有決定。故我今者，應於一切有情之類，皆當發起平等性心、平等性見；及起相似利益意樂、安樂意樂與樂勝解。是名尋思慈愍共相。復審思擇：我若於彼不饒益者發生瞋恚，便為顛倒，黑品所攝，是有諍法，廣說如前。我若於彼不起瞋恚，便無顛倒，白品所攝，是無諍法，廣說如前。如是名為尋思慈愍黑品、白品。復審思擇：諸過去世求欲得樂有情之類，彼皆過去，我當云何能與其樂？諸現在世有情之類，我今願彼盡未來世，於一切時常受快樂。是名尋思諸慈愍時。復審思擇：此中都無我及有情，或求樂者、或與樂者；唯有諸蘊、唯有諸行，於中假想施設言論，此求樂者、此與樂者。又彼諸行，業煩惱等以為因緣。如是名依觀待道理尋思慈愍。若於慈愍善修、善習、善多修習，能斷瞋恚。如是名依作用道理尋思慈愍。如是之義，有至教量；我內智見現轉可得；比度量法，亦有可得。如是名依證成道理尋思慈愍。又即此法成立法性、難思法性、安住法性。謂修慈愍能斷瞋恚，不應思議、不應分別；應生勝解。如是名依法爾道理尋思慈愍。是名勤修慈愍觀者，尋思六事差別所緣毘鉢舍那。
 
 瑜伽師地論卷第三十
-

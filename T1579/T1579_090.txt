@@ -6,6 +6,25 @@
 #【其他事項】本資料庫可自由免費流通，詳細內容請參閱【財團法人佛教電子佛典基金會資料庫版權宣告】
 #----------------------------------------------------------------------
 
+Tell me what division/section this is, any titles or sections, and briefly summarize this juan **only** of the chinese Yogacarabhumisastra, providing your answer in english noting translations. No need to summarize the treatise in general, just this juan.
+This text is from the 90th juan (volume) of the *Yogācārabhūmiśāstra* (瑜伽師地論), a comprehensive and influential treatise belonging to the Yogacara school of Mahayana Buddhism. It was translated into Chinese by the renowned scholar-monk Xuanzang (三藏法師玄奘) under the imperial command.
+
+In this specific juan, the subjects covered pertain to the categorization and analysis of different kinds of actions (karmas) and their respective implications on the path to enlightenment. Here's a summary of key themes addressed in juan 90:
+
+1. **Classification of Karma**: The text begins by detailing various sorts of karmas, categorizing them into types based on their weight (heavy and light), capability of advancement (progressive and non-progressive), intentionality (intentional and unintentional), certainty of retribution (definite and indefinite), and maturity (matured and unmatured). It also elaborates on karmas that lead to different realms, continuing the discourse into actions' moral valences (meritorious, demeritorious, and neutral actions).
+
+2. **Factors Influencing Karma's Weight**: The treatise discusses three causes that can make an action more significant: motivation, effort, and the field of action (referring to the objects or subjects toward which the action is directed, such as beings who are kind or virtuous).
+
+3. **Consequences and Impact of Actions**: Further discourse revolves around how various actions bear fruit, depending on different conditions such as the time of their maturation and their impact on future births and attainment of enlightenment. It also touches upon how some karmic retributions can be a hindrance to achieving arhatship.
+
+4. **Cultivation and Purification of Actions**: The text guides on how practitioners can engage in good actions to progress on the path, highlighting practices related to discernment, meditation, and ethical conduct.
+
+5. **Special Topics**: Later sections introduce an analysis of pleasant and unpleasant experiences, different realms of existence, and advanced states of meditative absorption, detailing how actions correlate with potential rebirths in these realms.
+
+6. **Final States and The Ultimate Goal**: Juan concludes with discussions on the ultimate aims of practicing the Dharma, such as achieving arhatship (the state of enlightenment attained by disciples), and how different kinds of actions play a role in reaching or hindering that goal.
+
+Throughout, the focus is on understanding the intricate workings of karma in the process of samsara (the cycle of birth and death) and the pursuit of liberation from it. This juan contributes to a comprehensive yogic practitioner's roadmap by clarifying the nuances of ethical behavior and mental discipline necessary for spiritual advancement.
+
 瑜伽師地論卷第九十彌勒菩薩說
 
 三藏法師玄奘奉　詔譯
@@ -141,4 +160,3 @@
 當知此中總略義者，謂善說法毘奈耶中，既出家已，由四因緣，如於自己正所應行而不能行，如於大師聖教出家正所應行亦不能行。謂樂相雜住故；隨順隨逐音聲勝解言說故；耽著利養恭敬故；由此耽著增上緣力，聽聞正法，不修自利利他行故。又佛世尊不欲自顯能善御眾，而攝徒眾；唯深哀愍諸有情故。由是因緣，於行邪行弟子眾中，能無護惜分明示語，寧使弟子由此分明麁利益語，現捨正法及毘奈耶，當獲利益，勿令住此廣興邪行。
 
 瑜伽師地論卷第九十
-

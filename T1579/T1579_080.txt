@@ -6,6 +6,25 @@
 #【其他事項】本資料庫可自由免費流通，詳細內容請參閱【財團法人佛教電子佛典基金會資料庫版權宣告】
 #----------------------------------------------------------------------
 
+Tell me what division/section this is, any titles or sections, and briefly summarize this juan **only** of the chinese Yogacarabhumisastra, providing your answer in english noting translations. No need to summarize the treatise in general, just this juan.
+The provided text is from the 80th juan (or volume) of the Yogācārabhūmiśāstra, as translated into Chinese by the eminent translator Xuanzang under imperial decree. This work, attributed to Maitreyanātha and systematized by Asanga, is a foundational text of the Yogācāra school of Mahayana Buddhism.
+
+In this particular juan, the discussion focuses on the advanced stages of a Bodhisattva's path, specifically dealing with the nuances of bodhisattva practice relating to the proper understanding and application of teachings. Below is a summary of the main themes and sections covered in this juan:
+
+1. **Bodhisattvas Perfecting Their Practice**: Initially, the text discusses how Bodhisattvas, having already mastered the preliminary and intermediate teachings, including those shared with Śrāvakayāna, advance their understanding and practice towards realizing the profound nature of emptiness and the two truths (conventional and ultimate). It emphasizes the ineffable aspect of emptiness and how Bodhisattvas diligently cultivate this understanding to penetrate the middle way, avoiding extremes of existence and non-existence.
+
+2. **Categories of Śrāvakas**: A section is dedicated to differentiating between types of Śrāvakas (listeners or disciples), their paths, and practices, comparing them to the Bodhisattva path. The text underscores the superiority of the Bodhisattva's aspirations and their journey towards complete enlightenment (anuttarā samyaksaṃbodhi).
+
+3. **Questions and Answers on Nirvana**: Through a series of questions and answers, the text explores the nature of Nirvana, distinguishing between "Nirvana with remainder" and "Nirvana without remainder," illustrating the Bodhisattva’s unique trajectory towards achieving the latter while emphasizing their capacity for compassionate action within samsara.
+
+4. **Bodhisattva’s Virtues and Capacities**: There’s a profound exploration of the virtues and spiritual capacities that characterize a Bodhisattva, such as their ability to benefit all sentient beings, their deep understanding of emptiness, and their eventual achievement of Buddhahood. The text details the ways in which Bodhisattvas navigate the path, including mastering various transcendent perfections (pāramitās) and their role as teachers and guides for others.
+
+5. **The Ultimate Goal**: The final sections delve into the philosophical distinctions between Bodhisattvas and Śrāvakas concerning nirvana, the ultimate freedom from samsara. It accentuates the Bodhisattva’s resolve not just for personal liberation but for the liberation of all beings, marking a path that goes beyond personal nirvana to embrace a universal vow of compassion and wisdom.
+
+6. **Conclusion**: The treatise concludes with aspirations for the practitioners to continually ponder and reflect upon the vast teachings embodied in the text, encouraging a deep and enduring engagement for further insight and realization.
+
+This juan, rich in doctrinal exposition and practical advice, essentially serves as a guide for advanced Bodhisattva practice. It bridges profound philosophical doctrines with the compassionate action of Bodhisattvas, setting the stage for the ultimate realization of Buddhahood for the benefit of all beings.
+
 瑜伽師地論卷第八十彌勒菩薩說
 
 三藏法師玄奘奉　詔譯
@@ -218,4 +237,3 @@
 如是應知此中總義。於此地中餘決擇文，更不復現。當知於彼一一地中，皆有無量決擇差別，我今且略開示少分。由此方隅、由此所學、由此教導，諸有智者餘類應思。
 
 瑜伽師地論卷第八十
-

@@ -6,6 +6,23 @@
 #【其他事項】本資料庫可自由免費流通，詳細內容請參閱【財團法人佛教電子佛典基金會資料庫版權宣告】
 #----------------------------------------------------------------------
 
+Tell me what division/section this is, any titles or sections, and briefly summarize this juan **only** of the chinese Yogacarabhumisastra, providing your answer in english noting translations. No need to summarize the treatise in general, just this juan.
+This juan (卷) 86 of the Yogācārabhūmiśāstra (瑜伽師地論), attributed to Maitreya and translated into Chinese by the monk Xuanzang (玄奘), focuses on a variety of subjects related to Yogācāra practice and philosophical principles.
+
+The main sections and topics covered in this juan include:
+- Meditative practices related to the contemplation of impermanence, detailed in five types based on the characteristics such as the nature of impermanence, non-eternity, non-permanence, non-protection, and the law of decay.
+- Discussion on three kinds of foolish persons (愚夫) who fail to contemplate these aspects and how their understanding differs from that of the wise.
+- The qualities and achievements of the saintly or the awakened ones (聖者), including their pure wisdom eye and victories over afflictions.
+- Exposition on the nine kinds of wisdom that transcend worldly affairs, including wisdoms related to the cycle of rebirth, the cessation of cycles, different types of causations (contaminated and uncontaminated), and wisdoms corresponding to the Four Noble Truths.
+- The stages of overcoming ignorance and the types of ignorance that bind beings to the cycle of samsara.
+- Discussion on desires, attachments, and their variations and implications.
+- Instructions and reflections on advancing in practice through various stages and metaphors related to progression and realization, including overcoming fear and misunderstandings about the nature of self and phenomena.
+- Insights into the methods for achieving and supporting higher spiritual aspirations, ultimately leading towards the realization of Nirvana.
+- The qualities of a wise person and the distinctions between knowledge (智) and vision (見) in the context of spiritual practice.
+- Additional practices, contemplations, and conditions conducive to liberation, including the protection of one's practice environment, the cultivation of mindfulness, the development of concentration, and the understanding of the subtle workings of karma and afflictions.
+
+This juan intertwines intricate philosophical discussions with practical advice on spiritual training, aiming to guide practitioners towards understanding the fundamental impermanence of all phenomena, overcoming ignorance and attachments, and realizing the ultimate liberation from the cycle of rebirth. It highlights the importance of wisdom, ethical conduct, mental cultivation, and the right understanding of self and reality as central to achieving the goal of Nirvana.
+
 瑜伽師地論卷第八十六彌勒菩薩說
 
 三藏法師玄奘奉　詔譯
@@ -185,4 +202,3 @@
 復次，為斷如是邪行因緣，當知亦有二種對治。一者、為斷不正尋思，以無顛倒數數二行，於諸念住善住其心。二者、為斷諸不正想，修習無相心三摩地。此修對治，要由於彼修對治中猛利樂欲，方得成辦，非彼樂欲不猛利者。此猛利欲由二緣生，謂此對治有大果故，不共一切諸外道故。有大果者，謂修習時，便能剋證無相心定，及住二界妙甘露門。所謂斷界及無欲界，若有餘依及無餘依。安住此者近二涅槃，未於今時一切皆得。言不共者，謂無相定唯內法有，諸外道無。何以故？由彼外道，若有所得，即便增益不如量觀；若無所得，即妄分別。由我見故，愚於諸行，或唯於身、或唯無色、或總於二生我執著；以執我故，謂我當無，便於涅槃心不欣樂。尚未能入，況乎安住，唯增驚怖，其心退還。住內法者與彼相違。於般涅槃心無退轉，了唯苦滅，見唯靜德。若諸有學唯祈內滅，非為生道更從他求教授教誡。若諸無學唯欣內滅，終不更求盡諸煩惱，唯有先因所生諸行任運歸滅而般涅槃。
 
 瑜伽師地論卷第八十六
-

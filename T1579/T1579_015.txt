@@ -6,6 +6,42 @@
 #【其他事項】本資料庫可自由免費流通，詳細內容請參閱【財團法人佛教電子佛典基金會資料庫版權宣告】
 #----------------------------------------------------------------------
 
+Tell me what division/section this is, any titles or sections, and briefly summarize this juan of the Yogacarabhumisastra in chinese.
+The text you've provided appears to be from the 15th volume of the *Yogācārabhūmiśāstra* as translated into Chinese by the renowned translator Xuanzang. This is a significant Buddhist scripture within the Yogācāra tradition, a school of Mahāyāna Buddhism. The *Yogācārabhūmiśāstra* is a comprehensive work that systematically presents the stages of the Bodhisattva's path, including the practices, mental states, and doctrinal positions associated with each stage.
+
+Here's a very high-level summary of the key sections and concepts covered in the provided text:
+
+### Title and Attribution
+- **Title:** *Yogācārabhūmiśāstra* (瑜伽師地論)
+- **Attribution:** Spoken by Maitreya Bodhisattva, Translated by Xuanzang (三藏法師玄奘奉)
+
+### Main Divisions and Topics
+1. **Buddhist Practices:** The text discusses various Buddhist practices such as upholding precepts, meditative concentration, and wisdom. It details the Eightfold Path and how it leads to the cessation of suffering and the achievement of enlightenment.
+
+2. **Moral Discipline:** There's a focus on different aspects of moral discipline (戒), emphasizing correct speech, action, and livelihood as foundations for spiritual progress.
+
+3. **Meditation and Wisdom:** The script elaborates on right mindfulness and concentration for meditation (定) and the cultivation of wisdom (慧) through right view and thought.
+
+4. **Almsgiving:** The text distinguishes between giving with attachment and giving without attachment, underscoring the ideal of pure almsgiving free from self-interest.
+
+5. **Diligence:** It further explains the importance of diligence and how it contrasts with laziness, describing the conditions that lead to both states.
+
+6. **Causes for Rebirth:** Several causes that lead to birth in desirable realms are listed, showing how different intentions and actions lead to varied outcomes in samsara.
+
+7. **Supporting the Community:** The scripture addresses the formation of a monastic community (四眾) within human and heavenly realms and the role of virtuous conduct in community building.
+
+8. **Interaction with the World:** It also covers how practitioners should understand and engage with worldly phenomena, including pleasure, work, relationships, and sensory experiences from a path of spiritual development perspective.
+
+9. **Spiritual Abilities:** The development and application of extraordinary abilities (神通) gained through advanced meditation and the attainment of various states of meditative absorption (samadhi) are discussed.
+
+10. **Analytical Knowledge:** Sections on analytical knowledge (因明) introduce logical and philosophical methods to dissect and understand reality, demonstrating the process of establishing truth through reasoning and debate.
+
+11. **Linguistic Analysis:** The latter part delves into phonetics and linguistics (聲明), offering insights into how language and its components can be used to convey and elucidate the Dharma.
+
+12. **Vocations:** Towards the end, there's a discourse on different vocations or crafts (工業明處), suggesting a holistic perspective that integrates spiritual practice with various aspects of societal engagement.
+
+The *Yogācārabhūmiśāstra* combines philosophical discourse, meditation guides, ethical considerations, and practical advice for laypeople and monastics, representing a holistic approach to the Buddhist path. Its comprehensive nature makes it an invaluable text for understanding the depth and breadth of the Yogācāra school's teachings.
+
 瑜伽師地論卷第十五彌勒菩薩說
 
 三藏法師玄奘奉　詔譯
@@ -240,4 +276,3 @@
 云何工業明處？謂於十二處略說工業所有妙智名工業明處。何等十二工業處耶？謂營農工業、商估工業、事王工業、書算計度數印工業、占相工業、呪術工業、營造工業、生成工業、防那工業、和合工業、成熟工業、音樂工業。
 
 瑜伽師地論卷第十五
-

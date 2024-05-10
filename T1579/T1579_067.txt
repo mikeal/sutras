@@ -6,6 +6,35 @@
 #【其他事項】本資料庫可自由免費流通，詳細內容請參閱【財團法人佛教電子佛典基金會資料庫版權宣告】
 #----------------------------------------------------------------------
 
+Tell me what division/section this is, any titles or sections, and briefly summarize this juan of the chinese Yogacarabhumisastra, providing your answer in english noting translations.
+The text provided is from the "Yogācārabhūmiśāstra" or "Treatise on the Stages of Yoga Practice," presented in its 67th chapter. This ancient text is attributed to Maitreya and was translated into Chinese by the famous pilgrim and translator Xuanzang under the Tang dynasty's imperial command.
+
+This section specifically is about the "Development of Wisdom through Meditation" within a particular part of the text that deals with "Selection and Determination" (攝決擇分中修所成慧地). It outlines different types of meditative practices and the wisdom gained through such practices in both Hīnayāna (Theravāda) and Mahāyāna traditions. Here is a brief overview of the divisions and main points mentioned in this text as derived from your excerpt:
+
+### Divisions or Types of Meditative Wisdom
+
+1. **Shravaka-Yana Corresponding Thought Cultivation** - Meditation practices suitable for followers of the Shravaka (Hearer) path focusing on their own liberation, viewing reality through the lens of the Four Noble Truths.
+
+2. **Mahayana Corresponding Thought Cultivation** - Meditation for Bodhisattvas who aim for the enlightenment of all beings, utilizing practices that encompass limitless, non-discriminatory contemplations.
+
+3. **Image Cultivation (影像修)** - This can involve meditation on specific forms or concepts, whether abstract or concrete, to deepen understanding or realization.
+
+4. **Edge Boundary Cultivation** - Detailed practices exploring the extremes of existence, time, and qualities of phenomena to grasp their true nature.
+
+5. **Achieved Accomplishment Cultivation** - Practices for those who have already reached a certain level of realization or specific meditative absorptions and are aiming to deepen or stabilize those states.
+
+6. **Acquisition Cultivation (得修)** - Focusing on acquiring new insights or qualities not previously realized or developed.
+
+7. **Habituation Cultivation** - Repeated practices aiming for the naturalization of positive thoughts, views, or states of mind.
+
+The text further lists several other types, including removal, counteracting, minor part, pervasive, moving, additional practices, completed, non-practice resultant, and practice-resultant cultivations. Each corresponds to different facets of engaging with meditative practices, either by focusing on specific doctrinal points, implementing particular techniques, or by aiming at specific outcomes like removing obstacles or habitual tendencies.
+
+### Summary
+This section of the Yogācārabhūmiśāstra categorizes and elaborates on a range of Buddhist meditation practices aimed at developing wisdom. It differentiates between practices suitable for the followers of the Shravaka path and those on the Bodhisattva path, emphasizing the cultivation of wisdom through various means such as direct focusing, habituation, cultivation of specific insights, and the removal of impediments to enlightenment.
+
+Each category serves a unique purpose in guiding practitioners through the different stages and challenges encountered on the path to enlightenment, offering a structured framework for deepening one's practice and understanding of the Dharma.
+
+
 瑜伽師地論卷第六十七彌勒菩薩說
 
 三藏法師玄奘奉　詔譯
@@ -214,4 +243,3 @@
 云何此愛生時，普能發起十五無義？一、令隨眠堅固；二、由纏故，染惱一切心心所法；三、令心相續於所緣境顛倒而轉；四、發起取所攝所餘煩惱；五、能安立自類相續；六、能隨順生起未生惡不善法；七、能隨順已生惡不善法，令其增廣；八、能障礙未生善法，令不得生；九、能障礙已生善法，令不得住、不忘、倍增長、益廣大；十、令行惡行故，結集一切諸惡趣苦；十一、悕求後有故，結集生老病死等苦；十二、能令有情怖畏涅槃；十三、能令有情愛樂生死，邪執所有功德勝利；十四、如於生死，於境界亦爾；十五、能令有情思為自害，思為害他，廣說如經，乃至受愛所生心諸憂苦。
 
 瑜伽師地論卷第六十七
-

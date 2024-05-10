@@ -6,6 +6,29 @@
 #【其他事項】本資料庫可自由免費流通，詳細內容請參閱【財團法人佛教電子佛典基金會資料庫版權宣告】
 #----------------------------------------------------------------------
 
+Tell me what division/section this is, any titles or sections, and briefly summarize this juan **only** of the chinese Yogacarabhumisastra, providing your answer in english noting translations. No need to summarize the treatise in general, just this juan.
+This Juan (卷), the 100th of the Yogācārabhūmiśāstra (瑜伽師地論), presented by Maitreya Bodhisattva and translated by the Tripitaka Master Xuanzang (玄奘) under imperial command, focuses on aspects of Vinaya and monastic discipline, specifically discussing the topic of "Defilement and Purification" within the broader subject of "Engagement with Phenomena" (攝事分). The section is deeply concerned with the practicum of the monastic code (Vinaya), aiming at guiding monks (Bhikṣu) towards proper conduct, understanding and managing transgressions, and achieving spiritual purity and discipline.
+
+Summary of the key points covered:
+
+1. **Fivefold Comprehensive Knowledge (遍知)**: It elaborates on five types of comprehensive knowledges essential for monks, covering aspects of:
+   - **Generalities** (事遍知): Understanding the aggregates among others, as explained in the section of Śrāvaka.
+   - **Transgressions** (罪遍知): Knowledge about the causes and conditions of offenses, recognizing types of transgressions, and procedures for atonement.
+   - **Individual (Person)** (補特伽羅遍知): Understanding the diversity among individuals (monks), their actions, and the disciplinary actions they are subjected to.
+   - **Meaning and Benefit** (引攝義利遍知): Recognizing the benefits of monastic discipline both for oneself and for the community.
+   - **Harm and Distress** (損惱遍知): Recognizing the types of actions and thoughts that lead to harm and distress within the monastic community and the broader sentient world, including extreme asceticisms and the pursuit of liberation in ways that are not conducive to enlightenment.
+
+2. **Correcting Faults and Increasing Faith (增信)**: It discusses methods and practices through which monks can purify their actions and thoughts, and in doing so, help to increase faith among the laity and fellow monastics. This includes maintaining ethical discipline (Śīla), right view, and other practices conducive to spiritual advancement.
+
+3. **Categorization of Monastics and Their Practice**: It further categorizes bhikṣus based on their ability to refrain from misconduct, detailing various types of monastics from those who are prone to misconduct to those who are steadfast in their practice. It also delves into the categorization based on the monk’s progression on the path, highlighting differences in practice, realization, and attainment.
+
+4. **Vinaya Practices**: The text goes into specifics about Vinaya practices, the proper ways to atone for transgressions, and understanding the deeper purposes behind the monastic rules and their applications.
+
+5. **Moral Purification**: Detailed discussion on the steps towards moral purification, highlighting the importance of acknowledging one’s transgressions, proper atonement, and the resolve to refrain from repeating the same mistakes, leading towards spiritual purity and discipline.
+
+This section serves as a vital resource for understanding the application of Vinaya and monastic discipline from a Yogācāra perspective, emphasizing the role of comprehensive knowledge, the acknowledgment of transgressions, and the path towards purification and disciplined practice for monastics, leading them towards the attainment of arhatship and ultimate liberation.
+
+
 瑜伽師地論卷第一百彌勒菩薩說
 
 三藏法師玄奘奉　詔譯
@@ -198,4 +221,3 @@
 大唐內常侍輕車都尉菩薩戒弟子觀自在敬寫西域新翻經論，願畢此餘生道心不退，庶以流通未聞之所。竊以佛日西沈，正法云謝；慧流，東漸，象教方傳。希世之符，奧義宣於具葉；非常之寶，至賾登於龍宮。挹其沖源，截暴河而遐逝；其玄間，出朽宅而長驅。玄奘法師，釋門之龍象，振旦之鶖鷺，逾䓗耑勵學，齎梵文而旋止。殺青甫就，永事流通，土方生涯，多幸預聞，正法植田，或爽稟質不全。今罄茲寸祿，繕斯奧旨，片言隻字，貝經心目，親蒙口決，庶無乖殊。以斯福祉，奉福太宗文皇帝即御皇帝王公卿士六姻親族，凡厥黎庶，及跋行啄息，平等董修，乘此勝基，方升正覺。
 
 天長十年(歲次癸丑)七月十八日願主佛師妙廣
-

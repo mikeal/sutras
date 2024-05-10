@@ -6,6 +6,17 @@
 #【其他事項】本資料庫可自由免費流通，詳細內容請參閱【財團法人佛教電子佛典基金會資料庫版權宣告】
 #----------------------------------------------------------------------
 
+Tell me what division/section this is, any titles or sections, and briefly summarize this juan of the chinese Yogacarabhumisastra, providing your answer in english noting translations.
+The text provided is from the 32nd fascicle of the *Yogācārabhūmiśāstra*, a comprehensive compendium of the Yogācāra school of Mahāyāna Buddhism. The passage is from the section on the stages of the practitioner, specifically focusing on the initially practicing Yogācārin ("yogācāra" here refers to someone practicing Yoga or meditation in a Buddhist context, not to be confused with the broader philosophical school of Yogācāra).
+
+This specific section deals with the practice for newcomers to meditation and begins with how to start the practice and progresses through various aspects of Yogic training. It moves through topics such as developing dispassion, finding joy in practice, recognizing the pains associated with cyclic existence (saṁsāra), cultivating mindfulness, and progressively improving one's practice. The text outlines meditation objects and exercises designed to reduce attachment and aversion, purify the mind, and develop concentration and insight.
+
+It is furthermore divided into discussions of various meditation topics such as impurity contemplation (aśubha-bhāvanā), loving-kindness (maitrī), perception of impermanence (anitya-saṁjñā), and mindfulness of breathing (ānāpānasmṛti). These techniques are aimed at leading the practitioner from initial coarse practices to more refined states of meditative absorption and ultimately to liberation.
+
+Throughout, there is a clear structure of instruction that moves from dealing with the external world and one's reactions to it to more subtle internal meditative practices. The text provides detailed methods for shifting from external gross objects of meditation to more subtle internal objects, leading to the understanding and realization of more refined states of awareness. It also includes discussions on the maintenance of ethical discipline, the cultivation of conducive mental states, and the avoidance of distractions.
+
+In conclusion, this passage from the *Yogācārabhūmiśāstra* is a detailed guide for the initial stages of a practitioner's journey in meditation and ethical discipline, outlining a systematic approach to gradually deepening one's practice towards achieving the ultimate goal of enlightenment.
+
 瑜伽師地論卷第三十二彌勒菩薩說
 
 三藏法師玄奘奉　詔譯
@@ -123,4 +134,3 @@
 得此作意初修業者，有是相狀。謂已獲得色界所攝少分定心，獲得少分身心輕安、心一境性，有力有能善修淨惑所緣加行，令心相續滋潤而轉，為奢摩他之所攝護，能淨諸行。雖行種種可愛境中，猛利貪纏亦不生起；雖少生起，依止少分微劣對治，暫作意時，即能除遣。如可愛境，可憎、可愚、可生憍慢、可尋思境，當知亦爾。宴坐靜室，暫持其心，身心輕安疾疾生起；不極為諸身麁重性之所逼惱，不極數起諸蓋現行，不極現行思慕、不樂、憂慮俱行諸想作意。雖從定起，出外經行，而有少分輕安餘勢隨身心轉。如是等類，當知是名有作意者清淨相狀。
 
 瑜伽師地論卷第三十二
-

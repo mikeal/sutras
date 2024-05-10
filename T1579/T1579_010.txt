@@ -6,6 +6,17 @@
 #【其他事項】本資料庫可自由免費流通，詳細內容請參閱【財團法人佛教電子佛典基金會資料庫版權宣告】
 #----------------------------------------------------------------------
 
+Tell me what division/section this is, any titles or sections, and briefly summarize this juan of the Yogacarabhumisastra in chinese.
+This excerpt is from the tenth volume of the Yogācārabhūmi-śāstra (瑜伽師地論卷第十), translated by the eminent Tang dynasty Buddhist scholar and translator, Xuanzang (玄奘三藏法師), under the imperial decree. The Yogācārabhūmi-śāstra is a foundational text of the Yogācāra school of Mahayana Buddhism, which elaborates on the stages of the spiritual path (bhūmi) of a yogācāra, or "practitioner of yoga." It examines the mind and its workings, providing a detailed psychological framework for understanding the path to enlightenment.
+
+This volume focuses on the detailed explanation and analysis of the concepts of “dependence” (緣起) and the various stages and elements involved in cyclic existence (saṃsāra), explaining the mechanics of karmic causation and the process leading to rebirth among the various realms. It discusses the twelve links of dependent origination (pratītyasamutpāda), covering elements like "ignorance" (無明), "formations" (行), "consciousness" (識), etc., up through "birth" (生) and "aging and death" (老死).
+
+The text delves into the specific types of desires and attachments that arise within the realms of desire (欲界), form (色界), and formlessness (無色界), and lays out the mental afflictions and actions that bind beings to the cycle of birth and death. It illustrates how attachment to the sensory world leads to suffering and rebirth, emphasizing the importance of understanding the nature of attachment and the process of karmic causation as keys to liberation.
+
+Moreover, it discusses various aspects of Buddhist philosophy and practice related to dependent origination, including the role of ignorance, karmic actions, consciousness, psycho-physical constituents, sense bases, contact, feeling, craving, clinging, becoming, birth, and aging and death in perpetuating saṃsāra. The text underscores the significance of breaking this cycle through the cultivation of insight into the nature of reality, thereby achieving liberation from saṃsāra.
+
+In summary, volume ten of the Yogācārabhūmi-śāstra presents an in-depth analysis of dependent origination and the cycle of existence, marking critical steps on the path toward enlightenment as understood within the Yogācāra tradition.
+
 瑜伽師地論卷第十彌勒菩薩說
 
 三藏法師玄奘奉　詔譯
@@ -457,4 +468,3 @@
 復次，此三種雜染，謂煩惱雜染、業雜染、生雜染，為欲斷故，修六種現觀應知。何等為六？謂思現觀、信現觀、戒現觀、現觀智諦現觀、現觀邊智諦現觀、究竟現觀。
 
 瑜伽師地論卷第十
-

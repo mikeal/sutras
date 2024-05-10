@@ -6,6 +6,21 @@
 #【其他事項】本資料庫可自由免費流通，詳細內容請參閱【財團法人佛教電子佛典基金會資料庫版權宣告】
 #----------------------------------------------------------------------
 
+Tell me what division/section this is, any titles or sections, and briefly summarize this juan of the chinese Yogacarabhumisastra, providing your answer in english noting translations.
+This text is from Volume 30 of the Taisho Tripitaka, No. 1579, known as the Yogācārabhūmi-śāstra, or the Treatise on the Stages of Yoga Practice, spoken by Maitreypaṇḍita. It is a significant text in the Yogacara school of Mahayana Buddhism, translated into Chinese by the eminent Tang dynasty monk Xuanzang under imperial decree.
+
+This particular section, the 60th scroll of the treatise, largely focuses on the intricate theory of karma (action) and its repercussions, especially emphasizing the moral and ethical dimensions of actions according to the Buddhist doctrine of dependent origination and the mind-only (cittamatra) philosophy. The text explores various kinds of actions (karmas) and their corresponding fruits or consequences, intricately detailing how specific mental states and intentions influence the gravity of actions and their resulting karmic outcomes.
+
+The tract starts by discussing the factors that make the act of killing heavy (i.e., more morally reprehensible) versus light (i.e., less morally reprehensible), considering aspects such as intention, method, and context. It extends this discussion to other actions beyond killing, like stealing and sexual misconduct, elucidating how different conditions can aggravate or mitigate the ethical weight of these actions.
+
+Later, it covers deceitful actions, divisive speech, harsh words, frivolous talk, and thoughts governed by greed, hatred, and delusion, unfolding how these mental activities and verbal actions also carry karmic weight, potentially leading to unfortunate rebirths and other negative outcomes.
+
+Furthermore, the section outlines the process of overcoming ignorance (avidyā) and progressing on the path towards enlightenment. It delves into the twelve links of dependent origination, from ignorance to aging and death, providing insights on how the cycle of suffering can be broken.
+
+Towards the end, it also addresses the correct understanding of dependent origination, refuting misconceptions about causality and the nature of phenomena. It emphasizes the role of consciousness in the formation of experiences and the perpetuation of the cycle of existence.
+
+Xuanzang’s translation scrutinizes the complex interplay of mental formations, actions, and their extended effects across lifetimes, offering a profound look into Yogacara’s ethical and soteriological frameworks. Within its exploration of karma, the text intertwines discussions on morality, psychology, and metaphysics, aiming to guide practitioners towards liberating wisdom and compassionate action.
+
 瑜伽師地論卷第六十彌勒菩薩說
 
 三藏法師玄奘奉　詔譯
@@ -219,4 +234,3 @@
 復次，緣起次第略有四種。一、牽引次第，二、生起次第，三、受用境界次第，四、受用苦次第。無明緣行、行緣識，是牽引次第。識緣名色、名色緣六處，是生起次第。六處緣觸、觸緣受，是生起已受用境界次第。受緣愛、愛緣取、取緣有、有緣生、生緣老死，是受用苦次第。於此處所餘決擇文，更不復現。
 
 瑜伽師地論卷第六十
-

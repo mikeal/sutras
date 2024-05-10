@@ -6,6 +6,25 @@
 #【其他事項】本資料庫可自由免費流通，詳細內容請參閱【財團法人佛教電子佛典基金會資料庫版權宣告】
 #----------------------------------------------------------------------
 
+Tell me what division/section this is, any titles or sections, and briefly summarize this juan of the chinese Yogacarabhumisastra, providing your answer in english noting translations.
+The excerpt provided is from the *Yogācārabhūmiśāstra* or the *Treatise on the Stages of Yoga Practice*, specifically from Volume 59, as compiled in the Taisho Tripitaka (No. 1579). This vast and complex text is attributed to Maitreya and was translated into Chinese by the eminent monk Xuanzang. The *Yogācārabhūmiśāstra* is a foundational text of the Yogacara school of Mahayana Buddhism, providing a detailed framework for the stages of practice leading towards enlightenment.
+
+The specific section you've shared revolves around various aspects of mental afflictions (kleshas), actions (karma), and their purification, emphasizing the nuanced understanding necessary for practitioners to progress on the path. Here's a brief overview based on the content of the provided text:
+
+### Division/Section:
+This text is part of the *Śaṅkā paṭṭabhāga* or the section on the determination of doubts within the larger compendium. It delves into intricate discussions concerning the nature, classification, and overcoming of defilements and unwholesome actions.
+
+### Titles or Sections Covered:
+- **Nature of Afflictions**: Discusses how all afflictions have the potential to produce actions (karma), focusing particularly on when these afflictions are active and how they contribute to creating karma leading to unfortunate rebirths.
+- **Classification of Afflictions**: Afflictions are detailed in terms of their characteristics (such as their inherent nature, common traits, and distinctions), with further elaborations on their various manifestations, like linked to dormant tendencies (anuśaya) and resulting actions.
+- **Question and Answer Format**: The text uses a dialogic format to explore different questions around the functionality of afflictions (like their ability to drive actions), their classifications, and their relation to the paths of practice.
+- **Specificity of Mental Afflictions**: Breaks down afflictions into aspects like their intensities, how they manifest in different realms, and their capacity for causing suffering. It also addresses how afflictions can be eradicated gradually through practice.
+
+### Summary of the Discussed Juan:
+The text navigates through the intricacies of understanding and dealing with afflictions essential for spiritual progress. It emphasizes a detailed classification system for these afflictions, discussing their capabilities to instigate actions, how they manifest across various realms of existence, and how they can be subdued or eradicated through diligent practice.
+
+This detailed exegesis underscores the profound psychological insights of the Yogacara tradition, focusing not just on theoretical knowledge but on practical applications within a practitioner's spiritual journey. By analyzing the roots of afflictions and their manifestations, the text serves as a guide for navigating the path toward liberation and enlightenment.
+
 瑜伽師地論卷第五十九彌勒菩薩說
 
 三藏法師玄奘奉　詔譯
@@ -222,4 +241,3 @@
 復次，若作是思：決定無施。是名邪見。廣說乃至謗因、謗用、謗果，壞真善事，如是一切皆名邪見根本業道。問：一切倒見皆名邪見，何故世尊於業道中，但說如是誹謗之見名為邪見？答：由此邪見，諸邪見中最為殊勝。何以故？由此邪見為依止故，有一沙門、若婆羅門斷諸善根。又此邪見最順惡業。懷邪見者，於諸惡法隨意所行，是故此見偏說在彼惡業道中。當知餘見非不邪見自相相應。
 
 瑜伽師地論卷第五十九
-

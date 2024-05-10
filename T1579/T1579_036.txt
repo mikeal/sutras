@@ -6,6 +6,32 @@
 #【其他事項】本資料庫可自由免費流通，詳細內容請參閱【財團法人佛教電子佛典基金會資料庫版權宣告】
 #----------------------------------------------------------------------
 
+Tell me what division/section this is, any titles or sections, and briefly summarize this juan of the chinese Yogacarabhumisastra, providing your answer in english noting translations.
+The provided text is from the **Yogācārabhūmiśāstra (瑜伽師地論)**, specifically from **Volume 36**. This is a comprehensive work attributed to Maitreya-nātha, as transmitted and translated into Chinese by the famed translator Xuanzang (玄奘). The Yogācārabhūmiśāstra represents the intellectual foundation of the Yogācāra school of Mahāyāna Buddhism, providing detailed expositions on the path of the bodhisattva, meditation practices, and philosophical doctrines.
+
+**Sections and Summaries:**
+
+The text begins with discussing factors conducive to self-benefit and benefiting others through engaging in virtuous activities. It outlines how a bodhisattva, through cultivating various causes and conditions, reaps fruits that enable them to benefit themselves and others more effectively. This part emphasizes three main aspects: **vieparjitaphala (異熟果),** representing the matured results of actions; **puṇyaphala (福果),** referring to the beneficial outcomes of virtuous deeds; and **jñānaphala (智果),** concerning the fruit of wisdom or understanding.
+
+1. **Aspects of Vieparjitaphala:**
+   - Longevity, appearance, family status, autonomy, credibility, influence, masculinity, and health are highlighted as attributes developed through ethical conduct and altruism. These attributes empower a bodhisattva in their practice and in aiding others.
+
+2. **Causes for Vieparjitaphala:**
+   - Demonstrates how specific virtuous actions lead to the cultivation of previously mentioned attributes. For instance, not causing harm relates to longevity, generosity leads to wealth, and speaking truth contributes to credibility.
+
+3. **A deeper dive into Puṇyaphala and Jñānaphala:**
+   - Discusses how practices of generosity (dāna), ethical behavior (śīla), and patience (kṣānti) contribute to puṇya or merit, while wisdom (prajñā) is elevated as a singularly significant pursuit for achieving insight.
+
+The text then navigates through the intricacies of these virtuous paths, offering detailed insights into their causes, manifestations, and outcomes. By engaging in these practices, a bodhisattva not only cultivates their potential for enlightenment (bodhi) but also sets a foundation for offering profound benefits to others, thereby fulfilling the core aspirations of the Mahāyāna path.
+
+4. **Utilizing Resources and Understanding Reality (True Meaning):**
+   - Discusses how bodhisattvas should utilize their accumulated wealth and merits for the benefit of others while adhering to a deep understanding of reality as characterized by emptiness (śūnyatā). This section reinforces the importance of not getting attached to worldly phenomena or practices for their own sake but using them skillfully for enlightenment and the welfare of other beings.
+
+5. **Integration of Practice:**
+   - Highlights the integration of wisdom and compassionate action as crucial for the bodhisattva's journey. The text emphasizes the necessity of understanding emptiness and the conventional world simultaneously, allowing for effective action within samsara while remaining unattached from its inherently empty nature.
+
+This juan (卷) from the **Yogācārabhūmiśāstra** effectively covers the theoretical and practical aspects of the bodhisattva path, elaborating on how cultivating personal virtues directly impacts one's capacity to benefit others. Through a careful balance of philosophical exposition and practical advice, it offers an in-depth guide for practitioners aiming to embody the bodhisattva ideal.
+
 瑜伽師地論卷第三十六彌勒菩薩說
 
 三藏法師玄奘奉　詔譯
@@ -270,4 +296,3 @@
 當知如是四真實義，初二下劣，第三處中，第四最勝。
 
 瑜伽師地論卷第三十六
-

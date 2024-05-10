@@ -6,6 +6,25 @@
 #【其他事項】本資料庫可自由免費流通，詳細內容請參閱【財團法人佛教電子佛典基金會資料庫版權宣告】
 #----------------------------------------------------------------------
 
+Tell me what division/section this is, any titles or sections, and briefly summarize this juan of the chinese Yogacarabhumisastra, providing your answer in english noting translations.
+This text is part of the "Yogācārabhūmiśāstra" (瑜伽師地論), specifically from Volume 29, translated into Chinese by the famous translator Xuanzang (玄奘) under imperial decree. This portion of the text discusses various aspects of practice and understanding within the Yogacāra (瑜伽行派) tradition of Mahayana Buddhism.
+
+### Division/Section and Titles
+- The text is from the Taishō Tripiṭaka (大正新脩大藏經), Volume 30, number 1579.
+- This particular juan (卷 - a section or scroll of the text) is focused on deeper aspects of practice and the overcoming of various obstacles on the path, including dealing with the kleshas (mental afflictions) and understanding different levels of practitioners.
+
+### Summary
+The selections highlight teachings on the practices leading to and the cultivation of mindfulness (smṛti), concentration (samadhi), and wisdom (prajñā), among others. It elaborates on four types of distractions or obstructions (referred to as "māras" or "demons") that practitioners might face: those arising from the aggregates (skandhas), defilements (kleshas), the fear of death, and the temptations of Māra, the deity who personifies the forces antagonistic to enlightenment.
+
+The text also discusses the classification of individuals based on their propensity towards certain mental states or actions, differentiating between those with more wholesome or unwholesome inclinations and how these inclinations impact one's practice and potential for attainment.
+
+Additionally, it mentions the importance of proper guidance, the maturity of one's faculties, and the strength of one's efforts in successful practice. The obstructions to practice are also classified, including lack of proper instruction, inadequate preparation of one's faculties, and insufficient effort.
+
+The notion of four types of śramaṇas (monastic or ascetic practitioners) and brāhmaṇas (priests or persons of purity) is presented, exploring their roles and characteristics within the broader religious landscape and how these roles relate to the practitioner's goal of overcoming ignorance and suffering.
+
+In essence, this section of the Yogācārabhūmiśāstra deals with advanced topics in Buddhist practice, emphasizing the path to liberation and the obstacles encountered. It serves as a guide for practitioners on cultivating the mind and navigating through various spiritual challenges.
+
+
 瑜伽師地論卷第二十九彌勒菩薩說
 
 三藏法師玄奘奉　詔譯
@@ -257,4 +276,3 @@
 若有諸根已得積集，教授隨順，等持強盛；精勤發趣，決定有果。如是名為由三因緣，空無有果；由三因緣，決定有果。
 
 瑜伽師智論卷第二十九
-

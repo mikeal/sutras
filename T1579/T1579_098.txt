@@ -6,6 +6,21 @@
 #【其他事項】本資料庫可自由免費流通，詳細內容請參閱【財團法人佛教電子佛典基金會資料庫版權宣告】
 #----------------------------------------------------------------------
 
+Tell me what division/section this is, any titles or sections, and briefly summarize this juan **only** of the chinese Yogacarabhumisastra, providing your answer in english noting translations. No need to summarize the treatise in general, just this juan.
+The text provided is from juan (volume) 98 of the Yogācārabhūmi-śāstra (瑜伽師地論), as presented in the Taisho Shinshu Daizokyo (大正新脩大藏經), which is a significant compilation of Buddhist scriptures. This specific volume is attributed to Maitreya Bodhisattva (彌勒菩薩說) and translated into Chinese by the famed translator Xuanzang (三藏法師玄奘).
+
+This juan is part of the "Śāstra" (論) section of the Yogācārabhūmi, dealing specifically with the advanced practices and stages (bhūmis) of a Yogācāra (Yoga practice) practitioner, focusing on detailed discussions of meditation, moral discipline, and the nature of consciousness and phenomena. Xuanzang's translation is paramount in bringing Indian Buddhist philosophical thought into the Chinese Buddhist context, notably affecting the development of Chinese and East Asian Mahāyāna Buddhism.
+
+In summary, juan 98 addresses a range of sophisticated topics under the theme of "practices and realizations" crucial for a Buddhist practitioner (yogācāra), including but not limited to:
+
+- The importance of ethical conduct (śīla) as the foundation for higher meditative practices and wisdom (prajñā).
+- The distinction between proper and improper practices, emphasizing the need for clarity, purity, and the shunning of actions that lead to negative outcomes.
+- Techniques and considerations for dealing with afflictive emotions and thoughts, with the ultimate goal of achieving a state of liberation or enlightenment (nirvāṇa).
+- Discussions related to different types of meditation, including the focus on breath (ānāpānasmṛti) as a method for cultivating concentration and insight.
+- The differences between various spiritual attainments and the characteristics that define them.
+
+It should be noted that the Yogācārabhūmi-śāstra is comprehensive, covering the entire path from the beginning stages of a practitioner to the highest realizations of a bodhisattva, thereby serving as an essential text for understanding the practices and philosophical underpinnings of the Yogācāra tradition within Mahāyāna Buddhism. Juan 98, in particular, contributes to elucidating the practical aspects of achieving the higher stages of spiritual development through disciplined practice and contemplative insight.
+
 瑜伽師地論卷第九十八彌勒菩薩說
 
 三藏法師玄奘奉　詔譯
@@ -178,4 +193,3 @@
 如是略引隨順此論境智相應諸經宗要摩呾理迦，其餘一切隨此方隅，皆當覺了。
 
 瑜伽師地論卷第九十八
-

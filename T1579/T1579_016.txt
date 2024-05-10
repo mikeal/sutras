@@ -6,6 +6,18 @@
 #【其他事項】本資料庫可自由免費流通，詳細內容請參閱【財團法人佛教電子佛典基金會資料庫版權宣告】
 #----------------------------------------------------------------------
 
+Tell me what division/section this is, any titles or sections, and briefly summarize this juan of the Yogacarabhumisastra in chinese.
+This is the sixteenth volume of the *Yogācārabhūmi-śāstra* (瑜伽師地論), attributed to Maitreya and translated into Chinese by the eminent translator Xuanzang (玄奘三藏). The text is a comprehensive manual for practitioners of the Yogācāra tradition, one of the major philosophical schools of Mahāyana Buddhism. The portion of text provided here focus on the *Bhūmi* of thought development (*Cintā-mayī-bhūmi*, 思所成地), which is part of a larger discussion on the stages of spiritual cultivation (*Bhūmis*).
+
+The discourse is structured into three main aspects concerning thought development:
+1. **Purity of Nature**: This section outlines nine types of corresponding knowledge that contribute to pure and well-purified thought. These include solitary reflection on learned Dharma, avoidance of inexplicable states, mastery over various teachings, and rigorous contemplation without discouragement.
+2. **Selection of Knowledge**: It discusses the ability to discern the nature of things, differentiating what exists from what does not, through understanding the attributes of phenomena such as their inherent, mutual, and constructed characteristics.
+3. **Examination of Phenomena**: This involves a detailed inspection and categorization of phenomena into types such as those having inherent existence, mutual characteristics, and those that are designated through communal agreement.
+
+These discussions offer a profound insight into the Yogācāra method of mental training and analysis. The text emphasizes the need for purity of thought, discernment in understanding, and the crucial role of meticulous contemplation on the nature of phenomena. The ultimate goal is to reach higher states of realization and ultimately achieve liberation.
+
+This volume, part of the comprehensive Yogācāracarabhūmi-śāstra, serves as a detailed guide for practitioners on cultivating the mind through contemplation and discernment, aiming to progress on the path of enlightenment by purifying thought, understanding the true nature of phenomena, and applying these insights in meditation and daily practice.
+
 瑜伽師地論卷第十六彌勒菩薩說
 
 三藏法師玄奘奉　詔譯
@@ -431,4 +443,3 @@
 「非太沈、太浮，恒善住正念，根本眷屬淨，而修行梵行」者，此頌顯示遠離微劣惡作故，遠離非處惡作故；遠離失念故，於究竟時及方便時，修行梵行皆得清淨。
 
 瑜伽師地論卷第十六
-

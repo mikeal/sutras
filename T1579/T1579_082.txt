@@ -6,6 +6,27 @@
 #【其他事項】本資料庫可自由免費流通，詳細內容請參閱【財團法人佛教電子佛典基金會資料庫版權宣告】
 #----------------------------------------------------------------------
 
+Tell me what division/section this is, any titles or sections, and briefly summarize this juan **only** of the chinese Yogacarabhumisastra, providing your answer in english noting translations. No need to summarize the treatise in general, just this juan.
+This text is an excerpt from the 82nd chapter of the *Yogācārabhūmiśāstra*, a foundational text in the Yogācāra tradition of Mahayana Buddhism, attributed to Maitreya and translated into Chinese by the famed translator Xuanzang under imperial decree. This chapter falls under the section "攝釋分之下" or "Below the Section on Explanations" or "Summary and Explanation Section.”
+
+In this chapter, the text focuses on various important themes related to the practice and understanding of the Dharma, emphasizing the importance of listening to the Dharma with respect and attentiveness, establishing grounds for a proper environment to receive the teachings, the reasons for respecting and listening to the teachings, and the benefits that come from doing so. It elaborates on factors such as the benefits of listening to the Dharma, which includes overcoming evil destinies, quickly gathering the causes for Nirvana, developing superior understanding, and achieving benefits both in this life and beyond through practicing the Buddha's teachings.
+
+Key topics covered include:
+
+1. **The Importance of Respectful Listening**: Explains how listeners should respectfully engage with Dharma teachings for maximal benefit, detailing reasons ranging from personal spiritual development to the acquisition of wisdom.
+
+2. **Factors for Respectful Listening**: Lists and describes multiple factors (e.g., recognizing the virtues of the Dharma, understanding the benefits of listening, and knowing the superior qualities of the teachings) that should motivate respectful engagement with Buddhist teachings.
+
+3. **Benefits of Listening to the Dharma**: Discusses the diverse benefits obtained from listening to the Dharma, such as achieving happiness, understanding the true nature of phenomena, abandoning nonvirtuous actions, and ultimately, attaining Nirvana.
+
+4. **Extolling the Buddha**: The text includes sections praising the Buddha's virtues, emphasizing his teaching's power to illuminate, liberate, and provide profound benefits to all beings, showcasing his perfected qualities and the extraordinary results of his teachings.
+
+5. **Engagement in Buddhist Practice**: Emphasizes the significance of engaging earnestly in Buddhist practice, explaining how it can lead to diverse forms of happiness, wisdom, and spiritual liberation. It details the essential practices and virtues a practitioner should cultivate.
+
+Throughout, the narrative technique intersperses theoretical exposition with practical advice, aiming to guide the practitioner towards a deepened comprehension of the Dharma, leading to liberation. This chapter emphasizes the transformative power of the Dharma, the significance of an appropriate attitude towards listening and practicing the teachings, and the extraordinary qualities of the Buddha.
+
+This summary provides an overview of the major themes and teachings found in this particular part of the *Yogācārabhūmiśāstra*, highlighting its focus on the right reception of Buddhist teachings, the cultivation of virtues, and the comprehensive benefits of sincerely engaging with the Dharma.
+
 瑜伽師地論卷第八十二彌勒菩薩說
 
 三藏法師玄奘奉　詔譯
@@ -293,4 +314,3 @@
 如是等類，名攝釋分。
 
 瑜伽師地論卷第八十二
-

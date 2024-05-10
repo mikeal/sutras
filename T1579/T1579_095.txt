@@ -6,6 +6,21 @@
 #【其他事項】本資料庫可自由免費流通，詳細內容請參閱【財團法人佛教電子佛典基金會資料庫版權宣告】
 #----------------------------------------------------------------------
 
+Tell me what division/section this is, any titles or sections, and briefly summarize this juan **only** of the chinese Yogacarabhumisastra, providing your answer in english noting translations. No need to summarize the treatise in general, just this juan.
+This is Juan (Volume) 95 of the Yogācārabhūmiśāstra, attributed to Maitreyanātha and translated into Chinese by the eminent translator Xuanzang under imperial order. This particular juan is situated within the section of the treatise that addresses the integration and correspondence of doctrines and practices ('攝事分中契瓊事緣起食諦界擇攝'), focusing extensively on the engagements with various teachings and practices, their correct and incorrect apprehensions, and their implications for spiritual progress toward enlightenment.
+
+Juan 95 elaborates on several critical aspects of Buddhist spiritual practices and understanding. It begins with the importance of proper understanding and appropriation of teachings ('如理、攝、集諦'), emphasizing the necessity for a practitioner to discern between what is in accordance with the Dharma ('如理') and what is not, to avoid the pitfalls of misunderstanding.
+
+It further discusses the dangers of listening to incorrect teachings and how these can lead individuals away from the path to liberation, towards continued samsaric existence. Fundamental to the discussion is the contrast between right and wrong view ('如理' vs. '不如理'), and how these views affect one's ability to fully apprehend and work with the four noble truths (suffering, the origin of suffering, the cessation of suffering, and the path leading to the cessation of suffering).
+
+Moreover, this juan addresses various forms of attachments and identifies detailed psychological and philosophical underpinnings of worldly attachments ('愛'), explaining how these lead to rebirth and continued suffering. It highlights the application of mindfulness and other meditative practices as means to overcome these attachments by deeply understanding the nature of reality according to the principles of impermanence ('無常'), non-self ('無我'), and suffering ('苦').
+
+Additionally, discussions within this juan extend to the practicality of applying the teachings: safeguarding oneself from erroneous interpretations, the importance of hearing and practicing the correct Dharma for achieving liberation, and the conduct leading to beneficial rebirths or further progress on the path.
+
+The text concludes by impressively weaving the theoretical aspects of Buddhism with practical applications. It calls attention to the difficulties in truly understanding and practicing the Dharma ('難得'), portraying the rare opportunity presented by human life to engage in spiritual practice towards realization and liberation. Insightfully, it connects the undertaking of wholesome deeds, ethical discipline, correct understanding, and meditative practices as essential components for traversing the path toward enlightenment.
+
+In summary, Juan 95 of the Yogācārabhūmiśāstra operates both as an exposition on discerning correct teachings and practices within the Buddhist framework and as a guide for practitioners on how to effectively engage with these teachings to progress towards enlightenment, emphasizing right understanding, the critical engagement with the Dharma, and the imperatives of practicing in accordance with the noble truths.
+
 瑜伽師地論卷第九十五彌勒菩薩說
 
 三藏法師玄奘奉　詔譯
@@ -108,4 +123,3 @@
 復次，若住是身入諦現觀，當知此身最為難得。又聖明眼見諦有學轉甚難得。又聞思修所成妙慧亦為難得。由此慧故，於善說法毘柰耶中，如其次第，解了、勝了及以決了。於解了時，能審分別；於勝了時，能生勝解；於決了時，於法入證。又諦現觀所有資糧善有漏法亦為難得，謂於父母識恩養等諸善業道。有暇圓滿亦為難得。又有世間初正見等，乃至解脫智為後邊十種正法，亦為難得。如是諸法，即是有學、即是無學。當知此中，善知恩養所有士夫補特伽羅，如實了知一切父母皆應孝養。如是知已，於其父母勤修孝養，是名善識父母恩養。又樂己利所有士夫補特伽羅，於他有德一切沙門及婆羅門，如實了知是福田已，如其所應勤修供養，是名善知所有沙門、若婆羅門。又無貪墮所有士夫補特伽羅，於諸妻子及奴婢等一切親屬，如實了知彼既以我為室為歸，我若有樂，彼亦隨樂；我若有苦，彼亦隨苦。如是知已，於時時間，正以飲食、衣服給賜，復以病緣醫藥攝受。於彼義利自然勇勵而為施造，非於一切求彼憶念。稟性忠平，好等分布；亦不淫佚損費財寶。不於非處生毘柰耶，亦不非處而興憤發。於諸耆長及尊重處，正善隨轉。如是名為善御家長，善能造作自他義利。諸所施為皆以正法，不以非法。於現法中他作惡行，深見過失，謂或殺、或縛、或罰、或退、或被譏毀；正思擇已，終不現行。如是名為於此世罪深見怖畏。又正觀見造惡行已，於其後世感惡趣苦，及感所餘匱乏等苦；正思擇已，終不現行。如是名為於他世罪深見怖畏。又時時間能正受學施福業事，造作種種差別福行。所謂看病、事佛法僧、躬為執當，如是等類名作福行。於一日夜乃至盡壽，所有尸羅能正受學。如是總名惠施作福、受齋學戒。十業道者，謂二三等差別宣說，乃至為令由聞思慧，於彼相應所有作意正多修習。又諸有情生惡趣已，難可解脫；生善趣已，速疾乖離。當知是名有暇圓滿甚為難得。又見諦故，無有差別正見生起。於過去世名已生起，於現在世名今生起，於未來世名當生起。如前所說若習、若修、若多修習，其義應知。若世間正見，應隨防護；若有學正見并其斷果，應隨觸證；若無學正見并自離繫果，應隨作證。如說正見，如是乃至解脫智，應知亦爾。
 
 瑜伽師地論卷第九十五
-

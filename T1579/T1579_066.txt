@@ -6,6 +6,32 @@
 #【其他事項】本資料庫可自由免費流通，詳細內容請參閱【財團法人佛教電子佛典基金會資料庫版權宣告】
 #----------------------------------------------------------------------
 
+Tell me what division/section this is, any titles or sections, and briefly summarize this juan of the chinese Yogacarabhumisastra, providing your answer in english noting translations.
+This text is from the "Yogācārabhūmiśāstra" (瑜伽師地論), specifically from scroll 66, as stated in the opening lines. The "Yogācārabhūmiśāstra" is a foundational text of the Yogācāra school of Mahayana Buddhism, attributed to Maitreya and compiled by Asanga and his disciples. This comprehensive work is structured into several sections, covering various stages of practice and doctrinal expositions pertaining to the Yogācāra tradition.
+
+The given section of the text can be seen as part of the broader exposition on the processes of cognition, mental afflictions, and the path to enlightenment from a Yogācāra perspective. This specific fragment delves into several doctrinal and philosophical discussions, including the nature of suffering (dukkha), the classifications of phenomena (dharmas) across various dimensions like temporality (past, present, future), realms of existence (e.g., desire realm, form realm, formless realm), and types of practices and attainments (e.g., the practices of the learners and non-learners, the profound and hard to see laws).
+
+Here's a brief summary touching on some key themes based on the divisions and content from the text provided:
+
+### Sections and Titles
+Although not explicitly divided into sections within the text, several major themes can be discerned:
+
+1. **Analysis of Suffering (Dukkha):** It talks about the characteristics of suffering, different kinds of suffering, and how they are experienced by beings. Suffering is linked with the aggregates (skandhas) and is analyzed in context with sensory experiences.
+
+2. **Nature and Types of Dharmas (Phenomena):** The text categorizes dharmas into various groups such as afflicted, non-afflicted, conditioned, unconditioned, etc. It includes discussions on causality, karma, and the results of actions.
+
+3. **Path to Enlightenment:** It outlines how practitioners should understand and practice to overcome suffering and delusions. This includes practices for beginners on the path and those advanced in their spiritual journey. The importance of understanding the nature of reality (e.g., impermanence, no-self) is emphasized for spiritual progress.
+
+3. **Philosophical Expositions:** The text includes detailed analyses of concepts like the three times (past, present, future), the realms of existence, and the process of cognition from a Yogācāra perspective. It also goes into the specifics of mental afflictions and their eradication.
+
+4. **Practice and Attainment:** Detailed guidance on the spiritual practices (e.g., meditations, moral discipline), types of practitioners (e.g., learners, non-learners), and the stages of spiritual development leading to enlightenment.
+
+### Summary
+This part of the "Yogācārabhūmiśāstra" provides a deep and methodical examination of the Buddhist path according to the Yogācāra school, emphasizing the analysis of mind, phenomena, and the practice leading to the realization of true nature. The teachings aim to guide practitioners through the intricacies of cognitive and karmic processes, helping them untangle the roots of suffering and achieve liberation.
+
+Considering the volume and depth of content in scroll 66, this summary only touches on the broad themes. The text combines dense philosophical treatises with practical guidance, reflecting the Yogācāra school’s comprehensive approach to understanding the mind and reality for the pursuit of enlightenment.
+
+
 瑜伽師地論卷第六十六彌勒菩薩說
 
 三藏法師玄奘奉　詔譯
@@ -159,4 +185,3 @@
 於此地中餘決擇文，更不復現。
 
 瑜伽師地論卷第六十六
-

@@ -6,6 +6,22 @@
 #【其他事項】本資料庫可自由免費流通，詳細內容請參閱【財團法人佛教電子佛典基金會資料庫版權宣告】
 #----------------------------------------------------------------------
 
+Tell me what division/section this is, any titles or sections, and briefly summarize this juan of the chinese Yogacarabhumisastra, providing your answer in english noting translations.
+This text is from the 70th volume of the Yogācārabhūmiśāstra (瑜伽師地論), spoken by Maitreya Bodhisattva and translated into Chinese by the Tripitaka Master Xuanzang (三藏法師玄奘) under imperial command. The Yogācārabhūmiśāstra is a comprehensive work foundational to the Yogacara school of Mahayana Buddhism, detailing the stages of the practice path for yogis.
+
+In this volume, the focus is on various virtues, meditative practices, ethical conduct (śīla), and the development of wisdom. It elaborates on:
+
+1. The benefits of wisdom's light, distinguishing it from mundane light in terms of qualities such as overcoming ignorance, leading beings to previously unattained states, and revealing truths not seen before.
+2. The purification of vows and precepts through understanding and supporting factors such as companionship and personal nature.
+3. The distinction between types of Brahmins and ascetics, emphasizing the importance of right conduct over mere birth or title.
+4. Factors that destroy ethical discipline and those that fulfill it, highlighting the importance of confession and mindfulness about one's actions and intentions.
+5. The detailed analysis of cultivating virtuous qualities and practices leading to tranquility, withdrawal, and serene abiding, indicating a detailed path towards achieving and maintaining ethical discipline and meditative focus.
+
+The text also discusses various aspects of renunciation, the characteristics of a monk's life, and the practices conducive to enlightenment. It showcases the importance of wisdom, ethical conduct, and the right mental attitudes in the path to liberation. Furthermore, it offers insights into the flaws of attachment to material generosity over the spiritual gift of the Dharma, illustrating the temporary nature of material offerings compared to the enduring value of Dharma teachings.
+
+In summary, the 70th volume of the Yogācārabhūmiśāstra provides a detailed guide on the practice of ethics, meditation, and wisdom, emphasizing the cultivation of mindfulness, the importance of ethical discipline, and the pursuit of wisdom through reflection, meditation, and understanding. It outlines a path for practitioners to progress from basic ethical conduct towards the ultimate goal of achieving enlightenment, presenting a comprehensive framework for spiritual development according to the Yogacara tradition.
+
+
 瑜伽師地論卷第七十彌勒菩薩說
 
 三藏法師玄奘奉　詔譯
@@ -165,4 +181,3 @@
 如是四支別分十一，十一與四，平等平等。
 
 瑜伽師地論卷第七十
-

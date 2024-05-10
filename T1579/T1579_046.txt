@@ -6,6 +6,26 @@
 #【其他事項】本資料庫可自由免費流通，詳細內容請參閱【財團法人佛教電子佛典基金會資料庫版權宣告】
 #----------------------------------------------------------------------
 
+Tell me what division/section this is, any titles or sections, and briefly summarize this juan of the chinese Yogacarabhumisastra, providing your answer in english noting translations.
+The provided text is from the 46th scroll of the *Yogacarabhumi Shastra* (瑜伽師地論), a key philosophical and practice text in the Yogacara tradition of Mahayana Buddhism, as translated by the renowned Tang dynasty translator, Xuanzang (玄奘). The Yogacarabhumi Shastra, attributed to Maitreya, outlines the stages of the path (bhumi) of a bodhisattva's development toward enlightenment. This specific portion contains detailed instructions and doctrinal expositions relevant to advanced practice and understanding in Mahayana Buddhism.
+
+### Division and Titles:
+This portion belongs to the **"Bodhisattva Bhumi"** (菩薩地), focusing on the fifteenth stage, **"Initial Engagement in Yoga"** (初持瑜伽處), particularly in the section of **"Bodhi Part"** (菩提分品) labeled as section 17 within the broader topic.
+
+### Summary:
+The text begins with a discussion on the four marks (法嗢拕南) indicating the impermanent (無常), suffering (苦), selfless (無我), and serene nature (涅槃寂靜) of all phenomena, emphasizing foundational Buddhist teachings to foster purification of beings.
+
+The dialogue continues with an in-depth analysis of these marks, detailing how a bodhisattva contemplates the nature of phenomena to develop a correct understanding and how this insight is crucial for the path to enlightenment. The discussion spans various themes such as the impermanence of all conditioned phenomena, the nature of suffering present in existence, the doctrine of no-self regarding personal and phenomenal identity, and the ultimate peace found in Nirvana.
+
+The text systematically elaborates on the bodhisattva's cultivation of wisdom and compassion, their undertaking of virtuous activities for the benefit of all beings, and the importance of understanding and applying the teachings correctly in one's practice. It covers aspects like the ideal of the bodhisattva, their dedication to sentient beings, the significance of the right view, and the process towards attaining Buddhahood.
+
+Particularly, it underscores the bodhisattva's commitment to enduring the trials of cyclic existence (samsara) for the sake of all beings, their mastery over the practices conducive to enlightenment, and their journey toward realizing nirvana without attachment, thereby achieving the ultimate goal of Buddhism.
+
+It also touches on various methods a bodhisattva employs to benefit beings, their vast vows for enlightenment, and the profound understanding and merits they accumulate along their path. Unique characteristics attributed to bodhisattvas, such as their immeasurable compassion, wisdom, and spiritual powers, are highlighted, setting a framework for practitioners aspiring to the bodhisattva path.
+
+This juan concludes with teachings related to the realization and dissemination of the Dharma, elucidating how a bodhisattva aids in the preservation and spread of the teachings for the welfare of all beings. It encapsulates the essence of Mahayana practices and goals, serving as a guide for those dedicated to following the path of a bodhisattva toward enlightenment.
+
+
 瑜伽師地論卷第四十六彌勒菩薩說
 
 三藏法師玄奘奉　詔譯
@@ -187,4 +207,3 @@
 如是所說一切菩薩，當知復有如是等類無有差別隨德假名。所謂名為菩提薩埵、摩訶薩埵、成就覺慧、最上照明、最勝真子、最勝任持、普能降伏、最勝萌芽，亦名勇健，亦名最聖，亦名商主，亦名大稱，亦名憐愍，亦名大福，亦名自在，亦名法師。如是十方無邊無際諸世界中無邊菩薩，當知乃有內德各別無量無邊假立想號。若諸菩薩現前自稱我是菩薩，於菩薩學不正修行，當知是名相似菩薩，非真菩薩。若諸菩薩現前自稱我是菩薩，於菩薩學能正修行，當知是名真實菩薩。
 
 瑜伽師地論卷第四十六
-

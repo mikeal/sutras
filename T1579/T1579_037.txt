@@ -6,6 +6,39 @@
 #【其他事項】本資料庫可自由免費流通，詳細內容請參閱【財團法人佛教電子佛典基金會資料庫版權宣告】
 #----------------------------------------------------------------------
 
+Tell me what division/section this is, any titles or sections, and briefly summarize this juan of the chinese Yogacarabhumisastra, providing your answer in english noting translations.
+This text is extracted from the "Yogācārabhūmiśāstra" (瑜伽師地論), spoken by Maitreya Bodhisattva, and translated into Chinese by the renowned translator Xuanzang (三藏法師玄奘) under imperial command. The document provided is from Volume 37, which discusses aspects of yogic practices and their impacts on the path of a Bodhisattva, specifically within the section called "The Powers of Buddha's Bodhisattvas" (本地分中菩薩地第十五初持瑜伽處威力品第五) and the section on maturity or ripening (本地分中菩薩地第十五初持瑜伽處成熟品第六).
+
+### The Powers of Buddha's Bodhisattvas
+
+This section outlines the types of powers wielded by Bodhisattvas and Buddhas, categorized into three main types: the power of sanctity, the power of the Dharma, and the inherent power.
+
+1. **The Power of Sanctity**: This refers to the Buddha and Bodhisattvas' ability to achieve whatever they wish for through their understanding and mastery of meditation. Their minds, being well-tuned and well-practiced, possess the so-called sacred power.
+
+2. **The Power of the Dharma**: This highlights the vast and triumphant effects of practicing the supreme Dharma, especially the six perfections (pāramitās), ranging from generosity to wisdom. These practices grant them formidable powers.
+
+3. **The Inherent Power**: This depicts the initial accumulation of vast merits and the realization of rare and profound laws, signifying the unique inherent power of Buddha and Bodhisattvas.
+
+Additionally, the text delves into specific supernatural powers (神通), the ability to transform and influence physical and mental realms, and various aspects of these powers, including their manifestation and significance in the path to enlightenment.
+
+### Maturity or Ripening
+
+The latter part discusses the concept of maturity or ripening (成熟), outlining the six types of maturity essential for a practitioner on the path:
+
+1. **The Nature of Maturity**: Focuses on the readiness and capacity of practitioners to understand and internalize Dharma teachings due to their prior accumulation of good seeds and practices.
+
+2. **The Beings to be Matured**: Lists four kinds of beings that Bodhisattvas aim to mature, spanning from those inclined towards the Śrāvaka path to beings without a particular inclination, signifying the varied scope of Bodhisattvas' compassionate activities.
+
+3. **The Differences in Maturity**: Explores how different practitioners manifest different levels of spiritual maturity, determined by their faculties, dedication, wisdom, and the degree of their engagement with practice.
+
+4. **Methods of Maturing**: Enumerates numerous methods Bodhisattvas employ to nurture and guide beings, including teaching Dharma, demonstrating miracles, and personal conduct, aiming to lead others towards enlightenment.
+
+5. **Those Who Can Mature Others**: Describes who among the Bodhisattvas, especially those residing in different stages (bhūmis), are capable of maturing beings, reflecting the depth of their realization and compassion.
+
+6. **The Marks of the Matured Beings**: Indicates the transformation experienced by beings who have been brought to maturity, showcasing the efficacy of the Bodhisattvas' methods in guiding beings towards liberation and enlightenment.
+
+Volume 37 of the "Yogācārabhūmiśāstra" contributes profound insights into the powers and capacities of Buddhas and Bodhisattvas concerning their ability to benefit beings, highlighting the methods they employ to guide others on the path and the transformative impact of these practices on practitioners' spiritual journey.
+
 瑜伽師地論卷第三十七彌勒菩薩說
 
 三藏法師玄奘奉　詔譯
@@ -289,4 +322,3 @@
 又欲令他諸有情類補特伽羅乘三乘法而出離故，往善趣故，修集如是六種成熟。
 
 瑜伽師地論卷第三十七
-

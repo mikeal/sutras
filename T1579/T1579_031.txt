@@ -6,6 +6,30 @@
 #【其他事項】本資料庫可自由免費流通，詳細內容請參閱【財團法人佛教電子佛典基金會資料庫版權宣告】
 #----------------------------------------------------------------------
 
+Tell me what division/section this is, any titles or sections, and briefly summarize this juan of the chinese Yogacarabhumisastra, providing your answer in english noting translations.
+The given text is from the 31st volume of the *Yogācārabhūmiśāstra* (Treatise on the Stages of Yogic Practice), specifically attributed to Maitreya and translated by Xuanzang under imperial order. This section delves into various practices and conceptual explorations within the Yogacāra tradition, a significant school of Mahayana Buddhism that emphasizes the practice of yoga (meditative and mindfulness exercises) coupled with an in-depth understanding of consciousness and perception.
+
+### Division / Section
+This is from the section focusing on **Bhūmi 13 (Śrāvakabhūmi - The Stage of the Disciple)**, continuing into intricate discussions on meditative practices (dhyāna), observed phenomena (dharmas), and systematic contemplations essential for advancing on the path toward enlightenment.
+
+### Titles or Sections Summarized
+The discussion is divided into several major areas:
+1. **Contemplations on Dependent Origination (pratītyasamutpāda) and Phenomena**: Emphasizes the careful consideration and analytical meditation on the nature of phenomena, their origination, cessation, and the lack of an inherent self or creator behind these processes. It underlines the importance of understanding the twelve links of dependent origination both inwardly and outwardly to cultivate a profound realization of the impermanence, suffering, and non-self aspects of existence.
+
+2. **Contemplations on the Different Realms (Dhātu)**: A thorough investigation into the nature of the eighteen dhātus (realms or domains of experience) and their characteristics, aiming to understand the composite nature of experience and the emptiness thereof.
+
+3. **Ānāpānasati Mindfulness (Mindfulness of Breathing)**: Detailed guidelines on mindfulness of breathing, how to perform it, the benefits brought by its practice, and the profound insights it can lead to, especially regarding the transient and conditioned nature of the compounding factors of existence.
+
+4. **Nine Stages of Cultivation and Corresponding Practices**: Elaboration on the nine types of beneficial actions (white actions) leading to mental stability, wisdom, and eventual liberation, contrasted with those actions that do not (black actions).
+
+5. **Purification of the Mind and Overcoming Obstacles**: Strategies for overcoming various types of mental afflictions and obstacles to meditation, including the cultivation of appropriate attitudes towards desirable and undesirable phenomena, and the role of mindfulness in this process.
+
+6. **Four Types of Attention**: Guidelines for directing the mind skillfully towards objects conducive to spiritual growth, encompassing practices aimed at dispassion, contentment, lightness of body and mind, and the cultivation of direct insight into the nature of phenomena.
+
+Through meticulous investigation and meditation practice delineated in this section, a practitioner is guided through processes that refine mindfulness and concentration (such as ānāpānasati), cultivate deeper understanding and disenchantment with samsaric existence (by contemplating dependent origination and the nature of the dhātus), and foster a profound experiential awareness of reality beyond conventional constructs.
+
+This snippet of the *Yogācārabhūmiśāstra* offers a glimpse into the sophisticated methods of mental training and philosophical inquiry that characterize the Yogācāra approach to the Buddhist path, highlighting the interplay between theory and practice necessary for attaining liberation.
+
 瑜伽師地論卷第三十一彌勒菩薩說
 
 三藏法師玄奘奉　詔譯
@@ -158,4 +182,3 @@
 如是勤修瑜伽行者，為令其心棄背貪等一切垢穢，及令棄背染污憂惱，於可厭法深生厭離；為令趣向所有清淨善品喜樂，於可欣法發生欣樂。於是行者，隨於彼彼欲自安立，或奢摩他品、或毘鉢舍那品，即於彼彼能善親附，能善和合，無轉無動；隨其所樂種種義中，如所信解，皆能成辦。
 
 瑜伽師地論卷第三十一
-

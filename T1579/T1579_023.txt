@@ -6,6 +6,28 @@
 #【其他事項】本資料庫可自由免費流通，詳細內容請參閱【財團法人佛教電子佛典基金會資料庫版權宣告】
 #----------------------------------------------------------------------
 
+Tell me what division/section this is, any titles or sections, and briefly summarize this juan of the chinese Yogacarabhumisastra, providing your answer in english noting translations.
+The text provided is from the 23rd scroll (juan) of the Yogācārabhūmiśāstra, spoken by Maitreya Bodhisattva and translated into Chinese by the eminent monk Xuanzang under imperial command. This particular section of the text deals extensively with sensuality control, mindfulness, and the consumption of food by monastics, presenting detailed guidance on how to protect the sense gates, maintain right mindfulness, and approach food consumption in a spiritual and disciplined manner.
+
+### Division and Summary
+
+#### Sensory Gate Protection and Mindfulness
+- **Root Discipline (根律儀):** Focused on how practitioners should guard their senses (root gates) and maintain mindfulness to prevent distractions and attachments arising from sense perceptions. The text outlines methods for guarding each sense gate (e.g., eyes, ears, nose, tongue, body, and mind) and emphasizes the importance of applying mindfulness in all activities to prevent defilements.
+
+- **Mindfulness and Sensory Experience:** Discusses the phenomenon where sensory perception (e.g., seeing a form with the eye) can lead to attachment or aversion, and how mindfulness serves as a protective measure to prevent the arising of these defilements.
+
+- **Root Discipline Details:** Goes into deeper detail on how to protect each sense gate through mindfulness, emphasizing the avoidance of getting entangled in desirable and undesirable sensations.
+
+#### Approach to Food Consumption
+- **Food Consumption (於食知量):** The discourse then transitions to proper attitudes towards food consumption, emphasizing moderation and mindfulness. It details how monastics should approach food not as a source of pleasure but as a means to sustain the body for spiritual practice. It cautions against overeating, eating for taste, or eating in ways that encourage defilements like greed or vanity.
+
+- **Observation of Food and Its Effects:** The text elaborates on observing the drawbacks of improper food consumption, including the physical and mental discomforts and ailments that can arise from it. Also, it depicts the negative karma associated with seeking pleasure in food.
+
+- **Moderation and Purpose of Eating:** It stresses eating with awareness of the right quantity, to alleviate hunger and to keep the body functioning, not for sensory pleasure or beautification. It describes the right approach as eating to live, not living to eat, and doing so in a way that supports spiritual practice and leads to liberation from attachment.
+
+#### Summary
+The 23rd juan of the *Yogācārabhūmiśāstra* instructs on maintaining disciplined control over the senses to protect from external temptations and distractions. It teaches mindfulness in actions, especially in guarding sense gates and in consuming food, to prevent arising of attachments or aversions that hinder spiritual progress. Furthermore, it emphasizes a balanced, mindful approach to eating, viewing food as sustenance for the body to support one's spiritual practice rather than an object of sensual enjoyment. The overarching message is one of mindful living, where every action, including consumption of food, is done with awareness and a clear purpose towards spiritual development.
+
 瑜伽師地論卷第二十三彌勒菩薩說
 
 三藏法師玄奘奉　詔譯
@@ -197,4 +219,3 @@
 如是名為廣略宣說於食知量。
 
 瑜伽師地論卷第二十三
-

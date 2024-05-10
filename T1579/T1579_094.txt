@@ -6,6 +6,23 @@
 #【其他事項】本資料庫可自由免費流通，詳細內容請參閱【財團法人佛教電子佛典基金會資料庫版權宣告】
 #----------------------------------------------------------------------
 
+Tell me what division/section this is, any titles or sections, and briefly summarize this juan **only** of the chinese Yogacarabhumisastra, providing your answer in english noting translations. No need to summarize the treatise in general, just this juan.
+The text provided is from the 94th roll (juan) of the "Yogācārabhūmiśāstra" (瑜伽師地論), attributed to Maitreya and translated into Chinese by the eminent translator Xuanzang (玄奘) during the Tang dynasty. This specific section fits within the broader context of the Yogācāra school, a significant philosophical and psychological system within Mahayana Buddhism that emphasizes the process of cognition and the nature of consciousness.
+
+This juan covers a variety of topics under the general theme of understanding the dharma (Buddhist teachings) and proper practice. The text is dense and addresses several intricate topics foundational to Yogācāra thought, such as the dynamics of causes and conditions (因緣), the nature of perceptions and the mind, various types of knowledge, and the way these elements relate to liberation and the attainment of Buddhahood. Below are some of the key points discussed in this juan:
+
+1. **Teachings on Cause and Condition (因緣)**: It delves into the philosophies surrounding causes and conditions, a fundamental principle in Buddhism that describes how phenomena arise and cease according to specific causal relations. This discussion includes how various types of causes contribute to the experience of suffering and the cycle of rebirth.
+
+2. **Classifications of Various Practices and Understandings**: The text describes different types of practitioners' understandings and practices, including those who mistakenly understand the Dharma and those who comprehend and apply it correctly towards their path to enlightenment.
+
+3. **Discussion on Karma and Rebirth**: This section elaborates on karma (actions) and their implications on rebirth, emphasizing how good and bad deeds influence future lives. It also discusses how understanding and breaking free from these cycles lead to enlightenment.
+
+4. **Four Kinds of Nutriments (四食)**: The juan goes into detail about the four nutriments, which are not only physical food but also include contact, volition, and consciousness, discussing how they sustain beings and perpetuate the cycle of existence.
+
+5. **Discussion on Liberation**: It also touches on aspects of achieving liberation, detailing the characteristics of Arhats and their realization process, differentiating between those who have and have not eradicated delusions, and the nature of their wisdom.
+
+Overall, the 94th juan of the "Yogācārabhūmiśāstra" is a profound exposition on the Yogācāra's intricate teachings on cognition, the nature of reality, and the path towards liberation. It is quite technical and assumes a considerable background in Buddhist philosophy, particularly in the Yogācāra school's distinct doctrines.
+
 瑜伽師地論卷第九十四彌勒菩薩說
 
 三藏法師玄奘奉　詔譯
@@ -118,4 +135,3 @@
 復次，諸有於此四種識中憙、貪未斷，彼六處攝有識之身，猶如臺觀六處窓牖，能與緣境煩惱日光作入依處，是光於此或住上地、或住下地。既得住已，如前所說於四識住，能染於識，生起當來後有眾苦。若有能斷如是憙、貪二種煩惱，與彼相違，緣境煩惱尚不得起，況依此入而當得住。又復若有補特伽羅，憙、貪未斷，便為魔羅來詣其所，以其種種猶如彩色可愛境界，彩畫如是補特伽羅，令其變生種種煩惱相貌顯現。當知如是補特伽羅，憙、貪未斷，譬如其地，能為種種煩惱彩畫作所依處。已斷憙、貪補特伽羅，魔詣其所，如前廣說。當知如是補特伽羅，憙、貪已斷，猶若虛空，非為種種煩惱彩畫作所依處。當知是名於諸食中，憙、貪未斷，如其次第所有過患；當知是名於諸食中，憙、貪已斷，如其次第所有功德。
 
 瑜伽師地論卷第九十四
-

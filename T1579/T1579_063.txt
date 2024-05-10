@@ -6,6 +6,22 @@
 #【其他事項】本資料庫可自由免費流通，詳細內容請參閱【財團法人佛教電子佛典基金會資料庫版權宣告】
 #----------------------------------------------------------------------
 
+Tell me what division/section this is, any titles or sections, and briefly summarize this juan of the chinese Yogacarabhumisastra, providing your answer in english noting translations.
+The text provided is from the 63rd volume of the Yogācārabhūmiśāstra (瑜伽師地論), attributed to Maitreya and translated into Chinese by the eminent Tang dynasty monk, scholar, and translator, Xuanzang (玄奘). This Buddhist scripture is a foundational text of the Yogācāra school of Mahayana Buddhism, focusing on the stages (bhūmi) of the path of a bodhisattva.
+
+This specific volume discusses various aspects of meditative practice, and the division it belongs to is likely related to advanced meditation techniques and the obstacles encountered therein, including methods to overcome them. The text mentions different kinds of meditation, obstructions to meditation, and the qualities required for advancing in meditative practice. It navigates through various meditation-induced experiences and states (samādhi), details the impediments to achieving these states, and prescribes remedies for these obstacles.
+
+Key sections and topics include:
+
+1. **Various kinds of Defilements** and obstacles in meditation practice such as breaching precepts, lack of continuous effort, and mental agitation.
+2. **Different forms of Detachment** needed for deeper meditation involving detachment from the dwelling place, views, and sensory inputs.
+3. **Characteristics of deep meditative states** (samādhi), analyzing the mental afflictions that obstruct these states like anger, pride, and erroneous views.
+4. Discussion on methods to overcome these obstacles through understanding the right conditions for meditation to flourish, such as possessing the right necessities, engaging in wholesome activities, and developing patience and endurance in practice.
+5. The dialogue format addresses various queries about the meditation process, elucidating on the types of concentration, their components, and the methodological approach for entering and stabilizing in these states of concentration.
+6. The latter part delves into the **Yogācāra philosophical underpinnings** of consciousness, distinguishing between the storehouse consciousness (Ālayavijñāna) and the active, transforming consciousness (pravṛtti-vijñāna).
+
+This volume serves as an intricate guide to the meditative practice from a Yogācāra perspective, offering detailed explanations on the subtle workings of the mind, the obstacles on the path, and the means to transcend them. The ultimate aim is to guide practitioners towards the realization of the bodhisattva path through mastery over meditation and understanding the nature of reality as presented within the Yogācāra tradition
+
 瑜伽師地論卷第六十三彌勒菩薩說
 
 三藏法師玄奘奉　詔譯
@@ -220,4 +236,3 @@
 於此地中餘決擇文，更不復現。
 
 瑜伽師地論卷第六十三
-

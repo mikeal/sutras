@@ -6,6 +6,29 @@
 #【其他事項】本資料庫可自由免費流通，詳細內容請參閱【財團法人佛教電子佛典基金會資料庫版權宣告】
 #----------------------------------------------------------------------
 
+Tell me what division/section this is, any titles or sections, and briefly summarize this juan **only** of the chinese Yogacarabhumisastra, providing your answer in english noting translations. No need to summarize the treatise in general, just this juan.
+The section of the Yogācārabhūmiśāstra you provided is "卷第八十七" (juan 87), spoken by Maitreya Bodhisattva (彌勒菩薩) and translated by the venerable Xuanzang (三藏法師玄奘). This section focuses on various aspects of Buddhist philosophy, including perceptions of self and phenomena, distinctions between various views and practices, and the path toward liberation.
+
+Here are some of the key topics covered in Juan 87, summarized into sections and titles based on the content provided:
+
+1. **Choosing to Engage with Teachings** (攝事分中契經事行擇攝第一之三): Discusses the critical engagement with spiritual teachings, the importance of wisdom, and differentiating wise choices in spiritual practice.
+
+2. **Causes and Conditions of Existence**: Explores the concepts of causation, including shared and unshared causes, emphasizing the role of joy (喜) in bonding with the place of rebirth, versus unique causes that vary individually.
+
+3. **Liberation and Attainment** (解脫心、有淨智見、諸阿羅漢): Discusses the attainment of liberation, the realization of pure wisdom, and the special victories of arhats that are not shared with non-Buddhist practitioners.
+
+4. **Sakaya-Ditthi and the View of Self** (薩迦耶見): Analyzes the view of self (Sakaya-Ditthi) and how it forms the basis of numerous incorrect views, clarifying the process of identification with past, future, and present selves.
+
+5. **Paths to Liberation**: Describes the paths towards liberation from suffering, emphasizing the gradual process of disengagement from desires and attachments to attain freedom.
+
+6. **The Role of Meditation and Knowledge** (靜慮與知識的角色): Elaborates on the importance of meditation and knowledge in overcoming ignorance and achieving liberation, focusing on the cultivation of liberating insight and wisdom.
+
+7. **Critique of Non-Buddhist Views** (對非佛教觀點的批評): Offers a critical analysis of non-Buddhist views, particularly highlighting the flaws in their understanding of causation, suffering, and the path to liberation.
+
+8. **Buddhist Path of Practice**: Summarizes the Buddhist approach to practice, aiming for liberation through understanding the true nature of phenomena, overcoming ignorance, and cultivating wisdom and compassion.
+
+This juan provides a detailed discussion on various philosophical concepts and practical aspects of the Buddhist path, focusing on understanding the true nature of phenomena, differentiating between skilful and unskilful views and practices, and emphasizing the importance of knowledge and meditation in achieving liberation.
+
 瑜伽師地論卷第八十七彌勒菩薩說
 
 三藏法師玄奘奉　詔譯
@@ -254,4 +277,3 @@
 又言樂者，謂順樂行及樂已滅。樂所隨者，謂有樂因，於未來世當生起樂。喜樂遍者，謂於現在隨順樂處。未永離樂者，謂餘三世。與此相違，苦差別四，如應當知。
 
 瑜伽師地論卷第八十七
-

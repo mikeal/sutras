@@ -6,6 +6,31 @@
 #【其他事項】本資料庫可自由免費流通，詳細內容請參閱【財團法人佛教電子佛典基金會資料庫版權宣告】
 #----------------------------------------------------------------------
 
+Tell me what division/section this is, any titles or sections, and briefly summarize this juan of the Yogacarabhumisastra in chinese.
+This text is part of the 17th volume of the "Yogācārabhūmiśāstra", an important text in the Buddhist Yogācāra tradition. This section, known informally as "Juan" in Chinese, is a component of a larger work attributed to Maitreya and translated into Chinese by the renowned translator Xuanzang under imperial order. The essence of this volume emphasizes the cultivation of practices leading to enlightenment, including diligence, moral discipline, and the withdrawal from attachments and desires to achieve a state of purity and liberation.
+
+The segment elucidates various practices and mental attitudes necessary for advancing on the Bodhisattva path, including:
+
+1. **Vigilance and Diligence**: It stresses the importance of continuous effort, vigorous practice, and avoiding laxity to purify and excel in the five faculties (faith, energy, mindfulness, concentration, and wisdom).
+
+2. **Renunciation and Contentment**: It highlights the significance of concealing one's virtues while being open about faults, rejoicing in whatever one receives, and maintaining minimal involvement in worldly affairs to cultivate purity.
+
+3. **Guarding the Senses and Mindful Consumption**: Being mindful of one's conduct, taking only what is necessary, and not being deceived by appearances to support a life of virtue and longevity.
+
+4. **Humility and Avoidance of Praise**: Advising against proclaiming one's own virtues or seeking others' praise to maintain purity in practice.
+
+5. **Detachment**: Emphasizing non-attachment to material gain, respect, and false views for superior learning.
+
+6. **Association with the Wise**: Encouraging association with the virtuous and wise to avoid the arising of afflictions and to cultivate wisdom and detachment.
+
+7. **Avoidance of Destructive Friends and Actions**: Encourages steering clear of harmful associations and deeds that foster sorrow and further entanglements in samsara.
+
+8. **Cultivating Virtuous Qualities**: Through practices such as avoiding harmful deeds rooted in desire, anger, and ignorance, one cultivates a path leading to serenity and liberation.
+
+9. **Serious Commitment to the Dharma**: Continually engaging in practices that lead to the realization of impermanence, suffering, and the non-self nature of phenomena to ultimately attain Nirvana.
+
+This volume serves as a detailed manual for practitioners on the Bodhisattva path, offering practical guidance on cultivating the mind, behaviors, and attitudes necessary for overcoming the afflictions of greed, hate, and delusion, and progressing towards enlightenment.
+
 瑜伽師地論卷第十七彌勒菩薩說
 
 三藏法師玄奘奉　詔譯
@@ -157,4 +182,3 @@
 復次，今當略辨上所說義。謂為顯示惡說邪法毘柰耶中，師及弟子皆有衰損；善說正法毘柰耶中，皆具吉祥，於一切苦能證邊際。當知是名此中略義。爾時彼天聞佛世尊答所請問，歡喜踊躍，即以四種無上功德讚歎如來。謂佛世尊難出現故，出已能成利他行故，亦能建立自利德故，於自他利離染心故。我觀極久遠梵，志般涅槃者，此讚世尊難出現德。已過諸怨者，此讚世尊利他行德。已過諸怖者，此讚世尊建自利德。超世間貪欲者，此讚世尊於自他利離染心德。如是四種功德差別。當知復有三種差別。謂難出現故，難可見故，建立自利利他行故。見者則能成就大義。成大義者，離染心故，遍一切生亦無眾罪。如是眾德，諸佛世尊最為殊勝，故以此相讚歎如來。
 
 瑜伽師地論卷第十七
-

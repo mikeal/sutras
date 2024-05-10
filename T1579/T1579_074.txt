@@ -6,6 +6,26 @@
 #【其他事項】本資料庫可自由免費流通，詳細內容請參閱【財團法人佛教電子佛典基金會資料庫版權宣告】
 #----------------------------------------------------------------------
 
+Tell me what division/section this is, any titles or sections, and briefly summarize this juan of the chinese Yogacarabhumisastra, providing your answer in english noting translations.
+This text is from the 74th juan (卷) of the *Yogācārabhūmi-śāstra* (瑜伽師地論), a central text of the Yogācāra school of Mahayana Buddhism, ascribed to Maitreya and translated into Chinese by the monk Xuanzang (三藏法師玄奘). This particular segment of the text falls under the category of "Determinations" (攝決擇分), specifically discussing the characteristics and nature of a Bodhisattva's progression and understanding within the context of Yogācāra philosophy.
+
+The *Yogācārabhūmi-śāstra* is structured into several sections, dealing broadly with the stages of a practitioner's path, from the foundational practices up to the highest levels of realization. The division your text excerpt comes from, "攝決擇分," likely delves into intricate philosophical arguments and expositions on the nature of reality, the mind, phenomena (dharmas), and the processes leading to enlightenment from a Yogācāra perspective.
+
+The passage raises and addresses various questions pertaining to the three natures (trisvabhāva): the imputed (parikalpita), the dependent (paratantra), and the perfected (pariniṣpanna). These discussions are a core component of Yogācāra metaphysics, which aims to elucidate the way phenomena appear, how they are dependent on various conditions, and how their ultimate nature is understood by an enlightened being.
+
+1. **Three Natures (三性)**: It explains how phenomena are falsely imputed by conceptual construction, exist dependently (thus not inherently), and how their ultimate nature is beyond these constructions, pure, and perfected.
+
+2. **Questions and Answers Format**: The text employs a Q&A format to discuss how these natures are not grasped by ordinary cognition or by ultimate wisdom, respectively, highlighting the difference in perception between ordinary beings and enlightened ones.
+
+3. **Applications to Practice**: It discusses the implications of understanding these three natures for a Bodhisattva's practice, including how they relate to liberation and enlightenment. Concepts such as non-attachment, emptiness, and the realization of the non-duality of samsara and nirvana are touched upon.
+
+4. **Philosophical Exposition**: The passage is rich in philosophical exposition on Yogācāra's distinctive teachings, such as the idea that only consciousness is real (vijñapti-mātra), along with the notion that understanding the three natures is crucial for moving toward enlightenment.
+
+5. **Key Yogācāra Concepts**: Through the discussion, notable Yogācāra concepts are addressed, such as the "storehouse consciousness" (ālaya-vijñāna) and its role in maintaining imprints of past actions and experiences, which influence the perception and creation of reality.
+
+This juan, thus, provides profound insights into the Yogācāra philosophical and practice-oriented framework, detailing the path of a Bodhisattva in terms of understanding and relating to phenomena to transcend the dualities and mistaken perceptions that bind beings to cyclic existence (samsara).
+
+
 瑜伽師地論卷第七十四彌勒菩薩說
 
 三藏法師玄奘奉　詔譯
@@ -407,4 +427,3 @@
 云何垢清淨十相？一、遠離懈怠垢而行惠施，謂或內、或外、或近、或遠、或身疲倦、或不疲倦、或身羸劣、或不羸劣而常惠施。二、遠離貪垢而行惠施，謂於財物。三、遠離瞋垢而行惠施，謂於求者。四、遠離癡垢而行惠施，謂於因果。五、遠離障垢而行惠施。言障垢者，謂四種障。一、不串習，二、匱乏，三、耽湎，四、觀果。六、善分布而行惠施，此即遠離非道理垢。謂貧乏者，於自僕從；若中財者，即於彼所及貧苦所；若大財者，即於彼所，亦於其餘來求者所。七、由圓滿而行惠施，此即遠離諸減少垢。謂事圓滿、意樂圓滿。事圓滿者，復有七相。一、施資產事，二、施國土事，三、施有情事，四、施莊嚴事，五、施舍宅事，六、施居處事，七、施內身事。意樂圓滿者，謂於內身及外財寶，獲得自性無著意樂。八、由清淨而行惠施，此即遠離不清淨垢。謂由十種清淨，即無著無取等。如本地分廣說。九、善觀察而行惠施，此即遠離惡慧垢。謂觀察施物、觀察意樂、觀察其田。觀察施物者，謂觀察受用勝於積聚，觀察惠施勝於受用。何以故？若唯積聚，不能自益、不能益他，非現法利、非後法利。若諸菩薩唯自受用，名自饒益，非饒益他，名現法利，非後法利。若諸菩薩能行惠施，便自發生廣大歡喜，名自饒益、名饒益他，名現法利、名後法利。觀察意樂者，當知意樂略有四種。一、於因中無倒意樂，二、於果中無著意樂，三、於有情悲愍意樂，四、於一切智智圓滿意樂。由如是等諸意樂故，而行惠施。觀察田者，當知略由五相：一、於是處乞求可得；二、於是處已有乞求，復加貧匱；三、於是處已有貧匱，復無依怙；四、於是處有無依怙，復行惡行；是名為田。五、於是處雖無此等，而有修行善行可得。由七種相，當知非田。一、乞求者極大暴惡，曾為怨害，歸依怨害而有所求；二、勸為善事終不能得；三、心懷染污，為染污事而有乞求；四、為損惱而有乞求；五、乞求者或自是魔，或魔所魅，非處乞求；六、乞求父母，或復隨一非所施物；七、能為無義。由此等相，當知是名觀察非田。十、具方便德而行惠施，此即遠離無方便過失垢。此中方便者，謂串習施，不顧身命，悲愍有情，真實義智、無上菩提勝解，教導、強力逼迫、處任恩報、生及神力。
 
 瑜伽師地論卷第七十四
-

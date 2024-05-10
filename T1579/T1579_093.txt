@@ -6,6 +6,21 @@
 #【其他事項】本資料庫可自由免費流通，詳細內容請參閱【財團法人佛教電子佛典基金會資料庫版權宣告】
 #----------------------------------------------------------------------
 
+Tell me what division/section this is, any titles or sections, and briefly summarize this juan **only** of the chinese Yogacarabhumisastra, providing your answer in english noting translations. No need to summarize the treatise in general, just this juan.
+This passage is from the 93rd fascicle of the *Yogācārabhūmiśāstra* (瑜伽師地論), attributed to Maitreya and translated into Chinese by the renowned translator Xuanzang (三藏法師玄奘). The text is a comprehensive treatise on the stages of the path in the Yogācāra school of Mahayana Buddhism, encompassing teachings on the practice and philosophy of Yoga as understood in this tradition.
+
+The 93rd fascicle, from which the excerpt is taken, discusses in detail the intricate principles of dependent origination (緣起) and the nature of phenomena from the Yogācāra perspective. It is structured around the exposition of various aspects of dependent origination, including the factors of ignorance (無明), actions (行, karma), consciousness (識), name and form (名色), six sense bases (六處), contact (觸), feeling (受), craving (愛), grasping (取), becoming (有), birth (生), and aging-and-death (老死).
+
+The discussion is both doctrinal and analytical, aiming to elucidate the process by which ignorance leads to suffering through a complex interplay of psychological and existential factors, as well as how understanding and reversing this process can lead to liberation (涅槃).
+
+Specifically, this section deals with:
+- Detailed analysis of the chain of dependent origination, emphasizing the cyclical nature of samsara and the potential for liberation through understanding the dependent origination process.
+- The distinction between various types of knowledge and ignorance, and their roles in perpetuating or liberating from the cycle of suffering.
+- The analysis of self and phenomena (法), highlighting the empty nature (emptiness) of existence devoid of a self-essence, which is a key point in Yogācāra and broader Mahayana teachings.
+- Introduction to the practices and insights necessary for progressing on the path toward enlightenment, focusing on the cultivation of wisdom that directly perceives the nature of reality.
+
+This fascicle embodies the core Yogācāra teachings, positioning understanding and reversing the chain of dependent origination as central to the path of liberation. It underscores the crucial role of wisdom (prajñā) and meditation (dhyāna) in overcoming ignorance and attaining enlightenment.
+
 瑜伽師地論卷第九十三彌勒菩薩說
 
 三藏法師玄奘奉　詔譯
@@ -118,4 +133,3 @@
 復次，由二因緣，自作苦樂不可施設、不可記別。如是他作、俱作、俱非所作無因而生，當知亦爾。云何為二？一者、諸行，如前所說無作用故。二者、有餘作者有情不可得故。此中諸行無作用故，此受此領自作苦樂，不應道理。又彼有餘作者有情不可得故，餘受餘領，不應道理。受所渴愛，攝受他受亦不應理。有諸緣故，諸受得生，故無因生亦不應理。是故遠離前之三種惡因論邊、後之一種無因論邊，覺了如前中道行教，勤修正行，能盡眾苦。
 
 瑜伽師地論卷第九十三
-

@@ -6,6 +6,21 @@
 #【其他事項】本資料庫可自由免費流通，詳細內容請參閱【財團法人佛教電子佛典基金會資料庫版權宣告】
 #----------------------------------------------------------------------
 
+Tell me what division/section this is, any titles or sections, and briefly summarize this juan **only** of the chinese Yogacarabhumisastra, providing your answer in english noting translations. No need to summarize the treatise in general, just this juan.
+This particular "juan" (卷) is the seventy-ninth section of the Yogācārabhūmi-śāstra (瑜伽師地論), attributed to Maitreya and translated into Chinese by the eminent monk Xuanzang (三藏法師玄奘). The focus of this section is on the "Bodhisattva Grounds" (菩薩地), particularly delving into concepts such as merit accumulation, purification practices, spiritual progress, distinct characteristics of bodhisattvas at different stages, virtuous behaviors, and the obstacles that might hinder the path. It further expounds on the juxtaposition of qualities between Buddhas and Arhats, highlighting unique Buddha-dharmas.
+
+Key points covered in this section include:
+
+- **Differentiation Between Worlds**: The distinction between pure and impure worlds, the former devoid of beings suffering in lower realms, exclusive to bodhisattvas.
+- **Bodhisattvas’ Practices and Realizations**: Addresses how bodhisattvas on various grounds (bhūmis) should conduct themselves, emphasizing the practices leading to purification and accumulation of merits essential for progress on the path.
+- **Obstacles and Their Removal**: It delineates obstacles that bodhisattvas must overcome and the practices required for their removal, indicating a progressive purification as one moves along the bodhisattva path.
+- **Characteristics of Bodhisattvas**: Offers detailed descriptions of what defines bodhisattvas on different grounds, including their capacities, the spiritual feats they can perform, and their unwavering commitment to benefiting all beings.
+- **Four Retentions**: Instruction on how to extinguish afflictions that prevent progression, highlighting the nuanced layers of defilements bodhisattvas face and methods to eradicate them.
+- **Comparison between Buddhas and Arhats**: Explores unique features of Buddha-dharmas that distinguish Buddhas from Arhats, elaborating on eighteen exclusive Buddha-dharmas.
+- **Parables and Examples**: Uses metaphors and similes to elucidate complex doctrines, aiming to make the sublime qualities and activities of bodhisattvas and their path more comprehensible.
+
+This section is remarkable for its detailed examination of the bodhisattva path, presenting a rigorous framework for understanding and practice. It encapsulates the essence of Mahayana Buddhism’s altruistic ethos and the sophisticated methodology for achieving Buddhahood for the sake of all beings.
+
 瑜伽師地論卷第七十九彌勒菩薩說
 
 三藏法師玄奘奉　詔譯
@@ -171,4 +186,3 @@
 復次，云何菩薩能生淨信所有譬喻？謂諸菩薩，從初發心初中後時，作諸眾生引發善根所依止故，普於一切若怨、若恩，心無所著，猶如大地。而諸菩薩非如大地中庸而轉，眾生依之自施功力，方得存活。然諸菩薩生長善根，淨信歡喜，能滋潤故，猶如大水。而諸菩薩非如大水，與諸稼穡成熟相違。然諸菩薩為欲成熟諸善根故，於可厭法深生厭患，能燒煉故，猶如大火。而諸菩薩非如大火，與諸佛土集會相違。然諸菩薩能令善根已成熟者，引發、聚集、解脫、觸得，由能發起正教授故，譬如大風。而諸菩薩非如大風，能引發已終歸滅盡。然諸菩薩令自白法轉增盛故，猶如朗月。而諸菩薩非如朗月，但於白分光明照曜，非於黑分。然諸菩薩其相平等，於黑白分一切法中，智普照故，猶如日輪。而諸菩薩非如日輪，怖羅怙捉即便旋轉。然諸菩薩一切趣中，終不怖畏煩惱所執而旋轉故，譬如師子。而諸菩薩非如師子，怯於大擔。然諸菩薩能擔一切大苦擔故，如善調龍。而諸菩薩非如龍象，若遭利衰、軟非軟語、若樂若苦，則為愛恚之所塗染。然諸菩薩於諸世法，不為愛恚所塗染故，如紅蓮花。而諸菩薩非如紅蓮，斷其莖已不復生長。然諸菩薩雖伏煩惱，由善根力之所任持，於生死中復生長故，猶如大樹根未損壞。而諸菩薩非如大樹，其根後時定當損壞。然諸菩薩所有善根，迴向涅槃大菩提故，譬如眾流趣入大海。而諸菩薩非如眾流，趣入大海即成海性。然諸菩薩依止涅槃及大菩提諸善根力而遊戲故，猶如諸天依蘇迷住。而諸菩薩非如諸天住蘇迷盧，於自事中專行放逸，多受快樂。然諸菩薩方便般若所攝持故，成辦一切佛所作故，譬如群臣所輔大王。而諸菩薩非如群臣所輔大王，為自利益守護國人。然諸菩薩不顧己利攝護眾生，猶如大雲。而諸菩薩非如大雲，不能畢竟成辦稼穡。然諸菩薩畢竟生長菩提分法，如轉輪王出現於世。而諸菩薩非如輪王，無有第二大丈夫眾。然諸菩薩解脫平等，善根所生多同出現，如末尼寶。而諸菩薩非如末尼寶珠，與迦理沙般拏極不相似。然諸菩薩入無漏界，所作平等、受樂等故，譬如已入雜林諸天。而諸菩薩非如已入雜林諸天，煩惱增長，當來顛墜。然諸菩薩伏諸煩惱，無顛墜故，所有煩惱如呪術等所伏諸毒。而諸菩薩所有煩惱，非如呪等所伏諸毒，唯不為害，更無餘德。然諸菩薩由自煩惱，能作一切眾生利益，故此煩惱如大城中諸糞穢聚。如是菩薩所有功德，麁同世間共所知事，故得為喻；而此功德由殊勝故，無有譬喻。是故當知，菩薩功德，一切譬喻所不能及。
 
 瑜伽師地論卷第七十九
-

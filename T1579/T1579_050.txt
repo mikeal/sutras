@@ -6,6 +6,29 @@
 #【其他事項】本資料庫可自由免費流通，詳細內容請參閱【財團法人佛教電子佛典基金會資料庫版權宣告】
 #----------------------------------------------------------------------
 
+Tell me what division/section this is, any titles or sections, and briefly summarize this juan of the chinese Yogacarabhumisastra, providing your answer in english noting translations.
+The text provided is from the Yogācārabhūmi-śāstra (瑜伽師地論) specifically from scroll fifty, as recorded in the Taisho Tripitaka volume 30, number 1579. This ancient Buddhist scripture is attributed to Maitreya and was translated into Chinese by the eminent translator Xuanzang (玄奘) in the 7th century under imperial order.
+
+This scroll belongs to the section discussing the stages (or "Bhumi") of a Bodhisattva (菩薩), focusing specifically on the 15th stage known as the "Stage of a Bodhisattva", the third section dealing with ultimate yoga practices, marking it as Part Five, Section Two within the broader context of the work.
+
+Brief Summary:
+
+### **General Structure and Themes:**
+
+- **Buddha's Ten Powers Discussion:** It starts with a comprehensive examination and summary of Buddha's ten powers, which include understanding all phenomena in themselves and in differentiation, understanding the unique paths of all beings, and knowing the results of all actions, among others. The text details the nature, differentiation, indivisibility, operations, sequences, and distinctions of these ten powers.
+
+- **Bodhisattva Stages and Practices:** There's a detailed exposition on the bodhisattva's path, emphasizing the cultivation of ultimate yoga practices. The text discusses various aspects of awakening, mental cultivation, mastering doctrinal points, and the development of profound insights into the nature of existence.
+
+- **Developing Bodhicitta:** Discussion revolves around the generation and cultivation of bodhicitta (the mind of enlightenment) for the benefit of all beings, highlighting its significance in a bodhisattva's journey toward enlightenment.
+
+- **Instructions and Practices:** The scripture provides specific instructions for meditation and contemplation practices aimed at realizing the ultimate nature of phenomena, leading to liberation and enlightenment.
+
+- **Transition to Higher Practices:** It outlines the preparatory stages and the advanced practices leading bodhisattvas towards achieving supreme enlightenment, emphasizing continuous practice, non-attachment, and compassionate action.
+
+- **Final Stages of Enlightenment:** The text offers insights into the final stages of a bodhisattva's path, emphasizing the realization of emptiness, overcoming all mental afflictions, and achieving the state of a Buddha.
+
+This section of the Yogācārabhūmi-śāstra is rich in philosophical discussions and practical guidance for bodhisattvas on their path to enlightenment, focusing on deepening understanding, meditation, and realization of the ultimate truth. It encompasses the bodhisattva's journey from initial aspiration to the ultimate attainment of Buddhahood, detailing the practices and stages of development inherent to the Mahayana Buddhist tradition.
+
 瑜伽師地論卷第五十彌勒菩薩說
 
 三藏法師玄奘奉　詔譯
@@ -293,4 +316,3 @@
 云何寂滅異門施設安立？當知此中，寂滅異門有無量種。謂名為常，亦名為恒，亦名久住，亦名無變，亦名有法，亦名舍宅，亦名洲渚，亦名救護，亦名歸依，亦名所趣，亦名安隱，亦名淡泊，亦名善事，亦名吉祥，亦名無轉，亦名無垢，亦名難見，亦名甘露，亦名無憂，亦名無沒，亦名無熾，亦名無熱，亦名無病，亦名無動，亦名涅槃，亦名永絕一切戲論。如是等類，應知說名寂滅異門。是名寂滅異門施設安立。
 
 瑜伽師地論卷第五十　本地分竟
-

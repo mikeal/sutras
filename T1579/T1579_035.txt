@@ -6,6 +6,17 @@
 #【其他事項】本資料庫可自由免費流通，詳細內容請參閱【財團法人佛教電子佛典基金會資料庫版權宣告】
 #----------------------------------------------------------------------
 
+Tell me what division/section this is, any titles or sections, and briefly summarize this juan of the chinese Yogacarabhumisastra, providing your answer in english noting translations.
+The text provided is from the *Yogācārabhūmiśāstra* (瑜伽師地論), specifically from Volume 35, as compiled in the Taishō Tripiṭaka (大正新脩大藏經, T1579). This monumental work is attributed to Maitreya and was translated by the eminent scholar and monk Xuanzang (玄奘) in the Tang Dynasty. The *Yogācārabhūmiśāstra* is a foundational text of the Yogācāra school of Mahayana Buddhism and is comprehensive in scope, covering the stages of practice for Yogācāra practitioners.
+
+The passage given outlines the beginning parts of the 15th section, focusing on the initial stages of a Bodhisattva's development, specifically around *Bodhisattva Bhūmi* or stages of a Bodhisattva. The section discusses the critical aspect of a Bodhisattva's practice, which revolves around the development of the "Bodhicitta" or the "Mind of Enlightenment," which is the aspirational wish to attain Buddhahood for the benefit of all sentient beings. It explains how this aspiration is the foundation for all subsequent practices and virtues in the Bodhisattva path.
+
+The detailed explanation starts with defining fundamental aspects such as the nature of Bodhisattva practice, the motivations behind their aspiration for enlightenment, and the initial cultivation of this altruistic intention. It categorizes the types of practices and aspirations in terms of benefiting oneself and others, engaging in beneficial actions, and avoiding actions purely for personal gain. There are also discussions on the qualities and attributes that a practitioner should develop or avoid, and the importance of understanding and embodying bodhicitta in one’s practice.
+
+Moreover, it dives into different types of happiness and well-being that come from being on the Bodhisattva path, outlining how practices lead to temporary and ultimate benefits for oneself and others. The text stresses the supreme importance of developing a genuine wish for enlightenment not only for personal liberation but more importantly for aiding all sentient beings in their journey towards liberation.
+
+In summary, this *juan* (卷, or "scroll") from the *Yogācārabhūmiśāstra* underscores the early stages of a Bodhisattva's path, focusing on cultivating a pure and sincere intention (bodhicitta) to attain enlightenment for the sake of all beings, and outlines the framework of practices and virtues necessary for such a spiritual journey. It stresses altruism, the cultivation of beneficial actions, and the pivotal role of bodhicitta as the foundation for all later developments on the path to Buddhahood.
+
 瑜伽師地論卷第三十五彌勒菩薩說
 
 三藏法師玄奘奉　詔譯
@@ -291,4 +302,3 @@
 當知是名菩薩利益安樂種類自利利他。除此無有若過若增。
 
 瑜伽師地論卷第三十五
-

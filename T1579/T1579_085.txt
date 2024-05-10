@@ -6,6 +6,29 @@
 #【其他事項】本資料庫可自由免費流通，詳細內容請參閱【財團法人佛教電子佛典基金會資料庫版權宣告】
 #----------------------------------------------------------------------
 
+Tell me what division/section this is, any titles or sections, and briefly summarize this juan **only** of the chinese Yogacarabhumisastra, providing your answer in english noting translations. No need to summarize the treatise in general, just this juan.
+The text provided is from the 85th volume (juan) of the *Yogācārabhūmiśāstra*, attributed to Maitreya and translated by Xuanzang. This specific volume deals with the categorization and characterization of various kinds of scriptural texts and teachings, focusing on the integration and proper understanding of different types of Buddhist scriptures.
+
+**Division/Section of This Juan:**
+
+This volume is categorized under the section concerning the integration and selection of scriptural teachings (*摄事分中契獨事行擇攝*). It discusses how to assimilate and choose from various teachings based on their purposes, topics, and import.
+
+**Titles/Sections Covered:**
+
+1. **Explanation of 24 Types of Scriptures**: It lists 24 categories of scriptural texts, including different types of *sūtras* that range from those explaining liberation, dealing with monastic discipline (*Vinaya*), to those elaborating on deep and profound teachings. Examples include the "Separate Liberation Sūtra," "Vinaya Sūtras," and "Exposition Sūtras."
+
+2. **Expanse of Scriptures (阿闍黎, Āgama?)**: Discussion shifts to the classification based on the Āgamas/Nikāyas that deal with both common teachings suitable for those in early stages and profound teachings for advanced practitioners.
+
+3. **Integration of Teachings**: It elaborates on integrating teachings on impermanence, suffering, and non-self to lead practitioners from initial correct views to the ultimate realization of liberation and enlightenment. It gives emphasis on the correct perception and contemplation of these teachings.
+
+4. **Cause and Effect, Realization of Liberation**: Focuses on understanding the principles of karma (cause and effect) for liberation, detailing the processes leading to enlightenment, and highlighting the importance of direct realization leading to liberation.
+
+5. **Summary Verses**: It includes summary verses that encapsulate the essential teachings and methodologies described in the volume.
+
+**Summary of Key Contents:**
+
+This volume primarily instructs on how to understand, categorize, and integrate various teachings found in Buddhist scriptures, emphasizing correct understanding and application leading towards liberation and enlightenment. It discusses different types of scriptures, their classifications, and their purposes in guiding practitioners through stages of understanding and practice. The focus is on moving from diverse scriptural teachings to a unified, direct realization of key Buddhist tenets such as impermanence, suffering, non-self, and liberation. The approach is scholarly with practical implications, aimed at both broadening the knowledge of scriptures and deepening the understanding of their core messages for the purpose of realizing enlightenment.
+
 瑜伽師地論卷第八十五彌勒菩薩說
 
 三藏法師玄奘奉　詔譯
@@ -168,4 +191,3 @@
 復次，於善說法毘奈耶中有三圓滿。何等為三？一、行圓滿，二、果圓滿，三、師圓滿。行圓滿者，謂為觸證斷、無欲、滅界故，聽聞正法、為他演說、自正修行法隨法行，是名行圓滿。果圓滿者，謂即由此法隨法行增上力故，心善解脫。又能證得現法涅槃，是名果圓滿。師圓滿者，謂能引發一切梵行之法，皆用世尊為根本故，皆由世尊轉法眼故，皆以世尊為所依故。由如來出世，有彼教可知，故說世尊為彼根本。佛出世已，觀待彼彼所化有情，說正法眼，師及弟子展轉傳來，故說世尊轉正法眼。轉法眼已，若有於中生諸疑惑，唯依世尊乃能決了，故說世尊為所依止。又說法師略有二種，一者、由教，二者、由證。斯由從他聞正法已而宣說故，依證學道、無學道已而宣說故。
 
 瑜伽師地論卷第八十五
-

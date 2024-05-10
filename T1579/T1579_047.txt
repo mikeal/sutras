@@ -6,6 +6,19 @@
 #【其他事項】本資料庫可自由免費流通，詳細內容請參閱【財團法人佛教電子佛典基金會資料庫版權宣告】
 #----------------------------------------------------------------------
 
+Tell me what division/section this is, any titles or sections, and briefly summarize this juan of the chinese Yogacarabhumisastra, providing your answer in english noting translations.
+Based on the provided excerpt from the *Yogācārabhūmiśāstra* (瑜伽師地論), specifically from *Volume 47*, here's a simplified summary of some key sections or divisions:
+
+1. **Section on the Characteristics of Bodhisattvas (菩薩相品第一):** This section discusses the true characteristics of Bodhisattvas, outlining five main aspects: compassion, loving speech, courage, generosity, and profound understanding. Each aspect is further divided into five elements including their nature, basis, benefits, sequence, and inclusiveness.
+
+2. **Section on Bodhisattva Practices leading to Supreme Enlightenment (本地分中菩薩地第十五第二持隨法瑜伽處分品第二):** This part explains how Bodhisattvas, whether laypersons or monastics, should cultivate four key practices to swiftly realize supreme enlightenment. These practices include perfecting virtuous activities, skillful means, benefiting others, and aspiration towards enlightenment without attachment to worldly gains or samsara liberations.
+
+3. **Section on the Increase of Supreme Aspiration (增上意樂品第三):** Here, the text details how Bodhisattvas develop their supreme aspirations through seven types of compassion and fifteen types of supreme joy. The practitioners are guided on augmenting their commitment to enlightenment through various reflective and meditative practices leading to ten kinds of beneficial activities.
+
+4. **Section on Bodhisattva Dwellings (住品第四之一):** This section transitions from discussing the foundational qualities of Bodhisattvas to exploring twelve types of dwellings or stages these beings inhabit on their path to enlightenment. Starting with the "Nature-bearing Dwelling" and culminating in the "Ultimate Bodhisattva Dwelling," each stage represents progressive attainments in wisdom, compassion, and skillful means. The text also briefly touches upon the thirteenth dwelling, which is the state of supreme Buddhahood.
+
+Through the intricate analysis and details provided, the *Yogācārabhūmiśāstra* offers a comprehensive path for Bodhisattvas, highlighting their virtues, practices, aspirations, and stages of development towards ultimate enlightenment. This text is a profound resource for understanding the Mahayana perspective of the Bodhisattva path, elaborating on the mental, ethical, and meditative disciplines required to realize Buddhahood for the benefit of all sentient beings
+
 瑜伽師地論卷第四十七彌勒菩薩說
 
 三藏法師玄奘奉　詔譯
@@ -267,4 +280,3 @@
 彼十地經廣所宣說菩薩十地，即是此中菩薩藏攝摩怛理迦略所宣說菩薩十住。如其次第，從極歡喜住，乃至最上成滿菩薩住。應知此中，由能攝持菩薩義故，說名為地；能為受用居處義故，說名為住。
 
 瑜伽師地論卷第四十七
-

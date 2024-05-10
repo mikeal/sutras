@@ -6,6 +6,23 @@
 #【其他事項】本資料庫可自由免費流通，詳細內容請參閱【財團法人佛教電子佛典基金會資料庫版權宣告】
 #----------------------------------------------------------------------
 
+Tell me what division/section this is, any titles or sections, and briefly summarize this juan of the chinese Yogacarabhumisastra, providing your answer in english noting translations.
+This text is from the *Yogācārabhūmiśāstra* (瑜伽師地論), specifically from Volume 49, translated into Chinese by the eminent translator Xuanzang (玄奘三藏) under imperial commission. The *Yogācārabhūmiśāstra* is a foundational text of the Yogācāra school of Mahayana Buddhism, detailing the stages of the path (bhūmi) of a bodhisattva's training towards enlightenment.
+
+This particular section discusses various aspects and practices of the bodhisattva path, including:
+
+- The Seven Grounds (七地) that bodhisattvas establish throughout their practice. This includes the Seed Nature Ground (種性地), Superior Conduct Ground (勝解行地), and reaching the Ultimate Ground (到究竟地), where one becomes a Buddha.
+
+- It explains the transition of a bodhisattva from one level of understanding and capability to a higher one, specifically from the "stage of superior understanding" to the "stage of pure superior intention".
+
+- The practices and virtues that are cultivated, such as the perfections (pāramitās), engaging in beneficial actions for others, and developing special abilities or "supernatural powers" (神通) to assist in the liberation of all beings.
+
+- The text extensively covers the transformative journey of a bodhisattva, detailing the progression through various states of realization and mastery (地品) until reaching Buddhahood, emphasizing practices like generosity, discipline, patience, effort, meditation, and wisdom.
+
+- It briefly discusses doctrinal elements such as the ten powers of a Buddha (十力), the four fearlessnesses (四無畏), and various other unique qualities of a Buddha like the thirty-two major marks (三十二相) and eighty minor marks (八十隨好).
+
+This volume provides in-depth discussions on the nature of the bodhisattva path, the cultivation of virtues, the development of insight and wisdom, and the ultimate attainment of Buddhahood. It's a comprehensive guide for those on the Mahayana path, detailing the philosophical underpinnings and practical steps of the bodhisattva's journey towards enlightenment.
+
 瑜伽師地論卷第四十九彌勒菩薩說
 
 三藏法師玄奘奉　詔譯
@@ -163,4 +180,3 @@
 一切諸漏所有隨眠無餘永斷，逮得能治勝無漏心、勝無漏慧，是其最勝增上心攝、增上慧攝。由漏盡故，說名無漏心、慧解脫。即此心、慧二種解脫，於最後有，說名內證第六神通，由依見道及依修道內所證故。既自證已，如實了知，隨其所欲能為他說，是故說言於現法中自證通慧，具足開覺，我生盡等諸句差別。廣說如後攝異門分，應知其相。
 
 瑜伽師地論卷第四十九
-

@@ -6,6 +6,35 @@
 #【其他事項】本資料庫可自由免費流通，詳細內容請參閱【財團法人佛教電子佛典基金會資料庫版權宣告】
 #----------------------------------------------------------------------
 
+Tell me what division/section this is, any titles or sections, and briefly summarize this juan of the chinese Yogacarabhumisastra, providing your answer in english noting translations.
+The provided text is from the *Yogācārabhūmiśāstra*, specifically from Volume 41 of the text, attributed to Maitreya and translated by Xuanzang under imperial decree. This portion of the text discusses the section on the bodhisattvas, particularly focusing on the 15th ground (*bhūmi*) regarding the initial practice of yoga and the maintenance of pure precepts (or discipline) among bodhisattvas.
+
+### Division/Section Overview:
+
+- **Text Title**: *Yogācārabhūmiśāstra* (Volume 41)
+- **Speaker**: Maitreya
+- **Translator**: Xuanzang
+
+### Subsections and Summary:
+
+1. **On the Pure Precepts of Bodhisattvas**:
+    - The text emphasizes the importance of adhering to the pure precepts for bodhisattvas, including observances related to not committing violations, committing to the service of the Buddha, Dharma, and Sangha, and the cultivation of virtues. It details various scenarios where bodhisattvas might face dilemmas but are guided to choose actions that align with their aspirations for enlightenment and welfare of all beings.
+
+2. **On Handling Violations and Maintenance of Precepts**:
+    - Discussions on how to properly address transgressions against the precepts, including confession, repentance, and recommitment to the precepts. It elaborates on the differentiation between transgressions stemming from intent versus those from negligence or forgetfulness.
+
+3. **On The Application of Precepts in Various Circumstances**:
+    - The text outlines how bodhisattvas should engage in practices and uphold precepts across different situations, highlighting the nuances in maintaining pure conduct. This includes interactions with others, personal conduct, and the intention behind actions.
+
+4. **On The Significance of Intention and Effort in Upholding Precepts**:
+    - A notable emphasis is placed on the role of intention and effort in the observance of precepts. The purity of motivation and the striving for the welfare of others are underlined as fundamental in the bodhisattva's path.
+
+5. **Conclusion and Encouragement for Practice**:
+    - The section concludes with an encouragement for bodhisattvas to persist in their study and practice of the precepts, highlighting the significance of this practice in achieving Buddhahood for the sake of all beings.
+
+This part of the *Yogācārabhūmiśāstra* serves as an ethical and practical guide for bodhisattvas in training, offering detailed instructions on maintaining discipline and purity in thought, word, and action. It places a strong emphasis on the motivation behind actions, encouraging a selfless and compassionate approach to the Buddhist practice.
+
+
 瑜伽師地論卷第四十一彌勒菩薩說
 
 三藏法師玄奘奉　詔譯
@@ -117,4 +146,3 @@
 如是略廣宣說菩薩若在家品、若出家品一切戒已。自斯已後，即於如是一切戒中，分出所餘難行戒等差別之相，應當了知。
 
 瑜伽師地論卷第四十一
-

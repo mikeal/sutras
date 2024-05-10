@@ -6,6 +6,25 @@
 #【其他事項】本資料庫可自由免費流通，詳細內容請參閱【財團法人佛教電子佛典基金會資料庫版權宣告】
 #----------------------------------------------------------------------
 
+Tell me what division/section this is, any titles or sections, and briefly summarize this juan of the chinese Yogacarabhumisastra, providing your answer in english noting translations.
+This passage is from the 28th volume of the *Yogācārabhūmi-śāstra* attributed to Maitreya and translated into Chinese by the famed translator Xuanzang under imperial commission. This specific section falls within the broader category focusing on the stages of practice for Śrāvakas or disciples (聲聞地, "The Stage of Disciples") in the context of Yogācāra, a significant school of Mahāyāna Buddhism. This division is known as "The Section on the Śrāvakabhūmi" (聲聞地第十三第二瑜伽處之三).
+
+The passage details various practices and philosophical considerations integral to the Yogācāra path particularly focusing on three kinds of training or studies (三學) - ethical discipline (增上戒學), meditative concentration (增上心學), and wisdom (增上慧學). This triple training framework is common across many Buddhist traditions, with each section providing a foundation for the next, leading practitioners towards liberation.
+
+The section is quite analytical, breaking down the Buddhist path into distinct categories and subcategories to outline a systematic approach to spiritual development. These include but are not limited to discussions on:
+
+- The definition, purpose, and interrelation of the "three studies."
+- The process and nuances of progressing through the studies or practices, emphasizing the sequential necessity of ethical discipline leading to meditative stability, which in turn propels wisdom.
+- Explanations of why only these three studies are identified (to tackle specific spiritual needs and obstacles).
+- Detailed explorations of key concepts such as the nature of the mind, the overcoming of defilements (e.g., greed, hatred, and ignorance), the development of concentration and insight, and the cultivation of qualities leading to the realization of the Four Noble Truths.
+
+The overall aim delineated in this section is to guide practitioners on the path toward ultimate freedom, categorized under various advanced stages of spiritual attainment, emphasizing the non-dual nature of reality as understood in Yogācāra thought.
+
+One of the critical aspects highlighted is the role of "Yogācāra" or "yoga practice" itself —a meditative discipline aimed at direct experience and realization of the teachings, deeply rooted in mindfulness (念) and introspection (住), to cultivate a profound understanding of the mind, phenomena, and the nature of existence.
+
+This juan (卷, "volume" or "scroll") illustrates the comprehensiveness of Yogācāra instruction on transforming the practitioner's ethical behavior, mental discipline, and philosophical wisdom. It serves as a framework for achieving the cessation of suffering and the realization of Nirvana through meticulously categorized practices and doctrinal expositions, signifying the scholastic depth and meditative sophistication of the Yogācāra tradition.
+
+
 瑜伽師地論卷第二十八彌勒菩薩說
 
 三藏法師玄奘奉　詔譯
@@ -295,4 +314,3 @@
 答：若於此住念、若由此住念，皆名念住。於此住念者，謂所緣念住。由此住念者，謂若慧、若念攝持於定，是自性念住；所餘相應諸心心法，是相雜念住。又由身、受、心、法增上所生善有漏、無漏道，皆名念住。此復三種。一、聞所成，二、思所成，三、修所成。聞思所成，唯是有漏；修所成者，通漏無漏。
 
 瑜伽師地論卷第二十八
-

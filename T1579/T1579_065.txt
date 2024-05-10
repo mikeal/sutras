@@ -6,6 +6,29 @@
 #【其他事項】本資料庫可自由免費流通，詳細內容請參閱【財團法人佛教電子佛典基金會資料庫版權宣告】
 #----------------------------------------------------------------------
 
+Tell me what division/section this is, any titles or sections, and briefly summarize this juan of the chinese Yogacarabhumisastra, providing your answer in english noting translations.
+This text is an excerpt from the *Yogācārabhūmiśāstra*, translated into Chinese by the esteemed Tang dynasty Buddhist monk and translator, Xuanzang (玄奘). Specifically, it is from volume 65 of the treatise, as included in the Taishō Tripiṭaka, volume 30, text number 1579.
+
+### Division/Section of the Text
+
+This section of the *Yogācārabhūmiśāstra* is focused on the "Wisdom Ground Achieved through Contemplation" (*Cintāmayī Prajñābhūmi*). It is part of the larger work which systematically explores the stages of spiritual development in the Yogācāra tradition, an influential school of Mahayana Buddhism. The *Yogācārabhūmiśāstra* is attributed to Maitreya and was expounded by Asanga, two central figures in Mahayana Buddhism.
+
+### Summary of the Content
+
+The excerpt begins by setting up the discussion on various kinds of contemplative analysis (cintā) that cultivates wisdom. It categorizes contemplations into four primary types based around investigations into phenomena (dharmas), existence/non-existence, causality, and vehicles of enlightenment (Śrāvakayāna, Pratyekabuddhayāna, and Bodhisattvayāna). The text further subdivides contemplation into wholesome and unwholesome categories, elaborating on how these mental activities can either support or hinder spiritual progress.
+
+Significant emphasis is placed on understanding the nature of self (ātman) and phenomena (dharmas) as not having inherent existence, thus challenging the notions of eternalism and nihilism. Through analysis of causality and the conditioned arising (pratītyasamutpāda) of phenomena, the text aims to dispel ignorance and attachment, leading to the realization of emptiness (śūnyatā) and the non-self nature of existence.
+
+The treatise delves into detailed discussions on the nature of phenomena (dharmas), categorizing them based on their characteristics, such as being conditioned or unconditioned, having form or being formless, and their relationship with the mind and mental factors.
+
+Methodologies for contemplating the skandhas (aggregates), āyatanas (sense bases), and dhātus (elements) are also outlined, demonstrating how these analytical practices can lead to insights that uproot attachment and ignorance, bringing the practitioner closer to enlightenment.
+
+In conveying the methods for developing wisdom through contemplation, the text underscores the significance of right view in the path to liberation. It concludes with discussions on various types of knowledge and awareness that arise as a result of these contemplative practices, ultimately pointing towards the attainment of nirvāṇa - the cessation of suffering and the ultimate goal in Buddhism.
+
+### Translation of Titles and Sections
+
+Given the complexity and depth of the content, the terms used throughout this excerpt include technical Buddhist vocabulary that has been carefully translated to preserve the nuances of the original teachings. The aim is to provide a faithful representation of the philosophical and practical aspects of Yogacara Buddhism as expounded in this significant Mahayana text.
+
 瑜伽師地論卷第六十五彌勒菩薩說
 
 三藏法師玄奘奉　詔譯
@@ -155,4 +178,3 @@
 應知此中，淨煩惱所緣者，謂世尊說四聖諦及真如。
 
 瑜伽師地論卷第六十五
-

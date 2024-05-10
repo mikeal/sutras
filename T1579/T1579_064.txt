@@ -6,6 +6,29 @@
 #【其他事項】本資料庫可自由免費流通，詳細內容請參閱【財團法人佛教電子佛典基金會資料庫版權宣告】
 #----------------------------------------------------------------------
 
+Tell me what division/section this is, any titles or sections, and briefly summarize this juan of the chinese Yogacarabhumisastra, providing your answer in english noting translations.
+The text provided comes from the 64th volume of the *Yogācārabhūmiśāstra*, attributed to Maitreya and translated into Chinese by the eminent translator Xuanzang under imperial order. The *Yogācārabhūmiśāstra* is a comprehensive work foundational to the Yogācāra school of Mahāyāna Buddhism, detailing the stages (bhūmis) on the bodhisattva's path to enlightenment.
+
+This specific volume discusses various aspects of practice and understanding within the path, including sections on reliance upon the three jewels (Buddha, Dharma, Sangha), distinguishing between various levels of teachings, and elaborations on the nature of reality and the process of attaining realization. The text involves discussion on the nature of wisdom developed through hearing (śrutamayī prajñā) as well as aspects of ethical discipline, meditation, and the development of insight.
+
+The main sections or themes covered in this volume can be summarized as follows:
+
+1. **Reliance upon the Three Jewels**: Detailed discussion on the importance and characteristics of taking refuge in Buddha, Dharma, and Sangha, including the benefits derived from such reliance.
+
+2. **Varieties of Realization and Attachment**: Explores different types of attainments and the obstacles that practitioners may encounter on their path.
+
+3. **Analytical Meditations and Teachings**: The examination of various practices and teachings that lead to realization, including the analysis of the Four Noble Truths and other fundamental Buddhist teachings.
+
+4. **Ethical Conduct and Purification**: Emphasis on the purity of actions (karma) through body, speech, and mind, and their significance in the practitioner's journey.
+
+5. **Differentiating Levels of Teaching**: Elaborates on distinguishing between provisional and definitive teachings, and the relevance of understanding the context and depth of the teachings.
+
+6. **Deepening Understanding of Reality**: Insight into the nature of reality, distinguishing between conventional and ultimate truth, and the role of emptiness.
+
+7. **Practical Guidance for Practitioners**: Advice and instructions for practitioners to apply in their practice, including how to engage with teachings, meditate, and develop the path to enlightenment.
+
+This volume serves as a significant resource for understanding the Yogācāra path, particularly concerning the development of wisdom through hearing and reflecting upon the Dharma, ethical discipline, meditation practices, and the philosophical underpinnings of Buddhist soteriology.
+
 瑜伽師地論卷第六十四彌勒菩薩說
 
 三藏法師玄奘奉　詔譯
@@ -239,4 +262,3 @@
 於此地中餘決擇文，更不復現。
 
 瑜伽師地論卷第六十四
-

@@ -6,6 +6,21 @@
 #【其他事項】本資料庫可自由免費流通，詳細內容請參閱【財團法人佛教電子佛典基金會資料庫版權宣告】
 #----------------------------------------------------------------------
 
+Tell me what division/section this is, any titles or sections, and briefly summarize this juan of the chinese Yogacarabhumisastra, providing your answer in english noting translations.
+The passage provided is from the 58th volume of the Yogācārabhūmi-śāstra, attributed to Maitreya and translated into Chinese by the eminent monk Xuanzang. This text is a key work in the Yogācāra school of Mahayana Buddhism, which focuses on the stages of the path to enlightenment from the perspective of Yogācāra philosophy.
+
+This particular volume deals with a variety of topics related to the afflictions (kleśas) and their classifications, the concept of desire (trṣṇā), and the mechanisms of samsara and liberation. Specifically, it addresses:
+
+1. **The Nature of Desire and Afflictions:** The text explains the various kinds of desires and afflictions, their causes, and how they bind beings to samsara. It distinguishes between desire as a form of attachment and other forms of afflictions like ignorance and pride. Notably, it discusses the 'five coverings' (pañca-āvaraṇa) and analogies such as desire being likened to 'meat on a butcher's block,' indicating how desires make beings vulnerable.
+
+2. **The Role of Ignorance:** Ignorance (avidyā or mu-myeong in the passage) is depicted as a fundamental affliction leading to misperception and the continuation of suffering. The text differentiates between various types of ignorance and their consequences.
+
+3. **Mechanisms of Samsara:** The passage elaborates on how beings cycle through birth and death due to the afflictions and karma. It specifically addresses questions about the nature of actions and intentions and their contributions to continued existence in samsara.
+
+4. **Practice and Liberation:** It outlines the practices necessary for overcoming afflictions, including the importance of recognizing the nature of afflictions, utilizing antidotes, and cultivating virtuous qualities. The text emphasizes the purification of the mind and the cessation of afflictions as essential for liberation.
+
+The overall structure and content of this volume revolve around a deep analysis of the mind's workings, the nature of afflictions, and the path to overcoming them to achieve liberation. Through a series of questions and answers, it covers intricate philosophical points and practical aspects of the Buddhist path, making it a valuable resource for understanding Yogācāra Buddhism's approach to the problems of suffering and liberation.
+
 瑜伽師地論卷第五十八彌勒菩薩說
 
 三藏法師玄奘奉　詔譯
@@ -231,4 +246,3 @@
 及貪瞋等。
 
 瑜伽師地論卷第五十八
-
