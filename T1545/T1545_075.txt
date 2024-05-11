@@ -8,9 +8,15 @@
 
 阿毘達磨大毘婆沙論卷第七十五五百大阿羅漢等造
 
+Abhidharma Mahāvibhāṣa Śāstra, Volume 75
+
+Compiled by five hundred great arahants
+
 三藏法師玄奘奉　詔譯
+Translated by the Tripitaka Master Xuanzang by imperial edict
 
 結蘊第二中十門納息第四之五
+In the second section on the aggregates, among the ten gates, this is the fourth of the five on the integration of breath.
 
 五取蘊者。謂色取蘊受取蘊想取蘊行取蘊識取蘊。問何故作此論。答為欲分別契經義故。謂契經說。有五取蘊。謂色取蘊乃至識取蘊。契經雖作是說而不廣辯其義。經是此論所依根本。彼不說者今應分別故作斯論。問色取蘊云何。答若色有漏有取。彼色在過去未來現在。或起欲或起貪或起瞋或起癡或起怖。或復隨起一心所隨煩惱是名色取蘊。此中起欲起貪者謂起愛結。起瞋者謂起恚結。起癡者謂起無明結。起怖者有作是說。此中不應說或起怖。所以者何。怖即煩惱。若說煩惱即已說怖。問若爾此怖以何煩惱為自性。有作是說。以有身見為自性。所以者何。執有我者多怖畏故。若說有身見即已說怖。有餘師說。以愛為自性。所以者何。若有愛者多怖畏故。復有說者。以無智為自性。所以者何。諸無智者多怖畏故。若說無明即已說怖。評曰應作是說。此所起中應別說怖。所以者何。有別心所與心相應。是怖自性此即攝在。復有所餘如是類法與心相應心所法內非諸煩惱。問此怖自性於何處有。答在欲界有非上二界。問若怖自性色界中無。云何釋通契經所說。如契經說。苾芻當知。有極光淨先生。諸天見後生者覩劫火焰心生恐怖。而慰喻言。大仙勿怖大仙勿怖。我數曾見此劫火焰。燒空梵宮即於彼滅。伽他所說。復云何通。如說。
 
@@ -33,7 +39,24 @@
 
 問風界云何。答輕等動性。雖此風界總是動性。而此動性差別無邊。謂內外分動性各異。內分中動性者。謂有上行風有下行風。有住脇風有住腹風。有住背風有如鍼風。有如刀風。有蓽茇羅風有婆呾瑟恥羅風。有婆呾寠拉摩風。有入息風有出息風。有隨身分支節行風所有動性。外分中動性者。謂有四方風。或有塵風。或無塵風。或毘濕縛風。或吠嵐婆風。或小風。或大風。或風輪風等所有動性。此內外分種種動性以相同故。略為一聚總名風界。
 
+What is the domain of wind? The answer is that it consists of light and other types of movement. Although the domain of wind generally pertains to movement, the types of such movements are boundlessly diverse. This means the movements differ between internal and external.
+
+In terms of internal movement, it includes upward-moving wind, downward-moving wind, wind residing at the sides, wind residing in the abdomen, wind residing in the back, wind resembling needles, wind resembling knives, Biqiluo wind, Pojiexiechiluo wind, Pojielulamo wind, wind entering in-breath, wind exiting out-breath, and the wind moving through the body affecting limbs and joints, which are all types of movements.
+
+In terms of external movement, it includes winds from the four directions, dusty wind, dust-free wind, Visha wind, Vārāṇapura wind, small wind, large wind, and wind wheel among others - all kinds of movements.
+
+Because these various kinds of movements inside and outside share similarities, they are briefly grouped together and collectively referred to as the domain of wind.
+
 問空界云何。答如契經說。有眼穴空。有耳穴空。有鼻穴空。有面門空。有咽喉空。有心中空有心邊空。有通飲食處空。有貯飲食處空。有棄飲食處空。有諸支節毛孔等空。是名空界。阿毘達磨作如是說。云何空界。謂隣礙色。礙謂積聚即牆壁等有色。近此名隣礙色。如牆壁間空。叢林間空。樹葉間空。窓牖間空。往來處空。指間等空。是名空界。有作是說此文應言云何空界謂隣難除色。然色有二種。一者易除謂有情數。二者難除謂無情數。此空界色多近非情牆壁樹等。而施設故名隣難除色。舊對法者及此國師。俱說空界處處皆有。謂骨肉筋脈皮血身分。晝夜明闇形顯等處皆有此色。問緣空界色眼識生不。有說緣此眼識不生。謂空界色雖眼識境而此眼識畢竟不生。復有說者。緣空界色眼識亦生。問若爾何故見不明了。答此空界色晝為明所覆。夜為闇所覆。故眼雖見而不明了。
+What is the domain of space? The answer, as stated in the sutras, includes the space of the eye sockets, the space of the ear canals, the space of the nostrils, the space of the facial orifices, the space of the throat, the space within the heart, the space around the heart, the space through which food and drink pass, the space where food and drink are stored, the space through which food and drink are expelled, and the space in the joints, pores, etc. This is called the domain of space.
+
+Abhidharma discusses it as follows: What is the domain of space? It refers to adjacent obstructive matter. "Obstruction" means accumulation, such as walls and other forms of matter. The space next to this is called adjacent obstructive matter. For example, the space between walls, the space within a thicket, the space between leaves, the space between windows and doors, the space in passages, the space between fingers, etc. This is called the domain of space.
+
+There is a view that this should be explained as: What is the domain of space? It refers to matter that is difficult to remove from adjacent spaces. However, matter falls into two categories: One is easy to remove, which pertains to sentient beings, and the other is difficult to remove, which pertains to insentient entities. The domain of space often deals with the latter, such as walls and trees, which are set up and thus called matter that is difficult to remove adjacent to it.
+
+Old interpretations and masters in this country unanimously say that the domain of space exists everywhere. It is said to include the bones, flesh, tendons, veins, skin, blood, and body. Spaces exist where day and night, light and darkness, and visible forms occur. The question is raised: Can the consciousness of seeing arise in relation to the matter of the domain of space? One view states that such consciousness does not arise because, although the matter of the domain of space can be an object of visual consciousness, this particular consciousness does not actually arise. Another view is that consciousness of seeing can arise in relation to the matter of the domain of space.
+
+Then why is it not clearly seen? The answer is that during the day, the space is obscured by light, and at night, it is obscured by darkness. Therefore, although the eye sees it, it is not seen clearly.
 
 問虛空空界有何差別。答虛空非色空界是色。虛空無見空界有見。虛空無對空界有對。虛空無漏空界有漏。虛空無為空界有為。問若此虛空是無為者。契經所說當云何通。如契經說。世尊以手摩捫虛空告苾芻眾。豈佛以手摩捫無為而告弟子。答彼於空界說虛空聲。非謂虛空手可摩捫。餘經亦說。佛告苾芻。若有畫師或彼弟子持諸彩色來作是言。我能彩畫虛空。作種種文像有是事不。苾芻白佛無有是事。彼亦於空界說虛空聲又伽他說。
 
