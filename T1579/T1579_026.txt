@@ -6,105 +6,683 @@
 #【其他事項】本資料庫可自由免費流通，詳細內容請參閱【財團法人佛教電子佛典基金會資料庫版權宣告】
 #----------------------------------------------------------------------
 
-Tell me what division/section this is, any titles or sections, and briefly summarize this juan of the chinese Yogacarabhumisastra, providing your answer in english noting translations.
-This excerpt is from the **Yogācārabhūmiśāstra (瑜伽師地論)**, specifically from volume 26, spoken by Maitreya Bodhisattva and translated into Chinese by the venerable Xuanzang under imperial command. The text represents a seminal work in the Yogācāra tradition of Mahāyāna Buddhism, detailing the stages (bhūmis) on the path of a bodhisattva and the practices and mental states associated with them.
-
-The section you've provided appears to be discussing the **Characteristics of Voice-Hearer Levels (聲聞地)**, focusing on topics like the different types of practitioners (補特伽羅, "buddha"), their establishment, what they meditate on, how they are instructed, how they practice, the adaptability of their practice methods, obstacles in meditation, the nuances of meditation, and the outcomes of their practice.
-
-This part of the text is delving into the **classification of practitioners** based on specific qualities such as their spiritual faculties (sharp or dull), emotional tendencies (e.g., inclination towards greed, hatred, or delusion), and stages on the path (stream-entry, once-returner, non-returner, arahant). It also addresses how these practitioners are guided, how they engage with and meditate on their objects of focus, and the expected results of their meditative practice, including dealing with challenges such as those posed by Māra (demonic influences) and reaching a state of śūnyatā (emptiness or voidness), ultimately aiming for liberation from Saṃsāra.
-
-Specifically, **twenty-eight categories of practitioners** are outlined, covering a breadth from those of dull faculties to those who are liberated in various manners, such as through one lifetime or after several rebirths across different realms. Additionally, it detailed strategies for overcoming specific defilements tied to each practitioner type, utilizing methodologies like meditating on impurity to overcome desire or cultivating mettā (loving-kindness) to counteract aversion.
-
-The text is not just a philosophical exposition but also serves as a practical guide, indicating different meditational practices and philosophical reflections geared towards progressing on the path towards enlightenment. It stands as a comprehensive manual for the cultivation of mind and understanding of reality as perceived through the Yogācāra lens, deeply influential in East Asian Buddhism and beyond.
-
 瑜伽師地論卷第二十六彌勒菩薩說
+Yogācārabhūmi Śāstra Volume Twenty-six, Spoken by Bodhisattva Maitreya
 
 三藏法師玄奘奉　詔譯
+The Tripitaka Master Xuanzang, Following the Imperial Edict, Translated.
 
 本地分中聲聞地第十三第二瑜伽處之一
+The Thirteenth [Chapter] on the Śrāvaka Grounds in the Second "Yoga Place".
 
 問：於如前所舉、所開示出離地中，有幾品類補特伽羅能證出離？
+Question: How many classes of beings are capable of attaining liberation in the stages of liberation as previously mentioned and illustrated?
 
 云何建立補特伽羅？
+How are beings established?
 
 云何所緣？
+What is the object?
 
 云何教授？
+What instruction is given?
 
 云何學？
+What is learned?
 
 云何隨順學法？
+What is practice that accords with learned Dharma?
 
 云何瑜伽壞？
+How does yoga practice deteriorate?
 
 云何瑜伽？
+What is yoga practice?
 
 云何作意？
+What causes thought?
 
 云何瑜伽師所作幾種瑜伽師？
+How many kinds of yoga practitioners are there?
 
 云何瑜伽修？
+How is yoga practice cultivated?
 
 云何修果？
+How is realization cultivated?
 
 幾種補特伽羅異門？
+How many kinds of beggars (bhikṣu) of different paths are there?
 
 幾種補特伽羅？
+How many kinds of beggars (bhikṣu) are there?
 
 幾種建立補特伽羅因緣？
+How many kinds of beggars (bhikṣu) are established by causes and conditions?
 
 有幾種魔？幾種魔事？
+How many kinds of demons (maras) are there? How many kinds of demonic activities are there?
 
 云何發趣空無有果？
+How is emptiness realized without any result?
 
 嗢柁南曰：
+Vasubandhu said:
 
 諸補特伽羅　　建立、所緣、教、
 學、隨順學法、　　壞、瑜伽、作意、
 瑜伽師、作、修、　　果、門、數取趣、
 因、魔事、無果，　　是皆當廣說。
+All beggars (bhikṣus), their establishment, objects, teachings,
+learning, the Dharma followed in learning, decline, yoga, contemplation,
+yoga practitioners, action, cultivation, results, methods, intentional pursuit,
+causes, demonic activities, lack of results, all these should be extensively explained.
 
 補特伽羅品類差別有二十八種。云何二十八？謂鈍根者、利根者、貪增上者、瞋增上者、癡增上者、慢增上者、尋思增上者、得平等者、薄塵性者、行向者、住果者、隨信行者、隨法行者、信勝解者、見至者、身證者、極七返有者、家家者、一間者、中般涅槃者、生般涅槃者、無行般涅槃者、有行般涅槃者、上流者、時解脫者、不動法者、慧解脫者、俱分解脫者。
 
+補特伽羅品類差別有二十八種。云何二十八？
+Beggars (Bhikṣus) are of twenty-eight kinds. What are these twenty-eight?
+
+謂鈍根者、
+Namely people of dull ability,
+
+利根者、
+people of acute ability,
+
+貪增上者、
+people who excel in greed,
+
+瞋增上者、
+people who excel in hatred,
+
+癡增上者、
+people who excel in delusion,
+
+慢增上者、
+people who excel in pride,
+
+尋思增上者、
+people who excel in thought,
+
+得平等者、
+people who excel in equanimity,
+
+薄塵性者、
+people naturally un-attached,
+
+行向者、
+people who practice the path,
+
+住果者、
+people who abide in the result,
+
+隨信行者、
+people who act according to trust (śraddhā),
+
+隨法行者、
+people who act according to Dharma,
+
+信勝解者、
+people who trust (śraddhā) beyond explanation,
+
+見至者、
+people who realize seeing,
+
+身證者、
+people who realize this body,
+
+極七返有者、
+people who will return no more than seven times,
+
+家家者、
+people who return to their family,
+
+一間者、
+people who return once more,
+
+中般涅槃者、
+people in nirvana,
+
+生般涅槃者、
+people born in nirvana,
+
+無行般涅槃者、
+people in nirvana without practice,
+
+有行般涅槃者、
+people in nirvana with practice,
+
+上流者、
+people streaming upward,
+
+時解脫者、
+people occasionally liberated,
+
+不動法者、
+people in immovable Dharma,
+
+慧解脫者、
+people liberated by wisdom (prajñā),
+
+俱分解脫者。
+people liberated by all aspects.
+
 云何鈍根補特伽羅？謂有補特伽羅，成就鈍根，於所知事遲鈍運轉，微劣運轉，如前已說。此復二種，應知其相。一者、本來鈍根種姓，二者、未善修習諸根。
+
+云何鈍根補特伽羅？
+How is a beggar (bhikṣu) of dull ability?
+
+謂有補特伽羅,
+There are beggars (bhikṣus),
+
+成就鈍根,
+of dull ability,
+
+於所知事遲鈍運轉，
+slow to overturn what is known,
+
+微劣運轉，
+dull in turning,
+
+如前已說
+as previously explained.
+
+此復二種，應知其相。
+In this there are two types, known by their qualities:
+
+一者、本來鈍根種姓，
+the first, individuals of naturally dull ability,
+
+二者、未善修習諸根。
+the second, those lacking cultivation of such ability.
 
 云何利根補特伽羅？謂有補特伽羅，成就利根，於所知事不遲鈍運轉，不微劣運轉，如前已說。此亦二種，應知其相。一者、本來利根種姓，二者、已善修習諸根。
 
+云何利根補特伽羅？
+How is a beggar (bhikṣu) of sharp ability?
+
+謂有補特伽羅，
+There are beggars (bhikṣus),
+
+成就利根，
+who have acute ability,
+
+於所知事不遲鈍運轉，
+not slow in overturning what is known,
+
+不微劣運轉，
+not dull in turning,
+
+如前已說。
+as previously explained.
+
+此亦二種，應知其相。
+In this there are two types, known by their qualities:
+
+一者、本來利根種姓，
+the first, individuals of naturally having acute ability,
+
+二者、已善修習諸根。
+the second, already well cultivated in all abilities.
+
 云何貪增上補特伽羅？謂有補特伽羅，先餘生中，於貪煩惱已修、已習、已多修習；由是因緣，今此生中，於所愛事，有猛利貪、有長時貪。是名貪增上補特伽羅。
+
+云何貪增上補特伽羅？
+How does a beggar (bhikṣu) excel in greed?
+
+謂有補特伽羅，
+There are beggars (bhikṣus),
+
+先餘生中，
+born in previous lives,
+
+於貪煩惱已修、已習、已多修習；
+in which greed was already cultivated by affliction, already learned, already practiced many times;
+
+由是因緣，
+resulting from causes and conditions,
+
+今此生中，
+now in this life,
+
+於所愛事，
+in in matters of love,
+
+有猛利貪、有長時貪。
+there is intense greed, there is prolonged greed.
+
+是名貪增上補特伽羅。
+This is how a beggar (bhikṣu) excels in greed.
 
 云何瞋增上補特伽羅？謂有補特伽羅，先餘生中，於瞋煩惱已修、已習、已多修習；由是因緣，今此生中，於所憎事，有猛利瞋、有長時瞋。是名瞋增上補特伽羅。
 
+云何瞋增上補特伽羅？
+How does a beggar (bhikṣu) excel in anger?
+
+謂有補特伽羅，
+There are beggars (bhikṣus),
+
+先餘生中，
+born in previous lives,
+
+於瞋煩惱已修、已習、已多修習；
+in which anger was already cultivated by affliction, already learned, already practiced many times;
+
+由是因緣，
+resulting from causes and conditions,
+
+今此生中，
+now in this life,
+
+於所憎事，
+in matters of hate,
+
+有猛利瞋、有長時瞋。
+there is intense anger, there is prolonged anger.
+
+是名瞋增上補特伽羅。
+This is how a beggar (bhikṣu) excels in anger.
+
 云何癡增上補特伽羅？謂有補特伽羅，先餘生中，於癡煩惱已修、已習、已多修習；由是因緣，今此生中，於所愚事，有猛利癡、有長時癡。是名癡增上補特伽羅。
+
+云何癡增上補特伽羅？
+How does a beggar (bhikṣu) excel in delusion?
+
+謂有補特伽羅，
+There are beggars (bhikṣus),
+
+先餘生中，
+born in previous lives,
+
+於癡煩惱已修、已習、已多修習；
+in which delusion was already cultivated by affliction, already learned, already practiced many times;
+
+由是因緣，
+resulting from causes and conditions,
+
+今此生中，
+now in this life,
+
+於所愚事，
+in matters of foolishness,
+
+有猛利癡、有長時癡。
+there is intense delusion, there is prolonged delusion.
+
+是名癡增上補特伽羅。
+This is how a beggar (bhikṣu) excels in delusion.
 
 云何慢增上補特伽羅？謂有補特伽羅，先餘生中，於慢煩惱已修、已習、已多修習；由是因緣，今此生中，於所慢事，有猛利慢、有長時慢。是名慢增上補特伽羅。
 
+云何慢增上補特伽羅？
+How does a beggar (bhikṣu) excel in pride?
+
+謂有補特伽羅，
+There are beggars (bhikṣus),
+
+先餘生中，
+born in previous lives,
+
+於慢煩惱已修、已習、已多修習；
+in which pride was already cultivated by affliction, already learned, already practiced many times;
+
+由是因緣，
+resulting from causes and conditions,
+
+今此生中，
+now in this life,
+
+於所慢事，
+in matters of pride,
+
+有猛利慢、有長時慢。
+there is intense pride, there is prolonged pride.
+
+是名慢增上補特伽羅。
+This is how a beggar (bhikṣu) excels in pride.
+
 云何尋思增上補特伽羅？謂有補特伽羅，先餘生中，於其尋思已修、已習、已多修習；由是因緣，今此生中，於所尋思事，有猛利尋思、有長時尋思。是名尋思增上補特伽羅。
+
+云何尋思增上補特伽羅？
+How does a beggar (bhikṣu) excel in thought?
+
+謂有補特伽羅，
+There are beggars (bhikṣus),
+
+先餘生中，
+born in previous lives,
+
+於其尋思已修、已習、已多修習；
+in which seeking thought was already cultivated, already learned, already practiced many times;
+
+由是因緣，
+resulting from causes and conditions,
+
+今此生中，
+now in this life,
+
+於所尋思事，
+in matters of thought,
+
+有猛利尋思、有長時尋思。
+there is intense thought, there is prolonged thought.
+
+是名尋思增上補特伽羅。
+This is how a beggar (bhikṣu) excels in thought.
 
 云何得平等補特伽羅？謂有補特伽羅，先餘生中，雖於貪、瞋、癡、慢、尋思，不修、不習、不多修習，而於彼法未見過患、未能厭壞、未善推求。由是因緣，於所愛、所憎、所愚、所慢、所尋思事，無猛利貪、無長時貪，然如彼事，貪得現行。如貪、瞋、癡、慢、尋思亦爾。是名得平等補特伽羅。
 
+云何得平等補特伽羅？
+How does a beggar (bhikṣu) excel in equanimity?
+
+謂有補特伽羅，
+There are beggars (bhikṣus),
+
+先餘生中，
+born in previous lives,
+
+雖於貪、瞋、癡、慢、尋思，
+although in greed, hatred, delusion, pride, and thought,
+
+不修、不習、不多修習，
+not cultivated, not learned, not practiced many times,
+
+而於彼法未見過患、未能厭壞、未善推求。
+but in those methods does not see the cause of suffering, not able to reject what is unwholesome, not able to seek what is wholesome.
+
+由是因緣，
+resulting from causes and conditions,
+
+於所愛、所憎、所愚、所慢、所尋思事，
+in matters of love, hate, foolishness, pride, and thought,
+
+無猛利貪、無長時貪，
+without intense greed, without prolonged greed,
+
+然如彼事，
+but in those matters,
+
+貪得現行。
+act in greed.
+
 云何薄塵性補特伽羅？謂有補特伽羅，先餘生中，於貪煩惱不修、不習、不多修習，已能於彼多見過患，已能厭壞、已善推求。由是因緣，今此生中，於所愛事會遇現前，眾多美妙上品境中，起微劣貪；於其中品、下品境中，貪全不起。如貪、瞋、癡、慢、尋思應知亦爾。是名薄塵性補特伽羅。
+
+云何薄塵性補特伽羅？
+How is a beggar (bhikṣu) naturally un-attached?
+
+謂有補特伽羅，
+There are beggars (bhikṣus),
+
+先餘生中，
+born in previous lives,
+
+於貪煩惱不修、不習、不多修習，
+in which greed and afflictions were not cultivated, not learned, not practiced many times,
+
+已能於彼多見過患，
+already is able to see the cause of suffering,
+
+已能厭壞、已善推求。
+able to reject what is unwholesome, able to seek what is wholesome.
+
+由是因緣，
+resulting from causes and conditions,
+
+今此生中，
+now in this life,
+
+於所愛事會遇現前，
+matters of love will meet presence,
+
+眾多美妙上品境中，
+in many beautiful subtle higher realms,
+
+起微劣貪；
+there begins a slight inferior greed;
+
+於其中品、下品境中，
+in middle and lower realms,
+
+貪全不起。
+greed never begins.
+
+如貪、瞋、癡、慢、尋思應知亦爾。
+Like greed, hatred, delusion, pride, and thought, are realized in the same way.
 
 云何行向補特伽羅？謂行四向補特伽羅。何等為四？一、預流果向，二、一來果向，三、不還果向，四、阿羅漢果向。是名行向補特伽羅。
 
+云何行向補特伽羅？
+How does a beggar (bhikṣu) practice the path?
+
+謂行四向補特伽羅。
+It refers to practitioners oriented towards four destinations.
+
+何等為四？
+What are these four?
+
+一、預流果向，
+First, the orientation towards the result of stream-entry;
+
+二、一來果向，
+second, the orientation towards the result of once-returning;
+
+三、不還果向，
+third, the orientation towards the result of non-returning;
+
+四、阿羅漢果向。
+fourth, the orientation towards the result of arahantship.
+
+是名行向補特伽羅。
+This is called the practice of the path.
+
 云何住果補特伽羅？謂住四果補特伽羅。何等為四？一、預流果，二、一來果，三、不還果，四、阿羅漢果。是名住果補特伽羅。
+
+云何住果補特伽羅？
+How does a beggar (bhikṣu) abide in the result?
+
+謂住四果補特伽羅。
+This refers to abiding in the four results.
+
+何等為四？
+What are these four?
+
+一、預流果，
+First, the result of stream-entry;
+
+二、一來果，
+second, the result of once-returning;
+
+三、不還果，
+third, the result of non-returning;
+
+四、阿羅漢果。
+fourth, the result of arahantship.
+
+是名住果補特伽羅。
+This is called abiding in the result.
 
 云何隨信行補特伽羅？謂有補特伽羅，從他求請教授教誡，由此力故，修證果行。非如所聞、所受、所究竟、所思、所量、所觀察法，自有功能、自有勢力隨法修行；唯由隨他補特伽羅，信而修行。是名隨信行補特伽羅。
 
+云何隨信行補特伽羅？
+How does a beggar (bhikṣu) act according to trust (śraddhā)?
+
+謂有補特伽羅，
+There are beggars (bhikṣus),
+
+從他求請教授教誡，
+who seek instructions from others,
+
+由此力故，
+due to this power,
+
+修證果行。
+they practice and realize results of the path.
+
 云何隨法行補特伽羅？謂有補特伽羅，如其所聞、所受、所究竟、所思、所量、所觀察法，自有功能、自有勢力隨法修行；不從他求教授教誡，修證果行。是名隨法行補特伽羅。
+
+云何隨法行補特伽羅？
+How does a beggar (bhikṣu) act according to Dharma?
+
+謂有補特伽羅，
+There are beggars (bhikṣus),
+
+如其所聞、所受、所究竟、所思、所量、所觀察法，
+who practice according to what they have heard, received, investigated, considered, measured, and observed,
+
+自有功能、自有勢力隨法修行；
+they have the ability and power to practice according to Dharma;
+
+不從他求教授教誡，
+they do not seek instructions from others,
+
+修證果行。
+they practice and realize results of the path.
 
 云何信勝解補特伽羅？謂即隨信行補特伽羅，因他教授教誡，於沙門果得觸證時，名信勝解補特伽羅。
 
+云何信勝解補特伽羅？
+How does a beggar (bhikṣu) trust (śraddhā) beyond explanation?
+
+謂即隨信行補特伽羅，
+This refers to beggars (bhikṣus) who practice according to trust,
+
+因他教授教誡，
+due to instructions from others,
+
+於沙門果得觸證時，
+when they realize the results of the path,
+
+名信勝解補特伽羅。
+they are called beggars (bhikṣus) who trust beyond explanation.
+
 云何見至補特伽羅？謂即隨法行補特伽羅，於沙門果得觸證時，說名見至補特伽羅。
+
+云何見至補特伽羅？
+How does a beggar (bhikṣu) realize seeing?
+
+謂即隨法行補特伽羅，
+This refers to beggars (bhikṣus) who practice according to Dharma,
+
+於沙門果得觸證時，
+when they realize the results of the path,
+
+說名見至補特伽羅。
+they are called beggars (bhikṣus) who realize seeing.
 
 云何身證補特伽羅？謂有補特伽羅，於八解脫順逆入出身作證，多安住，而未能得諸漏永盡。是名身證補特伽羅。
 
+云何身證補特伽羅？
+How does a beggar (bhikṣu) realize this body?
+
+謂有補特伽羅，
+This refers to beggars (bhikṣus),
+
+於八解脫順逆入出身作證，
+who realize this body through entering and exiting the eight liberations in order or reverse,
+
+多安住，
+they abide in many ways,
+
+而未能得諸漏永盡。
+but they have not yet completely ended all defilements.
+
+是名身證補特伽羅。
+They are called beggars (bhikṣus) who realize this body.
+
 云何名為極七返有補特伽羅？謂有補特伽羅，已能永斷薩迦耶見、戒禁取、疑三種結故，得預流果，成無墮法，定趣菩提。極七返有天人往來。極至七返，證苦邊際。如是名為極七返有補特伽羅。
+
+云何名為極七返有補特伽羅？
+How does a beggar (bhikṣu) return no more than seven times?
+
+謂有補特伽羅，
+This refers to beggars (bhikṣus),
+
+已能永斷薩迦耶見、戒禁取、疑三種結故，
+already able to eternally sever Sarvastivadian views, observe precepts and abstentions, and the three kinds of doubt,
+
+得預流果，
+they attain the result of stream-entry,
+
+成無墮法，
+they become irreversible,
+
+定趣菩提。
+they are determined to attain Bodhi.
+
+極七返有天人往來。
+They return no more than seven times as gods or humans.
+
+極至七返，證苦邊際。
+They return no more than seven times and realize the end of suffering.
+
+如是名為極七返有補特伽羅。
+They are called beggars (bhikṣus) who return no more than seven times.
 
 云何家家補特伽羅？謂有二種家家。一、天家家，二、人家家。天家家者，謂於天上，從家至家，若往、若來，證苦邊際。人家家者，謂於人間，從家至家，若往、若來，證苦邊際。當知此二，俱是預流補特伽羅。
 
+云何家家補特伽羅？
+How does a beggar (bhikṣu) return to his family?
+
+謂有二種家家。
+This refers to two kinds of beggars (bhikṣus) who return to their families.
+
+一、天家家，
+The first kind are beggars (bhikṣus) who return to their families in the heavens,
+
+二、人家家。
+the second kind are beggars (bhikṣus) who return to their families on earth.
+
+天家家者，
+The beggars (bhikṣus) who return to their families in the heavens,
+
+謂於天上，從家至家，若往、若來，
+return to their families in the heavens, whether they go or come,
+
+證苦邊際。
+and realize the end of suffering.
+
+人家家者，
+The beggars (bhikṣus) who return to their families on earth,
+
+謂於人間，從家至家，若往、若來，
+return to their families on earth, whether they go or come,
+
+證苦邊際。
+and realize the end of suffering.
+
+當知此二，俱是預流補特伽羅。
+Know that these two are both beggars (bhikṣus) who have entered the stream.
+
 云何一間補特伽羅？謂即一來補特伽羅，行不還果向，已能永斷欲界煩惱上品、中品，唯餘下品。唯更受一欲界天有，即於彼處得般涅槃，不復還來生此世間。是名一間補特伽羅。
 
+云何一間補特伽羅？
+How does a beggar (bhikṣu) return once more?
+
+謂即一來補特伽羅，
+This refers to beggars (bhikṣus) who return once more,
+
+行不還果向，
+who do not return to the result of their actions,
+
+已能永斷欲界煩惱上品、中品，
+already able to eternally leave high to moderate afflictions of desire realms behind,
+
+唯餘下品。
+only low quality afflictions remain.
+
+唯更受一欲界天有，
+Only one more birth in a desire realm,
+
+即於彼處得般涅槃，
+immediately obtaining Nirvana there,
+
+不復還來生此世間。
+not to return to birth in this world again.
+
 云何中般涅槃補特伽羅？謂有三種中般涅槃補特伽羅。一、有一種中般涅槃補特伽羅，從此沒已，中有續生；中有生已，便般涅槃。如小札火，微星纔舉，即便謝滅。二、有一種中般涅槃補特伽羅，從此沒已，中有續生；中有生已，少時經停，未趣生有，便般涅槃。如鐵摶鋌，炎熾赫然，鎚鍛星流，未下便滅。三、有一種中般涅槃補特伽羅，從此沒已，中有續生；中有生已，往趣生有，未得生有，便般涅槃。如彼熱鐵，椎鍛星流，下未至地，即便謝滅。如是三種中般涅槃補特伽羅，總說為一中般涅槃補特伽羅。
+
+云何中般涅槃補特伽羅？
+How does a beggar (bhikṣu) obtain the middle Nirvana?
 
 云何生般涅槃補特伽羅？謂纔生彼已，便般涅槃。是名生般涅槃補特伽羅。
 
