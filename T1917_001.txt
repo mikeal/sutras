@@ -49,9 +49,163 @@ One should know Buddha as a model for all things, showing the path as such,
 三乘正士豈不同遊此路？
 How could virtuous practitioners of all Three Vehicles not traverse this path?
 
-
 所言「六」者，即是數法，約數明禪，故言六也。如佛或約一數辯禪，所謂一行三昧；或約二數，謂一、止，二、觀；或約三數，謂三三昧；或約四數，所謂四禪；或約五數，謂五門禪；或約六數，謂六妙門；或約七數，謂七依定；或約八數，謂八背捨；或約九數，謂九次第定；或約十數，謂十禪支。如是等，乃至百千萬億阿僧祇不可說諸三昧門，悉是約數說諸禪也。雖數有多少，窮其法相，莫不悉相收攝，以眾生機悟不同故，有增減之數分別利物。
-The term "six" refers to a method of enumeration used to elucidate meditation, hence the mention of six. For instance, the Buddha sometimes spoke of meditation in relation to a single principle, referred to as the practice of single-pointed samādhi; or in relation to two principles, namely, 1. concentration (samatha) and 2. contemplation (vipaśyanā); or three principles, known as the three samādhis; or four principles, referred to as the four dhyānas; or five principles, known as the five-door meditation; or six principles, known as the Six Subtle Dharma Gates; or seven principles, referred to as the seven bases of concentration; or eight principles, known as the eight renunciations; or nine principles, referred to as the nine progressive stages of concentration; or ten principles, known as the ten supports of meditation. And so on, up to the innumerable samādhi practices that cannot be fully described, all these meditative practices are discussed in terms of enumeration. Although the numbers vary, encompassing the entire spectrum of dharma characteristics, they are all inclusively integrated. Since sentient beings' capacities for enlightenment vary, these varied numbers distinguish the teachings to benefit beings accordingly.
+
+所言「六」者，即是數法，約數明禪，故言六也。
+What is called "six" here, is a dharma of enumeration, understanding dhyāna (禪,chán,zen,jhana) by enumeration, so it is called "six."
+
+如佛或約一數辯禪，所謂一行三昧；
+As Buddha sometimes explains dhyāna in a single enumeration, so-called "One Practice Samadhi";
+
+或約二數，謂一、止，二、觀；
+
+or explains in two-fold enumeration, referring first to, rest (śamatha), and secondly to, outseeing (vipaśyanā);
+
+或約三數，謂三三昧；
+or explains in three-fold enumeration, so-called Three Samadhis;
+
+[
+Here is a brief overview of what the Daśabhūmika Sūtra says about the three samadhis:
+
+	1.	空三昧 (Kong Samadhi) - The Samadhi of Emptiness:
+	•	This samadhi is related to the realization of the emptiness (śūnyatā) of all phenomena. The bodhisattva, through deep meditative concentration, perceives that all things lack inherent existence. This understanding helps to eliminate attachment and aversion, leading to a state of equanimity and profound insight into the nature of reality.
+	2.	無相三昧 (Wuxiang Samadhi) - The Samadhi of Signlessness:
+	•	In this samadhi, the bodhisattva understands that all phenomena are devoid of fixed characteristics or signs (nimitta). This realization leads to a state beyond conceptual distinctions and dualities. The bodhisattva transcends the ordinary perception of forms and appearances, perceiving the true nature of reality without attachment to superficial attributes.
+	3.	無願三昧 (Wuyuan Samadhi) - The Samadhi of Wishlessness:
+	•	This samadhi involves the cultivation of a state of mind free from desires and aspirations. The bodhisattva recognizes the futility of clinging to worldly or even spiritual goals, leading to a state of inner peace and contentment. By letting go of all desires, the bodhisattva can focus on the ultimate goal of enlightenment for the benefit of all sentient beings.
+]
+
+或約四數，所謂四禪；
+or explains in four-fold enumeration, so-called "Four Dhyānas";
+
+或約五數，謂五門禪；
+or explains in five-fold enumeration, so-called "Five Doors of Dhyāna";
+
+[
+The five gates typically include:
+
+	1.	Chan of Observing the Mind (觀心禪, Guānxīn Chán): This practice focuses on observing the nature of one’s own mind and thoughts, recognizing their impermanence and emptiness.
+	2.	Chan of Calming the Mind (止禪, Zhǐ Chán): This method involves calming and stabilizing the mind through concentration and mindfulness practices, leading to a state of mental stillness and clarity.
+	3.	Chan of Insight (觀禪, Guān Chán): This gate involves developing insight into the true nature of reality, often through analytical meditation and contemplation of Buddhist teachings.
+	4.	Chan of Subduing the Defilements (伏禪, Fú Chán): This practice aims to subdue and overcome mental defilements and negative emotions, such as greed, anger, and ignorance, through disciplined practice and ethical conduct.
+	5.	Chan of Realizing Emptiness (空禪, Kōng Chán): This advanced practice focuses on realizing the ultimate emptiness of all phenomena, transcending dualistic thinking, and experiencing non-dual awareness.
+]
+
+或約六數，謂六妙門；
+or explains in six-fold enumeration, so-called "Six Subtle Doors";
+
+或約七數，謂七依定；
+or explains in seven-fold enumeration, so-called "Seven Dependent Samadhis";
+
+[
+According to the mahavibhasa this is the four dhyanas and the first 3 formless samadhis.
+
+	1.	初禅 (First Dhyāna): Characterized by applied and sustained thought, rapture, happiness, and one-pointedness of mind.
+	2.	二禅 (Second Dhyāna): Marked by the fading away of applied and sustained thought, leading to inner tranquility and unification of mind, rapture, and happiness.
+	3.	三禅 (Third Dhyāna): Involves the fading of rapture, leading to equanimity, mindfulness, and happiness.
+	4.	四禅 (Fourth Dhyāna): Characterized by the abandonment of both happiness and suffering, leading to purity of equanimity and mindfulness.
+
+The remaining bases are the four formless attainments, which extend beyond the material realm:
+
+	5.	空无边处定 (Space Infinite Attainment): Attainment of the perception of infinite space.
+	6.	识无边处定 (Consciousness Infinite Attainment): Attainment of the perception of infinite consciousness.
+	7.	无所有处定 (Nothingness Attainment): Attainment of the perception of nothingness.
+]
+
+或約八數，謂八背捨；
+or explains in eight-fold enumeration, so-called "Eight Abandonments";
+
+[
+	1.	Abandonment of Form (色界): Renouncing attachment to the physical form and material objects.
+	2.	Abandonment of Formless (無色界): Renouncing attachment to the formless realms, which are higher meditative states beyond the physical form.
+	3.	Abandonment of Perception (受): Renouncing attachment to perception and sensory experiences.
+	4.	Abandonment of Non-Perception (不受): Renouncing attachment to the absence of perception.
+	5.	Abandonment of Grossness (麁): Renouncing attachment to coarse and gross objects.
+	6.	Abandonment of Subtlety (細): Renouncing attachment to subtle and refined objects.
+	7.	Abandonment of Attachment (著): Renouncing attachment to all forms of clinging and craving.
+	8.	Abandonment of Non-Attachment (不著): Renouncing attachment even to the concept of non-attachment itself.
+]
+
+或約九數，謂九次第定；
+or explains in nine-fold enumeration, so-called "Nine Successive Samadhis";
+
+[
+  1.	初禪 (Chū chán) - First Dhyāna (First Meditative Absorption):
+	•	Characteristics: Detachment from sensory desires and unwholesome states. This stage includes initial joy (rapture) and happiness born of seclusion.
+	•	Mental States: Applied thought (vitarka), sustained thought (vicāra), joy (pīti), and happiness (sukha).
+  2.	二禪 (Èr chán) - Second Dhyāna (Second Meditative Absorption):
+	•	Characteristics: The subsiding of applied and sustained thought, leading to inner tranquility and one-pointedness of mind.
+	•	Mental States: Joy (pīti) and happiness (sukha) remain, but the mind is now free from discursive thinking.
+  3.	三禪 (Sān chán) - Third Dhyāna (Third Meditative Absorption):
+	•	Characteristics: A deeper state of equanimity where joy (pīti) fades, and happiness (sukha) becomes more pronounced.
+	•	Mental States: Equanimity (upekkhā) and clear mindfulness, with happiness still present.
+  4.	四禪 (Sì chán) - Fourth Dhyāna (Fourth Meditative Absorption):
+	•	Characteristics: The abandonment of both happiness (sukha) and unhappiness (dukkha), leading to a state of pure equanimity and mindfulness.
+	•	Mental States: Perfect equanimity (upekkhā) and clear, undisturbed mindfulness.
+  5.	空無邊處定 (Kōng wú biān chù dìng) - Base of Infinite Space:
+	•	Characteristics: Moving beyond the physical form, the meditator experiences an infinite space.
+	•	Mental States: The perception of boundless space.
+  6.	識無邊處定 (Shí wú biān chù dìng) - Base of Infinite Consciousness:
+	•	Characteristics: Transcending the base of infinite space, the meditator experiences the boundlessness of consciousness.
+	•	Mental States: The perception of boundless consciousness.
+  7.	無所有處定 (Wú suǒ yǒu chù dìng) - Base of Nothingness:
+	•	Characteristics: Going beyond the base of infinite consciousness, the meditator perceives nothingness.
+	•	Mental States: The perception of nothingness.
+  8.	非想非非想處定 (Fēi xiǎng fēi fēi xiǎng chù dìng) - Base of Neither Perception nor Non-Perception:
+	•	Characteristics: A subtle state where perception is so refined that it is neither distinctly perceiving nor non-perceiving.
+	•	Mental States: Extremely subtle awareness.
+  9.	滅受想定 (Miè shòu xiǎng dìng) - Cessation of Perception and Feeling:
+	•	Characteristics: The complete cessation of all mental processes, perception, and feelings.
+	•	Mental States: The cessation of all perceptions and feelings, leading to a profound state of peace.
+]
+
+或約十數，謂十禪支。
+or explains in ten-fold enumeration, so-called "Ten Dhyana Supports."
+
+[
+  1.	尋 (Vitarka):
+	•	Description: Initial application of thought or initial attention. This factor involves directing the mind towards an object of meditation.
+	•	Present In: First Dhyāna.
+  2.	伺 (Vicāra):
+	•	Description: Sustained application of thought or sustained attention. This factor involves maintaining continuous attention on the meditation object.
+	•	Present In: First and Second Dhyānas.
+  3.	喜 (Pīti):
+	•	Description: Rapture or joy. This factor is characterized by a joyful and pleasurable state of mind that arises from deep concentration.
+	•	Present In: First and Second Dhyānas.
+  4.	樂 (Sukha):
+	•	Description: Happiness or bliss. This factor involves a deep sense of contentment and bliss that accompanies successful meditation.
+	•	Present In: First, Second, and Third Dhyānas.
+  5.	一心 (Ekaggatā):
+	•	Description: One-pointedness of mind or unification of the mind. This factor is the focused and concentrated state of the mind.
+	•	Present In: All Four Dhyānas.
+  6.	心輕安 (Kāyapassaddhi):
+	•	Description: Tranquility of mind and body. This factor involves a calming and soothing effect on both the body and the mind.
+	•	Present In: All Four Dhyānas, particularly emphasized in higher Dhyānas.
+  7.	心輕安 (Cittapassaddhi):
+	•	Description: Mental tranquility. This factor is the calming and pacifying of the mental activities.
+	•	Present In: All Four Dhyānas, particularly emphasized in higher Dhyānas.
+  8.	心定 (Samādhi):
+	•	Description: Concentration or meditative absorption. This factor involves deep and unwavering focus.
+	•	Present In: All Four Dhyānas.
+  9.	心正知 (Cittavisuddhi):
+	•	Description: Purity of mind. This factor involves the purification and clarity of mental states.
+	•	Present In: All Four Dhyānas, particularly in the highest Dhyāna.
+  10.	無記 (Upekkhā):
+	•	Description: Equanimity or neutral feeling. This factor involves a balanced and impartial mental state, free from attachment and aversion.
+	•	Present In: Third and Fourth Dhyānas.
+]
+
+如是等，乃至百千萬億阿僧祇不可說諸三昧門，悉是約數說諸禪也。
+Like these, and even up to hundreds thousands millions billions and countless other unmentionable Samadhi methods, all are approximate enumerations to explain various Dhyāna.
+
+雖數有多少，窮其法相，莫不悉相收攝，
+Although the numbers are many, fully exploring their Dharmaness (Dharma-Lakṣaṇa), none fail to be included in the others,
+
+以眾生機悟不同故，
+since the capacities and understandings of beings differ,
+
+有增減之數分別利物。
+there are greater and lesser enumerations differentiated (vikalpa) for their benefit.
 
 今言「六」者，即是約數法而標章也。「妙」者，其意乃多，若論正意，即是滅諦涅槃，故滅四行中，言滅、止、妙、離。涅槃非斷非常，有而難契，無而易得，故言「妙」也。六法能通，故名為「門」。門雖有六，會妙不殊，故經言：「泥洹真法寶，眾生從種種門入。」此則通釋六妙門之大意也。
 The mention of "six" here pertains to marking or characterizing it by a method of enumeration. "Subtle" (妙) carries multiple meanings, but if we discuss its principal meaning, it refers to the truth of cessation, Nirvāṇa. Thus, in the context of the four practices of cessation, the terms are cessation, stopping, subtlety, and departure. Nirvāṇa is neither cessation nor permanence, elusive yet not hard to align with, absent yet easily attained, hence it is called "subtle". Since the six practices are penetrative, they are named "doors". Although there are six doors, convergence into the subtlety is not different; hence the scripture says, "The true treasure of Nirvāṇa, into which sentient beings enter from various doors." This then broadly explains the essence of the Six Subtle Dharma Gates.
