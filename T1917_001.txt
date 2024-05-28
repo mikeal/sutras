@@ -98,7 +98,7 @@ or explains in six-fold enumeration, so-called "Six Subtle Doors";
 or explains in seven-fold enumeration, so-called "Seven Dependent Samadhis";
 
 [
-According to the mahavibhasa this is the four dhyanas and the first 3 formless samadhis.
+According to the mahavibhasa this is the four dhyānas and the first 3 formless samadhis.
 
 	1.	初禅 (First Dhyāna): Characterized by applied and sustained thought, rapture, happiness, and one-pointedness of mind.
 	2.	二禅 (Second Dhyāna): Marked by the fading away of applied and sustained thought, leading to inner tranquility and unification of mind, rapture, and happiness.
@@ -160,7 +160,7 @@ or explains in nine-fold enumeration, so-called "Nine Successive Samadhis";
 ]
 
 或約十數，謂十禪支。
-or explains in ten-fold enumeration, so-called "Ten Dhyana Supports."
+or explains in ten-fold enumeration, so-called "Ten Dhyāna Supports."
 
 [
   1.	尋 (Vitarka):
@@ -208,29 +208,203 @@ since the capacities and understandings of beings differ,
 there are greater and lesser enumerations differentiated (vikalpa) for their benefit.
 
 今言「六」者，即是約數法而標章也。「妙」者，其意乃多，若論正意，即是滅諦涅槃，故滅四行中，言滅、止、妙、離。涅槃非斷非常，有而難契，無而易得，故言「妙」也。六法能通，故名為「門」。門雖有六，會妙不殊，故經言：「泥洹真法寶，眾生從種種門入。」此則通釋六妙門之大意也。
-The mention of "six" here pertains to marking or characterizing it by a method of enumeration. "Subtle" (妙) carries multiple meanings, but if we discuss its principal meaning, it refers to the truth of cessation, Nirvāṇa. Thus, in the context of the four practices of cessation, the terms are cessation, stopping, subtlety, and departure. Nirvāṇa is neither cessation nor permanence, elusive yet not hard to align with, absent yet easily attained, hence it is called "subtle". Since the six practices are penetrative, they are named "doors". Although there are six doors, convergence into the subtlety is not different; hence the scripture says, "The true treasure of Nirvāṇa, into which sentient beings enter from various doors." This then broadly explains the essence of the Six Subtle Dharma Gates.
+
+今言「六」者，即是約數法而標章也。
+In saying "six" this way, it is an approximate enumeration of dharmas and as a characteristic (lakṣaṇa).
+
+「妙」者，其意乃多，若論正意，即是滅諦涅槃，
+Regarding "subtle (praṇīta)," its meanings are many, when discussing the true meaning, it is the truth of cessation and Nirvana,
+
+故滅四行中，言滅、止、妙、離。
+so there are four practices of sessation within, called: cessation (nirodha), calm (śānta), subtle (praṇīta), and release (niḥsaraṇa).
+
+涅槃非斷非常，有而難契，無而易得，故言「妙」也。
+Nirvana is never destroyed nor is it permanent, is there but difficult to realize, is not there but easy to receive, thus it is called "subtle."
+
+六法能通，故名為「門」。
+Six Dharams can penetrate, so they are referred to as "doors."
+
+門雖有六，會妙不殊，故經言：「泥洹真法寶，眾生從種種門入。」
+Although there are six doors, their subtlety does not differ, as the sutra says: "Nirvana is a truely precious Dharma, beings enter through various doors."
+
+此則通釋六妙門之大意也。
+This explains the general meaning of Six Subtle Doors.
 
 六妙門大意有十：第一、歷別對諸禪六妙門，第二、次第相生六妙門，第三、隨便宜六妙門，第四、隨對治六妙門，第五、相攝六妙門，第六、通別六妙門，第七、旋轉六妙門，第八、觀心六妙門，第九、圓觀六妙門，第十、證相六妙門。
-The broad significance of the Six Marvelous Doors includes ten aspects:
 
-1. Differentiating Among Various Meditations through the Six Marvelous Doors: This involves identifying how each of the Six Marvelous Doors contrasts and compares to various forms of meditation.
-2. Sequential Emergence within the Six Marvelous Doors: This refers to understanding how each door leads to and fosters the development of the next, creating a progressive path of practice.
-3. Flexibility within the Six Marvelous Doors: This aspect speaks to the adaptive nature of these practices, allowing practitioners to employ them as needed based on their current state or obstacles faced.
-4. Application of Antidotes through the Six Marvelous Doors: This involves using specific doors to counteract specific mental afflictions or obstacles, applying the appropriate remedy for each issue.
-5. Integration within the Six Marvelous Doors: This looks at how these doors interrelate and encompass each other, forming a cohesive system of practice.
-6. Common and Unique Characteristics of the Six Marvelous Doors: While these doors share a common goal, each possesses unique features and applications, allowing for a variety of approaches to practice.
-7. Cyclic Progression through the Six Marvelous Doors: This covers the concept of cycling through the doors in practice, not necessarily in a linear fashion but returning to previously practiced doors as needed.
-8. Observation of the Mind through the Six Marvelous Doors: This entails using the doors to observe and understand the nature of the mind, its patterns, and its intrinsic qualities.
-9. Holistic Perspective within the Six Marvelous Doors: This perspective involves viewing the practices of the Six Marvelous Doors as part of a comprehensive approach to understanding and embodying the Dharma.
-10. Realization Stage within the Six Marvelous Doors: This final aspect covers the culmination of practice within these doors, leading to direct realization and insight into the true nature of reality.
+六妙門大意有十：
+Six Subtle Doors has ten sections:
 
-These ten aspects provide a detailed framework for understanding the depth and breadth of the Six Marvelous Doors as a method for spiritual development and insight.
+第一、歷別對諸禪六妙門，
+first, distinguishing and clarifying various Dhyānas in relation to Six Subtle Doors,
+
+第二、次第相生六妙門，
+second, sequential appearance of Six Subtle Doors,
+
+第三、隨便宜六妙門，
+third, adapting Six Subtle Doors to circumstance,
+
+第四、隨對治六妙門，
+fourth, developing counteraction with Six Subtle Doors,
+
+第五、相攝六妙門，
+fifth, interpenetration of Six Subtle Doors,
+
+第六、通別六妙門，
+sixth, universal and specific aspects Six Subtle Doors,
+
+第七、旋轉六妙門，
+seventh, the cyclic rotation of the Six Subtle Doors,
+
+第八、觀心六妙門，
+eighth, the contemplation of the mind with the Six Subtle Doors,
+
+第九、圓觀六妙門，
+ninth, the comprehensive contemplation with the Six Subtle Doors,
+
+第十、證相六妙門。
+tenth, the realization attributes through the Six Subtle Doors.
 
 釋「第一、歷別對諸禪定明六妙門」，即為六意。一者依「數」為妙門。行者因數息故，即能出生四禪、四無量心、四無色定，若於最後非非想定，能覺知非是涅槃，是人必定得三乘道。何以故？此定陰、界、入和合故有，虛誑不實，雖無麁煩惱，而亦成就十種細煩惱。知已破折，不住不著，心得解脫，即證三乘涅槃故。此義如須跋陀羅，佛教斷非非想處惑，即便獲得阿羅漢果。「數」為妙門，意在於此也。
-Explaining "The First: Distinguishing and Clarifying the Six Marvelous Doors among Various Samādhis", this essentially entails six points. First is the marvelous door of "counting". Practitioners, because of counting the breaths, can thereby give rise to the four dhyanas, the four immeasurables, the four formless absorptions, and if at the ultimate, the neither-perception-nor-non-perception absorption, they can become aware that it is not Nirvana, such individuals will surely attain the path of the three vehicles. Why is this? This is because these absorptions, spheres, and entries are composite and thus have a conditional existence; they are empty and not solid. Although they are devoid of coarse afflictions, they still culminate in ten kinds of subtle afflictions. Having recognized and broken through these, not residing or attaching to them, the mind attains liberation, thereby realizing the Nirvana of the three vehicles. This principle is like the Śūraṅgama Sutra, where it is taught that by severing the delusion at the neither-perception-nor-non-perception state, one immediately attains the fruit of Arhatship. "Counting" as a marvelous door is intended in this way.
+
+釋「第一、歷別對諸禪定明六妙門」，即為六意。
+Explaining "first, distinguishing and clarifying various dhyāna and  samādhi in relation to Six Subtle Doors", consider six meanings.
+
+一者依「數」為妙門。
+First, relying upon counting (gaṇanā) as a subtle door.
+
+行者因數息故，即能出生四禪、四無量心、四無色定，若於最後非非想定，能覺知非是涅槃，是人必定得三乘道。
+By practicing counting (gaṇanā) breaths (prāṇa), they are immediationly able to produce the Four Dhyānas, Four Immeasurable Minds, Four Formless Samādhi, and if when reaching final "neither perception nor not-perception", they are able to realize that it is not Nirvana, this person (pudgala) will certainly attain the path of the Three Vehicles.
+
+何以故？
+By what cause?
+
+此定陰、界、入和合故有，虛誑不實，雖無麁煩惱，而亦成就十種細煩惱。
+These samādhi aggregates (skandha), realms (dhātu), coalesce as such, empty (śūnya) delusion (moha) and not real, although there are no coarse (sthūla) affliction (kleśa), they still achieve (siddhi) ten kinds of subtle (sūkṣma) affliction (kleśa).
+
+知已破折，不住不著，心得解脫，即證三乘涅槃故。
+Already knowing and overcoming them, not remaining (anavasthā) and not attached (anāsakta), mind attains liberation, immediatly realizing the Nirvana of all Three Vehicles.
+
+此義如須跋陀羅，佛教斷非非想處惑，即便獲得阿羅漢果。
+This meaning is exemplified by Subhūtarā, taught by the Buddha to sever delusion of neither persception nor non-perception, immediatly attaining the result of Arhatship.
+
+「數」為妙門，意在於此也。
+Counting (saṃkhyā) as a subtle door is intended in this way.
 
 二者「隨」為妙門者，行者因隨息故，即能出生十六特勝，所謂：一、知息入，二、知息出，三、知息長短，四、知息遍身，五、除諸身行，六、心受喜，七、心受樂，八、受諸心行，九、心作喜，十、心作攝，十一、心作解脫，十二、觀無常，十三、觀出散，十四、觀離欲，十五、觀滅，十六、觀棄捨。云何觀棄捨？此觀破非想處惑。所以者何？凡夫修非想時，觀有想處如癕、如瘡，觀無想處如癡也。第一妙定，名曰「非想」。作是念已，即棄捨有想、無想，名「非有想非無想」，故知非想即是兩捨之義。今佛弟子觀行破折，義如前說，是故深觀棄捨，不著非想，能得涅槃。「隨」為妙門，意在此也。
-Second, the marvelous door of "following" applies when practitioners, by following the breath, can consequently bring forth the sixteen exceptional qualities. These are: 1. knowing the breath as it enters, 2. knowing the breath as it exits, 3. knowing the long or short breaths, 4. knowing the breath pervading the body, 5. removing all bodily actions, 6. the mind experiencing joy, 7. the mind experiencing pleasure, 8. experiencing all mental actions, 9. the mind generating joy, 10. the mind generating focus, 11. the mind achieving liberation, 12. observing impermanence, 13. observing detachment, 14. observing the departure from desire, 15. observing cessation, 16. observing relinquishment. How does one observe relinquishment? This observation breaks through the delusion of the neither-perception-nor-non-perception state. Why is this? When ordinary people cultivate the neither-perception-nor-non-perception state, they perceive the state of perception as excruciating or ulcerous, and the state without perception as dull. The initial sublime samādhi is called "neither-perception-nor-non-perception". Having contemplated this, one then abandons both the state of perception and the state without perception, named as "neither with perception nor without perception", thus understanding that neither-perception-nor-non-perception implies the meaning of abandoning both. Now, the Buddha's disciples, through observing and breaking as explained, thereby deeply observing relinquishment, not attaching to neither-perception-nor-non-perception, can achieve Nirvana. "Following" as a marvelous door is intended in this way.
+
+二者「隨」為妙門者，
+Secondly "following (anugamaḥ)" as a subtle door,
+
+行者因隨息故，即能出生十六特勝，
+by practicing following the breath, one can immediately produce sixteen supreme realizations,
+
+所謂：
+So-called:
+
+一、知息入，
+1. awareness (jñāna) of breath entering,
+
+二、知息出，
+2. awareness (jñāna) of breath leaving,
+
+三、知息長短，
+3. awareness (jñāna) of breathing long and short,
+
+四、知息遍身，
+4. awareness (jñāna) breathing pervades body (kāya),
+
+五、除諸身行，
+5. leaving all bodily activity (kāya-saṃskāra),
+
+六、心受喜，
+6. mind receiving joy,
+
+七、心受樂，
+7. mind receiving bliss,
+
+八、受諸心行，
+8. receiving all mind activity (citta-saṃskāra),
+
+九、心作喜，
+9. mind making joy,
+
+十、心作攝，
+10. mind making concentration (saṃgraha),
+
+十一、心作解脫，
+11. mind making liberation (vimukti),
+
+十二、觀無常，
+12. observation of impermanence,
+
+十三、觀出散，
+13. observation of coming into being and going out of being,
+
+十四、觀離欲，
+14. observation of separation from desire (kāma),
+
+十五、觀滅，
+15. observation of cessation,
+
+十六、觀棄捨。
+16. observation of renunciation.
+
+云何觀棄捨？
+How is renunciation observed?
+
+此觀破非想處惑。
+This contemplation breaks the delusion of neither perception nor non-perception.
+
+[here]
+
+所以者何？
+Why is this?
+
+凡夫修非想時，
+When ordinary people practice neither perception nor non-perception,
+
+觀有想處如癕、如瘡，
+they perceive the presence of conception like an ulcer or a sore,
+
+觀無想處如癡也。
+they perceive the absence of conception like foolishness.
+
+第一妙定，名曰「非想」。
+The first subtle samadhi is called "neither perception."
+
+作是念已，
+Thinking like this,
+
+即棄捨有想、無想，
+they immediately abandon perception and non-perception,
+
+名「非有想非無想」，
+which is called "neither perception nor non-perception,"
+
+故知非想即是兩捨之義。
+Thus, knowing "neither perception" means the abandonment of both.
+
+今佛弟子觀行破折，
+Now the Buddha's disciples contemplate and break this,
+
+義如前說，
+as previously explained,
+
+是故深觀棄捨，
+therefore, deeply contemplating renunciation,
+
+不著非想，
+not attaching to neither perception,
+
+能得涅槃。
+one can attain Nirvana.
+
+「隨」為妙門，
+Following (anugamaḥ) as a subtle door,
+
+意在此也。
+is intended in this way.
 
 三者「止」為妙門者，行者因止心故，即便次第發五輪禪：一者地輪三昧，即未到地；二者水輪三昧，即是種種諸禪定善根發也；三者虛空輪三昧，即五方便人覺因緣無性如虛空；四者金沙輪三昧，即是見思解脫，無著正惠如金沙也；五者金剛輪三昧，即是第九無礙道，能斷三界結使，永盡無餘，證盡智、無生智，入涅槃。「止」為妙門，意在此也。
 
