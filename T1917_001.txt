@@ -28,7 +28,7 @@ First, Counting (gaṇanā)
 Second, Following (anugamaḥ)
 
 三、止，
-Third, Stopping (sthānam)
+Third, Resting (samatha)
 
 四、觀，
 Fourth, Intuiting (vipaśyanā)
@@ -42,22 +42,18 @@ Sixth, Purifying (pariśuddhiḥ)
 因此萬行開發，降魔成道。
 Caused by this myriad practices developed, pacifying harmful influences and realizing the path.
 
-當知佛為物軌，示跡若斯，
-One should know Buddha as a model for all things, showing the path as such,
-
-三乘正士豈不同遊此路？
-How could virtuous practitioners of all Three Vehicles not traverse this path?
+當知佛為物軌，示跡若斯，三乘正士豈不同遊此路？
+One should know Buddha as a model for everything, showing the path as such, how could virtuous practitioners of all Three Vehicles not traverse this path?
 
 所言「六」者，即是數法，約數明禪，故言六也。如佛或約一數辯禪，所謂一行三昧；或約二數，謂一、止，二、觀；或約三數，謂三三昧；或約四數，所謂四禪；或約五數，謂五門禪；或約六數，謂六妙門；或約七數，謂七依定；或約八數，謂八背捨；或約九數，謂九次第定；或約十數，謂十禪支。如是等，乃至百千萬億阿僧祇不可說諸三昧門，悉是約數說諸禪也。雖數有多少，窮其法相，莫不悉相收攝，以眾生機悟不同故，有增減之數分別利物。
 
 所言「六」者，即是數法，約數明禪，故言六也。
-What is called "six" here, is a dharma of enumeration, understanding dhyāna (禪,chán,zen,jhana) by enumeration, so it is called "six."
+What is called "six" here, is a dharma of enumeration, understanding dhyāna (禪,chán,zen,jhana) by enumeration, so it is called six.
 
 如佛或約一數辯禪，所謂一行三昧；
 As Buddha sometimes explains dhyāna in a single enumeration, so-called "One Practice Samadhi";
 
 或約二數，謂一、止，二、觀；
-
 or explains in two-fold enumeration, referring first to, rest (śamatha), and secondly, intuiting (vipaśyanā);
 
 或約三數，謂三三昧；
@@ -102,13 +98,13 @@ In saying "six" this way, it is an approximate enumeration of dharmas and as a c
 Regarding "subtle (praṇīta)," its meanings are many, when discussing the true meaning, it is the truth of cessation and nirvāṇa,
 
 故滅四行中，言滅、止、妙、離。
-so there are four practices of sessation within, called: cessation (nirodha), calm (śānta), subtle (praṇīta), and release (niḥsaraṇa).
+so there are four practices of sessation within, called: cessation (nirodha), resting (samatha), subtle (praṇīta), and release (niḥsaraṇa).
 
 涅槃非斷非常，有而難契，無而易得，故言「妙」也。
 Nirvāṇa is never destroyed nor is it permanent, is there but difficult to realize, is not there but easy to receive, thus it is called "subtle."
 
 六法能通，故名為「門」。
-Six Dharams can penetrate, so they are referred to as "doors."
+Six Dharmas can penetrate, so they are referred to as "doors."
 
 門雖有六，會妙不殊，故經言：「泥洹真法寶，眾生從種種門入。」
 Although there are six doors, their subtlety does not differ, as the sutra says: "nirvāṇa is a truely precious Dharma, beings enter through various doors."
@@ -265,7 +261,27 @@ Following (anugamaḥ) as a subtle door, is meant like this.
 
 三者「止」為妙門者，行者因止心故，即便次第發五輪禪：一者地輪三昧，即未到地；二者水輪三昧，即是種種諸禪定善根發也；三者虛空輪三昧，即五方便人覺因緣無性如虛空；四者金沙輪三昧，即是見思解脫，無著正惠如金沙也；五者金剛輪三昧，即是第九無礙道，能斷三界結使，永盡無餘，證盡智、無生智，入涅槃。「止」為妙門，意在此也。
 
+三者「止」為妙門者，行者因止心故，即便次第發五輪禪：
+Thirdly "Resting (samatha)" as a subtle door, due to a practioner resting mind, they immediately produce the Five-Wheel Dhyāna (五輪禪, Wǔlún Chán) in due order:
 
+一者地輪三昧，即未到地；
+First is the Earth-Wheel Samadhi, which is the preliminary ground.
+
+二者水輪三昧，即是種種諸禪定善根發也；
+Second is the Water-Wheel Samadhi, which produces various roots of goodness through different dhyānas.
+
+三者虛空輪三昧，即五方便人覺因緣無性如虛空；
+Third is the Space-Wheel Samadhi, wherein practitioners of the Five Expedients realize the emptiness of causes and conditions as void as space.
+
+四者金沙輪三昧，即是見思解脫，無著正惠如金沙也；
+Fourth is the Golden Sands-Wheel Samadhi, which represents the liberation through "seeing and thinking," possessing unattached wisdom as pure as golden sands.
+
+五者金剛輪三昧，即是第九無礙道，能斷三界結使，永盡無餘，證盡智、無生智，入涅槃。
+Fifth is the Vajra-Wheel Samadhi, the ninth unobstructed path, capable of severing the knots of the three realms, ending them eternally without remainder, realizing ultimate wisdom and the wisdom of non-birth, entering Nirvana.
+
+「止」為妙門，意在此也。
+
+Resting (samatha) as a subtle door is intended in this way.
 
 四者「觀」為妙門者，行者因修觀故，即能出生九想、八念、十想、八背捨、八勝處、十一切處、九次第定、師子奮迅三昧、超越三昧、練禪、十四變化心、三明、六通及八解脫，得滅受想，即入涅槃。「觀」為妙門，意在此也。
 
