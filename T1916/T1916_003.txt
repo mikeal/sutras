@@ -359,33 +359,267 @@ Thus, the sutra states: "First calm them with concentration, then uplift them wi
 
 止為初門，善、惡二事之中，必有其一，行者應當明識其相，取捨之間不乖正道，故須分別。今就善、惡根性中，即為二意：一、明驗善根性；二、明驗惡根性。然論善惡發之前後，各逐其人，未必定前善而後惡也。
 
+止為初門，善、惡二事之中，必有其一，行者應當明識其相，取捨之間不乖正道，故須分別。
+Resting (samatha) is the initial gate; among the two matters of good and evil, there will always be one. Practitioners should clearly recognize the characteristics, and in the decisions of acceptance or rejection, one must not deviate from the correct path, therefore differentiation is required.
+
+今就善、惡根性中，即為二意：
+Now regarding the natures of wholesome and unwholesome roots, there are two aspects:
+
+一、明驗善根性；
+First, elucidating the discernment of wholesome root natures.
+
+二、明驗惡根性。
+Second, elucidating the discernment of unwholesome root natures.
+
+然論善惡發之前後，各逐其人，未必定前善而後惡也。
+In discussing the manifestation of good and evil, it varies for each person; it is not necessarily the case that good arises first and evil follows.
+
 第一、明驗善根性，即為四意：一、列善法章門；二、正明善根發相；三、驗知虛實；四、料揀發禪不定。
+
+第一、明驗善根性，
+First, elucidating the discernment of wholesome root natures,
+
+即為四意：
+is divided into four aspects:
+
+一、列善法章門；
+1. Listing the categories of wholesome dharmas;
+
+二、正明善根發相；
+2. Precisely clarifying the manifestations of wholesome roots;
+
+三、驗知虛實；
+3. Differentiating between genuine and spurious;
+
+四、料揀發禪不定。
+4. Deliberating the non-fixed arising of dhyana.
 
 第一、列善法章門者，善有二種：一者、外善；二者、內善。今就明外善中，善乃眾多，略出五種：一、布施；二、持戒；三、孝順父母師長；四、信敬三寶，精勤供養；五、讀誦聽學。略以此等五種善根，示表外善發相不同。所以悉屬外善者，原其本行悉是散心中修習，未能出離欲界，發諸禪定無漏，故說為外善。二、明內善者，即是五門禪：一、阿那波那門；二、不淨觀門；三、慈心門；四、因緣門；五、念佛三昧門。此五法門通攝一切諸禪，發諸無漏，故名為內善。
 
+第一、列善法章門者，善有二種：
+First, regarding the categories of wholesome dharmas, there are two types:
+
+一者、外善；
+1. External Wholesome;
+
+二者、內善。
+2. Internal Wholesome.
+
+今就明外善中，善乃眾多，略出五種：
+Now, explaining the external wholesome, the virtues are numerous, briefly enumerated into five types:
+
+一、布施；
+1. Generosity (dāna);
+
+二、持戒；
+2. Morality (śīla);
+
+三、孝順父母師長；
+3. Filial Piety and Respect for Parents and Teachers;
+
+四、信敬三寶，精勤供養；
+4. Faith and Reverence in the Three Jewels, Diligent Offerings;
+
+五、讀誦聽學。
+5. Reading, Reciting, Listening, and Learning.
+
+略以此等五種善根，示表外善發相不同。
+Briefly using these five types of wholesome roots, represent the different manifestations of external wholesomeness.
+
+所以悉屬外善者，原其本行悉是散心中修習，未能出離欲界，發諸禪定無漏，故說為外善。
+The reason they all belong to external wholesomeness is that their primary practice is in the mental state of distraction, unable to transcend the realm of desire, and developing various dhyānas without outflows, thus they are called external wholesome.
+
+二、明內善者，即是五門禪：
+Second, elucidating the internal wholesome, namely the Five-Door Dhyānas:
+
+一、阿那波那門；
+1. Counting Breaths (ānāpānasmṛti);
+
+二、不淨觀門；
+2. Contemplation of Impurity (aśubhabhāvanā);
+
+三、慈心門；
+3. Loving-kindness (maitrī) Meditation;
+
+四、因緣門；
+4. Contemplation of Dependent Origination (pratītyasamutpāda);
+
+五、念佛三昧門。
+5. Buddha Mindfulness Samādhi.
+
+此五法門通攝一切諸禪，發諸無漏，故名為內善。
+These five Dharma doors comprehensively include all dhyānas, generating all outflow-free states, hence they are called internal wholesome.
+
 問曰：內善無量，何得但說五門？
+
+問曰：內善無量，何得但說五門？
+How is it that, when the internal wholesome dharmas are infinite, you only speak of five gates?
 
 答曰：五名雖少，而行通諸禪。所以者何？一、阿那波那門者，此通至根本及特勝、通明等諸禪三昧；二、不淨觀門者，此通九想、背捨、超越等諸禪三昧；三、慈心門者，此通四無量等諸禪三昧；四、因緣門者，此通至十二因緣、四諦等慧行諸禪三昧；五、念佛門者，此通至九種禪及百八三昧。
 
+答曰：五名雖少，而行通諸禪。
+Answer: Although the five names are few, they comprehensively cover all meditations.
+
+所以者何？
+Why is this so?
+
+一、阿那波那門者，此通至根本及特勝、通明等諸禪三昧；
+1. The Counting Breaths (ānāpānasmṛti) Gate reaches the fundamental and special, clear meditations and samādhis.
+
+二、不淨觀門者，此通九想、背捨、超越等諸禪三昧；
+2. The Contemplation of Impurity (aśubhabhāvanā) Gate comprehends the Nine Contemplations, Abandonments, and Transcendent meditations and samādhis.
+
+三、慈心門者，此通四無量等諸禪三昧；
+3. The Loving-Kindness (maitrī) Meditation Gate pervades the Four Immeasurable Minds and various meditations and samādhis.
+
+四、因緣門者，此通至十二因緣、四諦等慧行諸禪三昧；
+4. The Contemplation of Dependent Origination (pratītyasamutpāda) Gate includes the Twelve Links of Dependent Origination, the Four Noble Truths, and wisdom practices involving meditations and samādhis.
+
+五、念佛門者，此通至九種禪及百八三昧。
+5. The Buddha Mindfulness Samādhi Gate extends to nine types of meditation and one hundred and eight samādhis.
+
 復次，初數息門，即是世間凡夫禪；次不淨門，即是出世間禪，諸聲聞人所行；次慈心門，即是凡聖二人為大福德修慈，入四無量心；次因緣門者，即是辟支佛人之所行；次念佛門，功德廣大，即是諸菩薩之所行。此則略明五門次第淺深之相。
+
+復次，初數息門，即是世間凡夫禪；
+Furthermore, the initial Counting Breaths Gate pertains to the mundane dhyāna of ordinary people;
+
+次不淨門，即是出世間禪，諸聲聞人所行；
+Next, the Impurity Contemplation Gate is the supramundane dhyāna practiced by Śrāvakas;
+
+次慈心門，即是凡聖二人為大福德修慈，入四無量心；
+Then, the Loving-Kindness Gate involves both ordinary and holy beings cultivating great merit through loving-kindness, entering the Four Immeasurable Minds;
+
+次因緣門者，即是辟支佛人之所行；
+Following that, the Dependent Origination Gate is the path practiced by Pratyekabuddhas;
+
+次念佛門，功德廣大，即是諸菩薩之所行。
+Finally, the Buddha Mindfulness Gate, which encompasses vast merits, is practiced by Bodhisattvas.
+
+此則略明五門次第淺深之相。
+This briefly outlines the relative depth of practice across the sequence of the Five Gates.
 
 復次，五門禪定對治四分煩惱，四分煩惱出生八萬四千塵勞，當知五門亦能出八萬四千法門。此而言之，但說五門，則攝一切內善具足。數人所明初賢五停心觀發，與此有相開處。
 
+復次，五門禪定對治四分煩惱，
+Furthermore, the Five-Door Dhyānas counteract the four categories of afflictions,
+
+四分煩惱出生八萬四千塵勞，
+the four categories of afflictions give rise to 84,000 defilements,
+
+當知五門亦能出八萬四千法門。
+you should know that the Five Doors can also produce 84,000 Dharma doors.
+
+此而言之，但說五門，
+In saying this, merely stating the Five Doors,
+
+則攝一切內善具足。
+then encompasses all internal wholesomeness fully.
+
+數人所明初賢五停心觀發，
+Hence, the initial practice of the Five Settlement of Mind Contemplations as clarified by others,
+
+與此有相開處。
+aligns with this explanation in principles.
+
 第二、次明善根發相，亦還為二：一、明外善根發相；二、明內善根發相。
+
+第二、次明善根發相，亦還為二：
+Second, clarifying the manifestations of wholesome roots, also involves two aspects:
+
+一、明外善根發相；
+1. Clarifying the manifestation of external wholesome roots;
+
+二、明內善根發相。
+2. Clarifying the manifestation of internal wholesome roots.
 
 云何外善根發相？外善非一，今依前章門略出五種：
 
+云何外善根發相？
+How are the manifestations of external wholesome roots discerned?
+
+外善非一，今依前章門略出五種：
+External wholesomeness is not singular, now according to the previous sections, five types are briefly enumerated:
+
 初、明行者若坐中靜定，忽見種種衣服、臥具、飲食、珍寶、田園、池沼、車乘。如是等事，或復因心靜故，自能捨離慳貪，心行惠施，無所悋惜。當知此是過去、今生布施，習、報二種善根發相。
+
+初、明行者若坐中靜定，忽見種種衣服、臥具、飲食、珍寶、田園、池沼、車乘。
+First, it is said that if a practitioner is in tranquil meditation, they might suddenly see various types of clothing, bedding, food, treasures, fields, ponds, and vehicles.
+
+如是等事，或復因心靜故，自能捨離慳貪，心行惠施，無所悋惜。
+Such events may lead, due to the tranquility of the mind, to the spontaneous ability to relinquish greed, practicing generosity without any stinginess.
+
+當知此是過去、今生布施，習、報二種善根發相。
+You should know that these are manifestations of the wholesome roots of generosity from past and present lives, both habitual and resultant.
 
 二、行者若於止靜定之中，忽見自身相好端嚴，身所著衣清淨如法，洗浴清潔，得好淨物。見如是等事，或復因心靜故，發戒忍心，自然知輕識重，乃至小罪，心生怖畏，忍辱謙卑。當知此是過去、今生戒忍，習、報二種善根發相也。
 
+二、行者若於止靜定之中，忽見自身相好端嚴，身所著衣清淨如法，洗浴清潔，得好淨物。
+Second, if during tranquil meditation, a practitioner suddenly sees themselves appearing dignified and adorned, wearing clean and appropriate clothing, bathing and obtaining clean items.
+
+見如是等事，或復因心靜故，發戒忍心，自然知輕識重，乃至小罪，心生怖畏，忍辱謙卑。
+Such visions, due to the tranquility of the mind, may naturally lead to the arising of mindful morality and patience, recognizing the seriousness of even small transgressions, and giving rise to fear and humility.
+
+當知此是過去、今生戒忍，習、報二種善根發相也。
+You should know that these are manifestations of the wholesome roots of morality and patience from past and present lives, both habitual and resultant.
+
 三、行者若於坐中，忽見師僧、父母、宗親、眷屬著淨衣服，歡喜悅豫端嚴。見如是等事，或復以心靜故，自然慈仁、恭敬、孝悌心生。當知此是過去、今生孝順尊長，習、報二種善根發相也。
+
+三、行者若於坐中，忽見師僧、父母、宗親、眷屬著淨衣服，歡喜悅豫端嚴。
+Third, if during meditation, a practitioner suddenly sees teachers, monks, parents, relatives, and companions all wearing clean clothes and appearing joyful and dignified.
+
+見如是等事，或復以心靜故，自然慈仁、恭敬、孝悌心生。
+Such visions, due to the tranquility of the mind, may naturally lead to the arising of a compassionate, respectful, and filial heart.
+
+當知此是過去、今生孝順尊長，習、報二種善根發相也。
+You should know that these are manifestations of the wholesome roots of filial piety and respect for elders from past and present lives, both habitual and resultant.
 
 四、行者若於坐中，忽見諸塔寺、尊儀形像、經書、供養莊嚴清淨僧眾雲集法會。見如是等事，或復於靜心中發信敬，尊重三寶，心樂供養，精勤勇猛，常無懈倦。當知此是過去、今生信敬三寶，精勤供養，習、報二種善根發相也。
 
+四、行者若於坐中，忽見諸塔寺、尊儀形像、經書、供養莊嚴清淨僧眾雲集法會。
+Fourth, if during meditation, a practitioner suddenly sees various stupas, temples, honorific images, scriptures, and gatherings of pure monastic assemblies in splendid offerings.
+
+見如是等事，或復於靜心中發信敬，尊重三寶，心樂供養，精勤勇猛，常無懈倦。
+Such visions, due to the tranquility of the mind, may naturally lead to the arising of faith and reverence, respect for the Three Jewels, joyful offerings, diligent and courageous practice without laziness.
+
+當知此是過去、今生信敬三寶，精勤供養，習、報二種善根發相也。
+You should know that these are manifestations of the wholesome roots of faith and reverence for the Three Jewels and diligent offerings from past and present lives, both habitual and resultant.
+
 五、行者若於坐中，因心澄靜，或見解釋三藏、聽受讀誦大乘有德四眾；或時因心靜故，讀誦自然而入，隨所聽聞，即時開悟，或復自然能了解三藏大乘經典，分別無滯。當知悉是過去、今生讀誦聽說，習、報二種善根發相。
 
+五、行者若於坐中，因心澄靜，或見解釋三藏、聽受讀誦大乘有德四眾；
+Fifth, if during meditation, due to the tranquility of the mind, a practitioner sees explanations of the Tripiṭaka, or sees the fourfold assembly of virtuous beings listening, teaching, and reciting the Mahayana scriptures;
+
+或時因心靜故，讀誦自然而入，隨所聽聞，即時開悟；
+Sometimes, due to the tranquility of the mind, reading and reciting naturally occurs, and whatever is heard leads to immediate enlightenment;
+
+或復自然能了解三藏大乘經典，分別無滯。
+Or they might naturally understand the Mahayana teachings of the Tripiṭaka without obstruction.
+
+當知悉是過去、今生讀誦聽說，習、報二種善根發相。
+You should know that these are manifestations of the wholesome roots of reading, reciting, listening, and teaching from past and present lives, both habitual and resultant.
+
 行者見如是種種好相，及發諸善心者，此非禪定，多是過去、今生於散心中修諸功德，今以心靜力故，得發其事，見諸相貌，悉屬報因相現，善心開發，皆是習因善發也。如是眾多，說不可盡，此則略示大意。
+
+行者見如是種種好相，及發諸善心者，
+If a practitioner sees such various good omens and gives rise to wholesome thoughts,
+
+此非禪定，多是過去、今生於散心中修諸功德，
+this is not due to meditation but rather is mostly from past and present cultivation of virtues in a distracted state of mind.
+
+今以心靜力故，得發其事，
+Now, because of the power of a tranquil mind, these conditions manifest.
+
+見諸相貌，悉屬報因相現，
+He sees various appearances, all of which belong to the manifestation of past karmic conditions.
+
+善心開發，皆是習因善發也。
+The arising of wholesome thoughts is entirely due to the activation of habitual good roots.
+
+如是眾多，說不可盡，
+There are many such instances, and it is impossible to describe them all.
+
+此則略示大意。
+This then briefly shows the general meaning.
 
 復次，發習、報兩因，行人根性不同，自有行人但發報因相，不發習因善心；自有行人但發習因善心，而不發報因之相；自有行人具發習、報兩因；自有行人二俱不發。如是等事，因緣難解，豈可謬釋？
 
