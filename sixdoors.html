@@ -1,0 +1,731 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans&family=Noto+Serif&family=Noto+Sans+SC&display=swap">
+    <meta charset="UTF-8"> <!-- The character encoding for the document -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- Proper scaling on mobile devices -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"> <!-- Ensures compatibility with Internet Explorer -->
+    <meta name="description" content="An exploration of the Six Subtle Dharma Doors"> <!-- Description for search engines -->
+    <meta name="keywords" content="Dharma, Buddhism, Mindfulness, Six Subtle Dharma Doors"> <!-- Keywords for search engines -->
+    <meta name="author" content="Mikeal Rogers"> <!-- Author of the document -->
+
+    <title>Six Subtle Dharma Doors</title> <!-- The title of your page -->
+
+    <link rel="stylesheet" href="styles.css"> <!-- Link to your stylesheet -->
+
+    <!-- Favicon and Apple Touch Icon using Dharma Wheel Emoji -->
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 24 24%22><text y=%2217%22 font-size=%2224%22>☸️</text></svg>">
+    <link rel="apple-touch-icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 24 24%22><text y=%2217%22 font-size=%2224%22>☸️</text></svg>">
+
+    <!-- Open Graph meta tags for social media integration -->
+    <meta property="og:title" content="Six Subtle Dharma Doors">
+    <meta property="og:description" content="An exploration of the Six Subtle Dharma Doors">
+    <meta property="og:image" content="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 24 24%22><text y=%2217%22 font-size=%2224%22>☸️</text></svg>">
+    <meta property="og:url" content="https://www.yourwebsite.com/six-subtle-dharma-doors">
+    <meta property="og:type" content="website">
+
+    <!-- Twitter Card meta tags -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@mikeal">
+    <meta name="twitter:title" content="Six Subtle Dharma Doors">
+    <meta name="twitter:description" content="An exploration of the Six Subtle Dharma Doors">
+    <meta name="twitter:image" content="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 24 24%22><text y=%2217%22 font-size=%2224%22>☸️</text></svg>">
+
+    <!-- Optional: Add any additional meta tags or links to external resources here -->
+
+<style>
+/* General styles */
+body {
+    margin: 0;
+    font-family: 'Noto Sans', sans-serif;
+    scroll-snap-type: y mandatory;
+    overflow-y: scroll;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+/* Responsive text size */
+text-en, text-zh, text-pair, text-block {
+    font-size: calc(1rem + 1vw * 0.6); /* Ensures text scales with viewport width */
+}
+
+card {
+    position: relative; /* Ensure that the card can be the reference for absolutely positioned children */
+    display: flex;
+    flex-direction: column;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 2vw; /* Flexible padding */
+    margin: 2vw; /* Flexible margin */
+    box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.1);
+    background: #fff;
+    transition: transform 0.3s ease, font-size 0.3s ease, padding 0.3s ease, margin 0.3s ease;
+    width: 80vw; /* Flexibly width */
+    max-width: 1200px; /* Max width to prevent over stretching on very large screens */
+}
+
+.play-button {
+    position: absolute; /* Position it absolutely within the card */
+    top: 10px; /* Fixed offset from the top */
+    right: 10px; /* Fixed offset from the right */
+    width: 0; /* No width since it's a triangle */
+    height: 0; /* No height since it's a triangle */
+    border-left: 20px solid rgba(0, 0, 0, 0.7); /* Triangle color and size */
+    border-top: 10px solid transparent; /* Top transparent border */
+    border-bottom: 10px solid transparent; /* Bottom transparent border */
+    visibility: hidden; /* Initially hidden */
+    opacity: 0;
+    transition: visibility 0s, opacity 0.5s;
+    cursor: pointer;
+    z-index: 10; /* Ensure it’s in front */
+}
+
+card:hover .play-button {
+    visibility: visible; /* Make it visible on card hover */
+    opacity: 1;
+}
+
+unfinished {
+    display: none;
+}
+
+text-en {
+    display: block;
+    font-family: 'Noto Sans', sans-serif;
+}
+
+text-zh {
+    display: block;
+    font-family: 'Noto Sans SC', sans-serif;
+}
+
+text-pair {
+    margin: 1vw 0; /* Flexible margin */
+}
+
+text-block {
+    margin-top: auto;
+}
+
+text-attribution {
+    margin-top: auto;
+    font-style: italic;
+}
+
+text-pair-table {
+    display: grid;
+    grid-template-columns: max-content auto; /* The first column uses the maximum space needed to avoid text breaking */
+    gap: 10px; /* Add some space between columns/rows if needed */
+    margin-bottom: 10px;
+}
+
+text-pair-table text-zh {
+    text-align: right; /* Right-align the Chinese text */
+    padding-right: 10px; /* Optionally, add some padding to the right */
+}
+
+text-pair-table text-en {
+    text-align: left; /* Left-align the English text */
+    padding-left: 10px; /* Optionally, add some padding to the left */
+}
+</style>
+<script>
+document.addEventListener("DOMContentLoaded", () => {
+    document.querySelectorAll('card').forEach(card => {
+        const playButton = document.createElement('div');
+        playButton.className = 'play-button';
+        card.appendChild(playButton);
+    });
+});
+</script>
+</head>
+<body>
+<main>
+    <card>
+        <text-en lang="en"><a href="https://en.wikipedia.org/wiki/Taishō_Tripiṭaka">Taishō</a> No. <a href="https://cbetaonline.dila.edu.tw/zh/T1917">1917</a></text-en>
+        <text-pair>
+            <text-zh lang="zh-Hant">六妙法門</text-zh>
+            <text-en lang="en">Six Subtle Dharma Doors</text-en>
+        </text-pair>
+        <text-pair>
+            <text-zh lang="zh-Hant">天台大師於都下瓦官寺略出此法門</text-zh>
+            <text-en lang="en">The Great Master of Tiantai briefly expounded this Dharma Door at the Waguang Monastery in the Capital.</text-en>
+        </text-pair>
+        <text-block>
+            <text-attribution>
+                <a href="https://en.wikipedia.org/wiki/Zhiyi">Zhiyi</a>, ca. 594 CE
+            </text-attribution>
+        </text-block>
+    </card>
+    <card>
+        <text-pair>
+            <text-zh lang="zh-Hant">「六妙門」者，蓋是內行之根本，三乘得道之要逕。</text-zh>
+            <text-en lang="en">"Six Subtle Dharma Doors" are, the complete root foundation of inward practice, the essential path of all Three Vehicles.</text-en>
+        </text-pair>
+        <text-pair>
+            <text-zh lang="zh-Hant">故釋迦初詣道樹，跏趺坐草，內思安般：</text-zh>
+            <text-en lang="en">As Shakyamuni first reached the Bodhi Tree, sat cross-legged on a cushion of grass, inwardly considering breathing in and out (ānāpāna):</text-en>
+        </text-pair>
+    </card>
+    <card>
+        <text-pair-table>
+            <text-zh lang="zh-Hant">一、數，</text-zh>
+            <text-en lang="en">First, Counting (gaṇanā)</text-en>
+            <text-zh lang="zh-Hant">二、隨，</text-zh>
+            <text-en lang="en">Second, Following (anugamaḥ)</text-en>
+            <text-zh lang="zh-Hant">三、止，</text-zh>
+            <text-en lang="en">Third, Resting (samatha)</text-en>
+            <text-zh lang="zh-Hant">四、觀，</text-zh>
+            <text-en lang="en">Fourth, Intuiting (vipaśyanā)</text-en>
+            <text-zh lang="zh-Hant">五、還，</text-zh>
+            <text-en lang="en">Fifth, Turning (vivartanā)</text-en>
+            <text-zh lang="zh-Hant">六、淨，</text-zh>
+            <text-en lang="en">Sixth, Purifying (pariśuddhiḥ)</text-en>
+        </text-pair-table>
+        <text-pair>
+            <text-zh lang="zh-Hant">因此萬行開發，降魔成道。</text-zh>
+            <text-en lang="en">Caused by this myriad practices developed, pacifying harmful influences and realizing the path.</text-en>
+        </text-pair>
+    </card>
+    <unfinished>
+
+
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">當知佛為物軌，示跡若斯，三乘正士豈不同遊此路？</text-zh>
+        <text-en lang="en">One should know Buddha as a model for everything, showing the path as such, how could virtuous practitioners of all Three Vehicles not traverse this path?</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">所言「六」者，即是數法，約數明禪，故言六也。如佛或約一數辯禪，所謂一行三昧；或約二數，謂一、止，二、觀；或約三數，謂三三昧；或約四數，所謂四禪；或約五數，謂五門禪；或約六數，謂六妙門；或約七數，謂七依定；或約八數，謂八背捨；或約九數，謂九次第定；或約十數，謂十禪支。如是等，乃至百千萬億阿僧祇不可說諸三昧門，悉是約數說諸禪也。雖數有多少，窮其法相，莫不悉相收攝，以眾生機悟不同故，有增減之數分別利物。</text-zh>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">所言「六」者，即是數法，約數明禪，故言六也。</text-zh>
+        <text-zh lang="zh-Hant">What is called "six" here, is a dharma of enumeration, understanding dhyāna (禪,chán,zen,jhana) by enumeration, so it is called six.</text-zh>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">如佛或約一數辯禪，所謂一行三昧；</text-zh>
+        <text-en lang="en">As Buddha sometimes explains dhyāna in a single enumeration, so-called "One Practice Samadhi";</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">或約二數，謂一、止，二、觀；</text-zh>
+        <text-en lang="en">or explains in two-fold enumeration, referring first to, rest (śamatha), and secondly, intuiting (vipaśyanā);</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">或約三數，謂三三昧；</text-zh>
+        <text-en lang="en">or explains in three-fold enumeration, so-called Three Samadhis;</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">或約四數，所謂四禪；</text-zh>
+        <text-en lang="en">or explains in four-fold enumeration, so-called "Four Dhyānas";</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">或約五數，謂五門禪；</text-zh>
+        <text-en lang="en">or explains in five-fold enumeration, so-called "Five Doors of Dhyāna";</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">或約六數，謂六妙門；</text-zh>
+        <text-en lang="en">or explains in six-fold enumeration, so-called "Six Subtle Doors";</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">或約七數，謂七依定；</text-zh>
+        <text-en lang="en">or explains in seven-fold enumeration, so-called "Seven Dependent Samadhis";</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">或約八數，謂八背捨；</text-zh>
+        <text-en lang="en">or explains in eight-fold enumeration, so-called "Eight Abandonments";</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">或約九數，謂九次第定；</text-zh>
+        <text-en lang="en">or explains in nine-fold enumeration, so-called "Nine Successive Samadhis";</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">或約十數，謂十禪支。</text-zh>
+        <text-en lang="en">or explains in ten-fold enumeration, so-called "Ten Dhyāna Supports."</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">如是等，乃至百千萬億阿僧祇不可說諸三昧門，悉是約數說諸禪也。</text-zh>
+        <text-en lang="en">Like these, and even up to hundreds thousands millions billions and countless other unmentionable Samadhi methods, all are approximate enumerations to explain various Dhyāna.</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">雖數有多少，窮其法相，莫不悉相收攝，</text-zh>
+        <text-en lang="en">Although the numbers are many, fully exploring their Dharmaness (dharma-lakṣaṇa), none fail to be included in the others,</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">以眾生機悟不同故，有增減之數分別利物。</text-zh>
+        <text-en lang="en">since the capacities and understandings of beings differ, there are greater and lesser enumerations differentiated (vikalpa) for their benefit.</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">今言「六」者，即是約數法而標章也。「妙」者，其意乃多，若論正意，即是滅諦涅槃，故滅四行中，言滅、止、妙、離。涅槃非斷非常，有而難契，無而易得，故言「妙」也。六法能通，故名為「門」。門雖有六，會妙不殊，故經言：「泥洹真法寶，眾生從種種門入。」此則通釋六妙門之大意也。</text-zh>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">今言「六」者，即是約數法而標章也。</text-zh>
+        <text-en lang="en">In saying "six" this way, it is an approximate enumeration of dharmas and as a characteristic (lakṣaṇa).</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">「妙」者，其意乃多，若論正意，即是滅諦涅槃，</text-zh>
+        <text-en lang="en">Regarding "subtle (praṇīta)," its meanings are many, when discussing the true meaning, it is the truth of cessation and nirvāṇa,</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">故滅四行中，</text-zh>
+        <text-en lang="en">so there are four practices of sessation within,</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">言滅、</text-zh>
+        <text-en lang="en">called: cessation (nirodha),</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">止、</text-zh>
+        <text-en lang="en">resting (samatha),</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">妙、</text-zh>
+        <text-en lang="en">subtle (praṇīta),</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">離。</text-zh>
+        <text-en lang="en">release (niḥsaraṇa).</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">涅槃非斷非常，有而難契，無而易得，故言「妙」也。</text-zh>
+        <text-en lang="en">Nirvāṇa is never destroyed nor is it permanent, is there but difficult to realize, is not there but easy to receive, thus it is called "subtle."</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">六法能通，故名為「門」。</text-zh>
+        <text-en lang="en">Six Dharmas can penetrate, so they are referred to as "doors."</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">門雖有六，會妙不殊，故經言：「泥洹真法寶，眾生從種種門入。」</text-zh>
+        <text-en lang="en">Although there are six doors, their subtlety does not differ, as the sutra says: "nirvāṇa is a truely precious Dharma, beings enter through various doors."</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">此則通釋六妙門之大意也。</text-zh>
+        <text-en lang="en">This explains the general meaning of Six Subtle Doors.</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">六妙門大意有十：第一、歷別對諸禪六妙門，第二、次第相生六妙門，第三、隨便宜六妙門，第四、隨對治六妙門，第五、相攝六妙門，第六、通別六妙門，第七、旋轉六妙門，第八、觀心六妙門，第九、圓觀六妙門，第十、證相六妙門。</text-zh>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">六妙門大意有十：</text-zh>
+        <text-en lang="en">Six Subtle Doors has ten sections:</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">第一、歷別對諸禪六妙門，</text-zh>
+        <text-en lang="en">first, distinguishing and clarifying various Dhyānas in relation to Six Subtle Doors,</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">第二、次第相生六妙門，</text-zh>
+        <text-en lang="en">second, sequential appearance of Six Subtle Doors,</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">第三、隨便宜六妙門，</text-zh>
+        <text-en lang="en">third, adapting Six Subtle Doors to circumstance,</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">第四、隨對治六妙門，</text-zh>
+        <text-en lang="en">fourth, developing counteraction with Six Subtle Doors,</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">第五、相攝六妙門，</text-zh>
+        <text-en lang="en">fifth, interpenetration of Six Subtle Doors,</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">第六、通別六妙門，</text-zh>
+        <text-en lang="en">sixth, universal and specific aspects Six Subtle Doors,</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">第七、旋轉六妙門，</text-zh>
+        <text-en lang="en">seventh, the cyclic rotation of the Six Subtle Doors,</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">第八、觀心六妙門，</text-zh>
+        <text-en lang="en">eighth, the contemplation of the mind with the Six Subtle Doors,</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">第九、圓觀六妙門，</text-zh>
+        <text-en lang="en">ninth, the comprehensive contemplation with the Six Subtle Doors,</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">第十、證相六妙門。</text-zh>
+        <text-en lang="en">tenth, the realization attributes through the Six Subtle Doors.</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">釋「第一、歷別對諸禪定明六妙門」，即為六意。一者依「數」為妙門。行者因數息故，即能出生四禪、四無量心、四無色定，若於最後非非想定，能覺知非是涅槃，是人必定得三乘道。何以故？此定陰、界、入和合故有，虛誑不實，雖無麁煩惱，而亦成就十種細煩惱。知已破折，不住不著，心得解脫，即證三乘涅槃故。此義如須跋陀羅，佛教斷非非想處惑，即便獲得阿羅漢果。「數」為妙門，意在於此也。</text-zh>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">釋「第一、歷別對諸禪定明六妙門」，即為六意。</text-zh>
+        <text-en lang="en">Explaining "first, distinguishing and clarifying various dhyāna and  samādhi in relation to Six Subtle Doors", consider six meanings.</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">一者依「數」為妙門。</text-zh>
+        <text-en lang="en">First, relying upon counting (gaṇanā) as a subtle door.</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">行者因數息故，</text-zh>
+        <text-en lang="en">By practicing counting (gaṇanā) breaths (prāṇa),</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">即能出生四禪、</text-zh>
+        <text-en lang="en">they are immediationly able to arouse the Four Dhyānas,</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">四無量心、</text-zh>
+        <text-en lang="en">Four Immeasurable Minds,</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">四無色定，</text-zh>
+        <text-en lang="en">Four Formless Samādhi,</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">若於最後非非想定，能覺知非是涅槃，是人必定得三乘道。</text-zh>
+        <text-en lang="en">and if when reaching final "neither perception nor not-perception", they are able to realize that it is not nirvāṇa, this person (pudgala) will certainly attain the path of the Three Vehicles.</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">何以故？</text-zh>
+        <text-en lang="en">By what cause?</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">此定陰、界、入和合故有，虛誑不實，雖無麁煩惱，而亦成就十種細煩惱。</text-zh>
+        <text-en lang="en">These samādhi aggregates (skandha), realms (dhātu), coalesce as such, empty (śūnya) delusion (moha) and not real, although there are no coarse (sthūla) affliction (kleśa), they still achieve (siddhi) ten kinds of subtle (sūkṣma) affliction (kleśa).</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">知已破折，不住不著，心得解脫，即證三乘涅槃故。</text-zh>
+        <text-en lang="en">Already knowing and overcoming them, not remaining (anavasthā) and not attached (anāsakta), mind attains liberation, immediatly realizing the Nirvana of all Three Vehicles.</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">此義如須跋陀羅，佛教斷非非想處惑，即便獲得阿羅漢果。</text-zh>
+        <text-en lang="en">This meaning is exemplified by Subhūtarā, taught by the Buddha to sever delusion of neither persception nor non-perception, immediatly attaining the result of Arhatship.</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">「數」為妙門，意在於此也。</text-zh>
+        <text-en lang="en">Counting (saṃkhyā) as a subtle door is intended in this way.</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">二者「隨」為妙門者，行者因隨息故，即能出生十六特勝，所謂：一、知息入，二、知息出，三、知息長短，四、知息遍身，五、除諸身行，六、心受喜，七、心受樂，八、受諸心行，九、心作喜，十、心作攝，十一、心作解脫，十二、觀無常，十三、觀出散，十四、觀離欲，十五、觀滅，十六、觀棄捨。云何觀棄捨？此觀破非想處惑。所以者何？凡夫修非想時，觀有想處如癕、如瘡，觀無想處如癡也。第一妙定，名曰「非想」。作是念已，即棄捨有想、無想，名「非有想非無想」，故知非想即是兩捨之義。今佛弟子觀行破折，義如前說，是故深觀棄捨，不著非想，能得涅槃。「隨」為妙門，意在此也。</text-zh>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">二者「隨」為妙門者，</text-zh>
+        <text-en lang="en">Secondly "following (anugamaḥ)" as a subtle door,</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">行者因隨息故，即能出生十六特勝，</text-zh>
+        <text-en lang="en">by practicing following the breath, one can immediately arouse sixteen supreme realizations,</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">所謂：</text-zh>
+        <text-en lang="en">So-called:</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">一、知息入，</text-zh>
+        <text-en lang="en">1. awareness (jñāna) of breath entering,</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">二、知息出，</text-zh>
+        <text-en lang="en">2. awareness (jñāna) of breath leaving,</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">三、知息長短，</text-zh>
+        <text-en lang="en">3. awareness (jñāna) of breathing long and short,</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">四、知息遍身，</text-zh>
+        <text-en lang="en">4. awareness (jñāna) breathing pervades body (kāya),</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">五、除諸身行，</text-zh>
+        <text-en lang="en">5. leaving all bodily activity (kāya-saṃskāra),</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">六、心受喜，</text-zh>
+        <text-en lang="en">6. mind receiving joy,</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">七、心受樂，</text-zh>
+        <text-en lang="en">7. mind receiving bliss,</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">八、受諸心行，</text-zh>
+        <text-en lang="en">8. receiving all mind activity (citta-saṃskāra),</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">九、心作喜，</text-zh>
+        <text-en lang="en">9. mind making joy,</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">十、心作攝，</text-zh>
+        <text-en lang="en">10. mind making concentration (saṃgraha),</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">十一、心作解脫，</text-zh>
+        <text-en lang="en">11. mind making liberation (vimukti),</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">十二、觀無常，</text-zh>
+        <text-en lang="en">12. intuition (vipaśyanā) of impermanence,</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">十三、觀出散，</text-zh>
+        <text-en lang="en">13. intuition (vipaśyanā) of coming into being and going out of being,</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">十四、觀離欲，</text-zh>
+        <text-en lang="en">14. intuition (vipaśyanā) of separation from desire (kāma),</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">十五、觀滅，</text-zh>
+        <text-en lang="en">15. intuition (vipaśyanā) of cessation,</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">十六、觀棄捨。</text-zh>
+        <text-en lang="en">16. intuition (vipaśyanā) of renunciation.</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">云何觀棄捨？</text-zh>
+        <text-en lang="en">How is renunciation intuited (vipaśyanā)?</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">此觀破非想處惑。</text-zh>
+        <text-en lang="en">This intuition (vipaśyanā) overcomes the delusion of neither perception nor non-perception.</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">所以者何？</text-zh>
+        <text-en lang="en">How is this caused?</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">凡夫修非想時，觀有想處如癕、如瘡，觀無想處如癡也。</text-zh>
+        <text-en lang="en">When common people practice neither perception nor non-perception, intuiting (vipaśyanā) the condition of having perception as something undesirable, like a wound, intuiting (vipaśyanā) the condition of non-perception as a condition of being deluded.</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">第一妙定，名曰「非想」。</text-zh>
+        <text-en lang="en">The first subtle samadhi is called "neither perception."</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">作是念已，即棄捨有想、無想，名「非有想非無想」，</text-zh>
+        <text-en lang="en">Having observed this, at once completely renouncing both perception and non-perception, is called "neither perception nor non-perception,"</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">故知非想即是兩捨之義。</text-zh>
+        <text-en lang="en">So it is known that the meaning of ‘neither perception’ is the complete renunciation of both.</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">今佛弟子觀行破折，義如前說，是故深觀棄捨，不著非想，能得涅槃。</text-zh>
+        <text-en lang="en">Now disciples of Buddha observe and dismantle practice, as previously explained, deeply intuiting (vipaśyanā) renunciation, un-attached to 'neither perception', able to attain nirvāṇa.</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">「隨」為妙門，意在此也。</text-zh>
+        <text-en lang="en">Following (anugamaḥ) as a subtle door, is meant like this.</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">三者「止」為妙門者，行者因止心故，即便次第發五輪禪：一者地輪三昧，即未到地；二者水輪三昧，即是種種諸禪定善根發也；三者虛空輪三昧，即五方便人覺因緣無性如虛空；四者金沙輪三昧，即是見思解脫，無著正惠如金沙也；五者金剛輪三昧，即是第九無礙道，能斷三界結使，永盡無餘，證盡智、無生智，入涅槃。「止」為妙門，意在此也。</text-zh>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">三者「止」為妙門者，行者因止心故，即便次第發五輪禪：</text-zh>
+        <text-zh lang="zh-Hant">Thirdly "Resting (samatha)" as a subtle door, due to a practioner resting mind, they immediately arouse the Five-Wheel Dhyāna (五輪禪, Wǔlún Chán) in due order:</text-zh>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">一者地輪三昧，即未到地；</text-zh>
+        <text-zh lang="zh-Hant">First is the Earth (地 [dì]) Wheel Samadhi, the ground (地 [dì]) of non-arrival.</text-zh>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">二者水輪三昧，即是種種諸禪定善根發也；</text-zh>
+        <text-en lang="en">Second is the Water Wheel Samadhi, wherein various roots of goodness are aroused through various dhyānas.</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">三者虛空輪三昧，即五方便人覺因緣無性如虛空；</text-zh>
+        <text-en lang="en">Third is the Empty-Space (Akasha) Wheel Samadhi, wherein practitioners of the Five Methods (upaya) realize causes and conditions have no inherent nature (niḥsvabhāva) like empty-space (akasha).</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">四者金沙輪三昧，即是見思解脫，無著正惠如金沙也；</text-zh>
+        <text-en lang="en">Fourth is the Gold Sand Wheel Samadhi, which is liberation from views and thoughts (dṛṣṭi-manasikāra), unattached (asaṅga) right wisdom (prajñā) like gold sand.</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">五者金剛輪三昧，即是第九無礙道，能斷三界結使，永盡無餘，證盡智、無生智，入涅槃。</text-zh>
+        <text-en lang="en">Fifth is the Vajra Wheel Samadhi, which is the ninth unobstructed path, able to sever hindrances of the three realms, completely exhausted without remainder, realize knowledge of exhaustion and knowledge of non-arising, entering nirvāṇa.</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">「止」為妙門，意在此也。</text-zh>
+        <text-en lang="en">Resting (samatha) as a subtle door, is meant like this.</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">四者「觀」為妙門者，行者因修觀故，即能出生九想、八念、十想、八背捨、八勝處、十一切處、九次第定、師子奮迅三昧、超越三昧、練禪、十四變化心、三明、六通及八解脫，得滅受想，即入涅槃。「觀」為妙門，意在此也。</text-zh>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">四者「觀」為妙門者，</text-zh>
+        <text-en lang="en">Fourthly "Intuiting (vipaśyanā)" as a subtle door,</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">行者因修觀故，</text-zh>
+        <text-en lang="en">by practicing intuition (vipaśyanā),</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">即能出生九想、</text-zh>
+        <text-en lang="en">they are immediately able to arouse the Nine Contemplations,</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">八念、</text-zh>
+        <text-en lang="en">Eight Remembrances (smṛti),</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">十想、</text-zh>
+        <text-en lang="en">Ten Contemplations,</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">八背捨、</text-zh>
+        <text-en lang="en">Eight Renunciations,</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">八勝處、</text-zh>
+        <text-en lang="en">Eight Sublime Abodes,</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">十一切處、</text-zh>
+        <text-en lang="en">Eleven Universal Abodes,</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">九次第定、</text-zh>
+        <text-en lang="en">Nine Sequential Samādhis,</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">師子奮迅三昧、</text-zh>
+        <text-en lang="en">Lion's Roar Samādhi,</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">超越三昧、</text-zh>
+        <text-en lang="en">Transcendent Samādhi,</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">練禪、</text-zh>
+        <text-en lang="en">Practice (sādhanā) Dhyāna,</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">十四變化心、</text-zh>
+        <text-en lang="en">Fourteen Transformational Minds,</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">三明、</text-zh>
+        <text-en lang="en">Three-fold Knowledge,</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">六通</text-zh>
+        <text-en lang="en">Six Supernatural Powers,</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">及八解脫，</text-zh>
+        <text-en lang="en">Eight Liberations,</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">得滅受想，</text-zh>
+        <text-en lang="en">attain cessation of perception (saṃjñā) and feeling (vedanā),</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">即入涅槃。</text-zh>
+        <text-en lang="en">at once enter nirvāṇa.</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">「觀」為妙門，意在此也。</text-zh>
+        <text-en lang="en">Intuiting (vipaśyanā) as a subtle door, is meant like this.</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">五者「還」為妙門者，行者若用惠行，善巧破折，反本還源，是時即便出生空、無想、無作、三十七品、四諦、十二因緣、中道正觀，因此得入涅槃。「還」為妙門，意在此也。</text-zh>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">五者「還」為妙門者，</text-zh>
+        <text-en lang="en">Fifth, "Turning (vivartanā)" as a subtle door,</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">行者若用惠行，善巧破折，反本還源，</text-zh>
+        <text-en lang="en">if a practitioner applies wisdom (prajñā), skillfully breaks away, reverses the root and returns to original state,</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">是時即便出生空、</text-zh>
+        <text-en lang="en">at that moment immediately producing emptiness (śūnyatā),</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">無想、</text-zh>
+        <text-en lang="en">non-thought,</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">無作、</text-zh>
+        <text-en lang="en">non-doing,</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">三十七品、</text-zh>
+        <text-en lang="en">Thirty-Seven Factors,</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">四諦、</text-zh>
+        <text-en lang="en">Four Noble Truths,</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">十二因緣、</text-zh>
+        <text-en lang="en">Twelve Links of Dependent Origination,</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">中道正觀，</text-zh>
+        <text-en lang="en">Right View of the Middle Way,</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">因此得入涅槃。</text-zh>
+        <text-en lang="en">thus attain entry to Nirvana.</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">「還」為妙門，意在此也。</text-zh>
+        <text-en lang="en">Turning (vivartanā) as a subtle door, is meant like this.</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">六者「淨」為妙門者，行者若能體識一切諸法本性清淨，即便獲得自性禪也。得此禪故，二乘之人定證涅槃。若是菩薩入鐵輪位，具十信心，修行不止，即便出生九種大禪，所謂自性禪、一切禪、難禪、一切門禪、善人禪、一切行禪、除惱禪、此世他世樂禪、清淨禪。菩薩依是禪故，得大菩提果，已得、今得、當得。「淨」為妙門，意在此也。</text-zh>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">六者「淨」為妙門者，</text-zh>
+        <text-en lang="en">Sixthly "Purifying (pariśuddhiḥ)" as a subtle door,</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">行者若能體識一切諸法本性清淨，</text-zh>
+        <text-en lang="en">if practitioners realize all dharmas intrinsic nature as pure,</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">即便獲得自性禪也。</text-zh>
+        <text-en lang="en">then immediately attain the intrinsic nature of dhyāna.</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">得此禪故，二乘之人定證涅槃。</text-zh>
+        <text-en lang="en">Due to attaining this dhyāna, practitioners of the Two Vehicles definitely realize nirvāṇa.</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">若是菩薩入鐵輪位，</text-zh>
+        <text-en lang="en">If bodhisattvas enter the Iron Wheel (ayas-cakra) position (sthāna),</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">具十信心，</text-zh>
+        <text-en lang="en">equipped with the ten minds of trust (daśa-śraddhā-citta),</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">修行不止，</text-zh>
+        <text-en lang="en">continously practice,</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">即便出生九種大禪，</text-zh>
+        <text-en lang="en">then immediately arouse nine kinds of great (mahā) dhyāna,</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">所謂自性禪、</text-zh>
+        <text-en lang="en">so-called self-natured dhyāna,</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">一切禪、</text-zh>
+        <text-en lang="en">universal dhyāna,</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">難禪、</text-zh>
+        <text-en lang="en">difficult dhyāna,</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">一切門禪、</text-zh>
+        <text-en lang="en">universal door dhyāna,</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">善人禪、</text-zh>
+        <text-en lang="en">virtuous person dhyāna,</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">一切行禪、</text-zh>
+        <text-en lang="en">universal practice dhyāna,</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">除惱禪、</text-zh>
+        <text-en lang="en">affliction (kleśa) eliminating dhyāna,</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">此世他世樂禪、</text-zh>
+        <text-en lang="en">joy of this world and other worlds dhyāna,</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">清淨禪。</text-zh>
+        <text-en lang="en">pure dhyāna.</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">菩薩依是禪故，得大菩提果，已得、今得、當得。</text-zh>
+        <text-en lang="en">Bodhisattvas dependent on this dhyāna, attain great (mahā) Bodhi result, already attained, presently attaining, will attain.</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">「淨」為妙門，意在此也。</text-zh>
+        <text-en lang="en">Purifying (pariśuddhiḥ) as a subtle door, is meant in this way.</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">次釋「第二、次第相生六妙門」者，次第相生入道之階梯也。若於欲界中巧行六法，第六淨心成就，即發三乘無漏，況復具足諸禪三昧？</text-zh>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">次釋「第二、次第相生六妙門」者，</text-zh>
+        <text-en lang="en">Next explaining "second, sequential appearance of Six Subtle Doors,"</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">次第相生入道之階梯也。</text-zh>
+        <text-en lang="en">sequentially co-arising entries into the path.</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">若於欲界中巧行六法，</text-zh>
+        <text-en lang="en">If in the realm of desire one practices six dharmas,</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">第六淨心成就，</text-zh>
+        <text-en lang="en">the sixth [practice of] purifying the mind is accomplished,</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">即發三乘無漏，</text-zh>
+        <text-en lang="en">immediately arouse Three Vehicles free from outflows (āsrava),</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">況復具足諸禪三昧？</text-zh>
+        <text-en lang="en">how much more fully equipped with all dhyāna and samādhi?</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">此即與前有異。所以者何？如數有二種：一者修數，二者證數。修數者，行者調和氣息，不澁不滑，安詳徐數，從一至十，攝心在數，不令馳散，是名修數。證數者，覺心任運，從一至十，不加功力，心住息緣，覺息虛微，心相漸細。</text-zh>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">此即與前有異。</text-zh>
+        <text-en lang="en">This is different from the previous.</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">所以者何？</text-zh>
+        <text-en lang="en">Why is this so?</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">如數有二種：</text-zh>
+        <text-en lang="en">Because there are two kinds of counting (gaṇanā):</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">一者修數，</text-zh>
+        <text-en lang="en">first practicing counting (gaṇanā),</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">二者證數。</text-zh>
+        <text-en lang="en">second realizing counting (gaṇanā).</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">修數者，</text-zh>
+        <text-en lang="en">On practices counting (gaṇanā),</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">行者調和氣息，</text-zh>
+        <text-en lang="en">A practitioner harmoniously modulates breath patterns,</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">不澁不滑，</text-zh>
+        <text-en lang="en">neither rough nor slick,</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">安詳徐數，</text-zh>
+        <text-en lang="en">calm favorable gentle counting,</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">從一至十，</text-zh>
+        <text-en lang="en">from one to ten,</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">攝心在數，</text-zh>
+        <text-en lang="en">focus mind in counting,</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">不令馳散，</text-zh>
+        <text-en lang="en">not distracted or scattered,</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">是名修數。</text-zh>
+        <text-en lang="en">this is called practicing counting.</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">證數者，覺心任運，</text-zh>
+        <text-en lang="en">The realization of counting, is awakened mind effortlessly moving,</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">從一至十，</text-zh>
+        <text-en lang="en">from one to ten,</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">不加功力，</text-zh>
+        <text-en lang="en">without force of effort,</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">心住息緣，</text-zh>
+        <text-en lang="en">mind abides on breath dependence,</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">覺息虛微，</text-zh>
+        <text-en lang="en">realizing subtle emptiness of breath,</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">心相漸細。</text-zh>
+        <text-en lang="en">appearances of mind become progressively subtle.</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">患數為麁，意不欲數。爾時行者應當放數修隨。隨亦有二：一者修隨，二者證隨。修隨者，捨前數法，一心依隨息之出入，攝心緣息，知息入出，心住息緣，無分散意。是名修隨。證隨者，心既微細，安靜不亂，覺息長短，遍身入出，心息任運相依，意慮恬然凝靜。</text-zh>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">患數為麁，意不欲數。</text-zh>
+        <text-en lang="en">Afflicted by coarse counting, mind does not crave counting.</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">爾時行者應當放數修隨。</text-zh>
+        <text-en lang="en">At such a time practioners should release counting to practice following.</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">隨亦有二</text-zh>
+        <text-en lang="en">Following also has two kinds:</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">一者修隨，</text-zh>
+        <text-en lang="en">first is practicing following (anugamaḥ),</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">二者證隨。</text-zh>
+        <text-en lang="en">second is realizing following (anugamaḥ).</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">修隨者，捨前數法，一心依隨息之出入，</text-zh>
+        <text-en lang="en">Practicing following (anugamaḥ), abandoning the previous method of counting, solely relying on following breath as it enters and exits,</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">攝心緣息，知息入出，心住息緣，無分散意。</text-zh>
+        <text-en lang="en">focus mind dependent upon breath, aware of breath entering and exiting, mind abides with the breath, abiding without distraction.</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">是名修隨。</text-zh>
+        <text-en lang="en">This is called practicing following.</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">證隨者，心既微細，安靜不亂，</text-zh>
+        <text-en lang="en">Realizing following, mind already very subtle, at peace calm and not distracted,</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">覺息長短，遍身入出，</text-zh>
+        <text-en lang="en">aware of breath being long or short, pervading every body entering and exiting,</text-en>
+        <text-en lang="en"></text-en>
+        <text-zh lang="zh-Hant">心息任運相依，意慮恬然凝靜。</text-zh>
+        <text-en lang="en">mind breath naturally interdepend upon one another, relective thought settles into serene stillness.</text-en>
+        <text-en lang="en"></text-en>
+    </unfinished>
+</main>
+
+
+</body>
+</html>
