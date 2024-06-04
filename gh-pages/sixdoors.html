@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans&family=Noto+Sans+SC&family=Noto+Sans+Devanagari&family=Noto+Serif&display=swap">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans&family=Noto+Sans+SC&family=Noto+Sans+Devanagari&family=Noto+Sans+Pali&family=Noto+Serif&display=swap">
     <meta charset="UTF-8"> <!-- The character encoding for the document -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- Proper scaling on mobile devices -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge"> <!-- Ensures compatibility with Internet Explorer -->
@@ -46,7 +46,7 @@ body {
 }
 
 /* Responsive text size */
-text-en, text-zh, text-pair, text-block {
+text-en, text-zh, text-pi, text-pair, text-block {
     font-size: calc(1rem + 1vw * 0.6); /* Ensures text scales with viewport width */
 }
 
@@ -98,6 +98,11 @@ text-en {
 text-zh {
     display: block;
     font-family: 'Noto Sans SC', sans-serif;
+}
+
+text-pi {
+    display: block;
+    font-family: 'Noto Sans Pali', sans-serif;
 }
 
 text-pair {
@@ -228,6 +233,7 @@ text-row-table > text-row:nth-child(odd) {
 .text-row-header > text-en,
 .text-row-header > text-sa,
 .text-row-header > text-zh,
+.text-row-header > text-pi,
 .text-row-header > text-number {
     padding: 8px; /* Padding for space inside the header cells */
     text-align: left; /* Align the text to the left */
@@ -276,23 +282,37 @@ text-row-container text-row {
     height: auto; /* Let the row height adjust based on the content */
 }
 
-text-row-container text-en,
-text-row-container text-pi,
-text-row-container text-sa {
+text-row-container text-row text-en,
+text-row-container text-row text-pi,
+text-row-container text-row text-sa {
     padding: 8px; /* Cell padding for better spacing */
     margin: 0; /* Reset margin */
     vertical-align: middle; /* Center text vertically */
     box-sizing: border-box; /* Ensure padding and border are included in the element's total width and height */
     border-right: 1px solid #ddd; /* Right border for table cells */
 }
-text-row-container text-en:last-child,
-text-row-container text-sa:last-child,
-text-row-container text-pi:last-child {
+text-row-container text-row text-en:last-child,
+text-row-container text-row text-sa:last-child,
+text-row-container text-row text-pi:last-child {
     border-right: none; /* Remove right border for the last element in the row */
 }
 text-row-container text-row:nth-child(even),
 text-row-container text-pair:nth-child(even) {
     background-color: #f9f9e5; /* Alternating row colors */
+}
+
+text-pair hr {
+    border: 0;
+    height: 1px;
+    background: #ddd; /* Light grey color */
+    margin: 1rem 0; /* Adjust the vertical spacing above and below the <hr> */
+    width: 100%; /* Make sure it takes the full width of the container */
+}
+/* Optional: Add some styling to the text-pair container */
+text-pair {
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
 }
 </style>
 <script>
