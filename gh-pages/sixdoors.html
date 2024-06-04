@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans&family=Noto+Serif&family=Noto+Sans+SC&display=swap">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans&family=Noto+Sans+SC&family=Noto+Sans+Devanagari&family=Noto+Serif&display=swap">
     <meta charset="UTF-8"> <!-- The character encoding for the document -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- Proper scaling on mobile devices -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge"> <!-- Ensures compatibility with Internet Explorer -->
@@ -101,7 +101,7 @@ text-zh {
 }
 
 text-pair {
-    margin: 1vw 0; /* Flexible margin */
+    padding: 1vw 0; /* Flexible margin */
 }
 
 text-block {
@@ -113,30 +113,218 @@ text-attribution {
     font-style: italic;
 }
 
-text-pair-table {
+
+.dharma-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+.dharma-table th, .dharma-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+.dharma-table th {
+    text-align: left;
+    background-color: #f4f4f4;
+}
+.dharma-row:nth-child(even) {background-color: #f2f2f2;}
+.dharma-icon {
+    width: 24px;
+    height: 24px;
+}
+.counting { color: #e63946; }  /* Red for vitality and action */
+.following { color: #f0a500; }  /* Yellow for guidance and learning */
+.resting { color: #06d6a0; }    /* Green for calm and balance */
+.intuiting { color: #118ab2; }  /* Blue for wisdom and infinity */
+.turning { color: #fb8500; }    /* Orange for transformation */
+.purifying { color: #9b5de5; }  /* Purple for spiritual purification */
+
+
+.toggle-zh-button {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  background-color: transparent;
+  color: blue;
+  cursor: pointer;
+  z-index: 10;
+  text-decoration: underline;
+  font-size: 16px;
+  border: none;
+  background: none;
+  visibility: hidden; /* Initially hidden */
+}
+
+card:hover .toggle-zh-button {
+  visibility: visible; /* Shows the button on card hover */
+}
+
+.hidden {
+  display: none;
+}
+
+text-row-table {
+    display: table;
+    width: 100%;
+    border-collapse: collapse;
+    border: 1px solid #ccc; /* Optional: Add border around the entire table */
+}
+
+text-row-table > text-row {
+    display: table-row; /* Use table-row display to maintain the table structure */
+    margin: 0;
+    padding: 0;
+    border-bottom: 1px solid #ccc; /* Optional: Add bottom border for row separation */
+}
+
+text-row > text-zh,
+text-row > text-number,
+text-row > text-sa,
+text-row > div,
+text-row > text-en {
+    display: table-cell; /* Use table-cell display for columns */
+    padding: 8px; /* Add padding for better spacing */
+    vertical-align: middle; /* Align text vertically in the middle */
+    font-size: calc(1rem + 1vw * 0.6); /* Ensure consistent text size */
+    border-right: 1px solid #ccc; /* Optional: Add right border for visual separation */
+}
+
+text-row > text-zh,
+text-row > text-number,
+text-row > text-sa {
+    white-space: nowrap; /* Prevent text wrapping for fixed columns */
+}
+
+text-row > text-zh {
+    text-align: right;
+}
+
+text-row > text-number,
+text-row > text-sa {
+    text-align: left;
+}
+
+text-row > text-sa {
+    font-family: 'Noto Sans Devanagari', 'Noto Sans', sans-serif;
+}
+
+text-row > text-en {
+    text-align: left;
+    padding-left: 10px; /* Additional padding to the left for better spacing */
+    border-right: none; /* Remove the right border for the last column */
+    width: 100%; /* Ensure it takes up remaining space */
+}
+
+/* Optional: Add background color for alternating rows */
+text-row-table > text-row:nth-child(odd) {
+    background-color: #f9f9f9;
+}
+
+.text-row-header {
+    display: table-row;
+    background-color: #f4f4f4; /* Light grey background for headers */
+    font-weight: bold; /* Bold text for headers */
+}
+
+.text-row-header > text-en,
+.text-row-header > text-sa,
+.text-row-header > text-zh,
+.text-row-header > text-number {
+    padding: 8px; /* Padding for space inside the header cells */
+    text-align: left; /* Align the text to the left */
+    font-size: calc(1rem + 1vw * 0.6); /* Consistent text size with cells */
+    border-right: 1px solid #ccc; /* Optional: Adds a right border for visual separation */
+}
+
+sutra-sample {
+    border-left: 4px solid #FFD700; /* Adds a gold border to the left */
+    background-color: #f9f9e5; /* Light yellow background color */
+    padding: 1rem; /* Padding inside the box */
+    margin: 1.5rem 0; /* Margin outside the box */
+    font-family: 'Noto Serif', serif; /* Different font to distinguish from the main text */
+    color: #333; /* Dark gray text color */
+    box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.07); /* Subtle shadow for a raised effect */
+    border-radius: 8px; /* Rounded corners */
+}
+
+teaching-sample {
+    border-left: 4px solid #0066cc; /* Adds a blue border to the left */
+    background-color: #e5f9ff; /* Light blue background color */
+    padding: 1rem; /* Padding inside the box */
+    margin: 1.5rem 0; /* Margin outside the box */
+    font-family: 'Noto Serif', serif; /* Different font to distinguish from the main text */
+    color: #333; /* Dark gray text color */
+    box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.07); /* Subtle shadow for a raised effect */
+    border-radius: 8px; /* Rounded corners */
+}
+
+text-row-container {
     display: grid;
-    grid-template-columns: max-content auto; /* The first column uses the maximum space needed to avoid text breaking */
-    gap: 10px; /* Add some space between columns/rows if needed */
-    margin-bottom: 10px;
+    grid-template-columns: 1fr; /* Single column container */
+    gap: 0; /* No gaps between rows */
+    padding: 0; /* No padding */
+    background-color: #fff; /* White background */
+    border-radius: 0; /* No border radius */
+    box-shadow: none; /* No shadow */
+}
+text-row-container text-row {
+    display: grid; /* Use grid layout */
+    grid-template-columns: 0.1fr 1.5fr 1fr 1fr; /* Define columns for each text-row */
+    align-items: stretch; /* Stretch items vertically to fill the row */
+    border-bottom: 1px solid #ddd; /* Add border below each row for separation */
+    padding: 0; /* Reset padding */
+    margin: 0; /* Reset margin */
+    height: auto; /* Let the row height adjust based on the content */
 }
 
-text-pair-table text-zh {
-    text-align: right; /* Right-align the Chinese text */
-    padding-right: 10px; /* Optionally, add some padding to the right */
+text-row-container text-en,
+text-row-container text-pi,
+text-row-container text-sa {
+    padding: 8px; /* Cell padding for better spacing */
+    margin: 0; /* Reset margin */
+    vertical-align: middle; /* Center text vertically */
+    box-sizing: border-box; /* Ensure padding and border are included in the element's total width and height */
+    border-right: 1px solid #ddd; /* Right border for table cells */
 }
-
-text-pair-table text-en {
-    text-align: left; /* Left-align the English text */
-    padding-left: 10px; /* Optionally, add some padding to the left */
+text-row-container text-en:last-child,
+text-row-container text-sa:last-child,
+text-row-container text-pi:last-child {
+    border-right: none; /* Remove right border for the last element in the row */
+}
+text-row-container text-row:nth-child(even),
+text-row-container text-pair:nth-child(even) {
+    background-color: #f9f9e5; /* Alternating row colors */
 }
 </style>
 <script>
 document.addEventListener("DOMContentLoaded", () => {
     document.querySelectorAll('card').forEach(card => {
-        const playButton = document.createElement('div');
-        playButton.className = 'play-button';
-        card.appendChild(playButton);
-    });
+      // Create and append the play button
+      const playButton = document.createElement('div');
+      playButton.className = 'play-button';
+      card.appendChild(playButton);
+
+      // Create and append the toggle button
+      const toggleButton = document.createElement('div');
+      toggleButton.className = 'toggle-zh-button';
+      toggleButton.textContent = '禁'; // Initially set to "禁"
+      card.appendChild(toggleButton);
+
+      // Add event listener to the toggle button
+      toggleButton.addEventListener('click', () => {
+        const textZhElements = card.querySelectorAll('text-zh, text-pi');
+        const isHidden = textZhElements[0].classList.contains('hidden');
+        textZhElements.forEach(el => {
+          if (isHidden) {
+            el.classList.remove('hidden');
+          } else {
+            el.classList.add('hidden');
+          }
+        });
+
+        // Update the button text
+        toggleButton.textContent = isHidden ? '禁' : '启';
+      });
+  });
 });
 </script>
 </head>
@@ -169,66 +357,230 @@ document.addEventListener("DOMContentLoaded", () => {
         </text-pair>
     </card>
     <card>
-        <text-pair-table>
-            <text-zh lang="zh-Hant">一、數，</text-zh>
-            <text-en lang="en">First, Counting (gaṇanā)</text-en>
-            <text-zh lang="zh-Hant">二、隨，</text-zh>
-            <text-en lang="en">Second, Following (anugamaḥ)</text-en>
-            <text-zh lang="zh-Hant">三、止，</text-zh>
-            <text-en lang="en">Third, Resting (samatha)</text-en>
-            <text-zh lang="zh-Hant">四、觀，</text-zh>
-            <text-en lang="en">Fourth, Intuiting (vipaśyanā)</text-en>
-            <text-zh lang="zh-Hant">五、還，</text-zh>
-            <text-en lang="en">Fifth, Turning (vivartanā)</text-en>
-            <text-zh lang="zh-Hant">六、淨，</text-zh>
-            <text-en lang="en">Sixth, Purifying (pariśuddhiḥ)</text-en>
-        </text-pair-table>
+        <text-row-table>
+            <text-row>
+                <text-zh lang="zh-Hant">一</text-zh>
+                <text-number>1</text-number>
+                <text-zh lang="zh-Hant">數</text-zh>
+                <text-sa lang="sa">गणना (gaṇanā)</text-sa>
+                <div class="dharma-icon">🧮</div>
+                <text-en lang="en" class="counting">Counting</text-en>
+            </text-row>
+            <text-row>
+                <text-zh lang="zh-Hant">二</text-zh>
+                <text-number>2</text-number>
+                <text-zh lang="zh-Hant">隨</text-zh>
+                <text-sa lang="sa">अनुगमः (anugamaḥ)</text-sa>
+                <div class="dharma-icon">👣</div>
+                <text-en lang="en" class="following">Following</text-en>
+            </text-row>
+            <text-row>
+                <text-zh lang="zh-Hant">三</text-zh>
+                <text-number>3</text-number>
+                <text-zh lang="zh-Hant">止</text-zh>
+                <text-sa lang="sa">शमथ (śamatha)</text-sa>
+                <div class="dharma-icon">🧘</div>
+                <text-en lang="en" class="resting">Resting</text-en>
+            </text-row>
+            <text-row>
+                <text-zh lang="zh-Hant">四</text-zh>
+                <text-number>4</text-number>
+                <text-zh lang="zh-Hant">觀</text-zh>
+                <text-sa lang="sa">विपश्यना (vipaśyanā)</text-sa>
+                <div class="dharma-icon">🌟</div>
+                <text-en lang="en" class="intuiting">Intuiting</text-en>
+            </text-row>
+            <text-row>
+                <text-zh lang="zh-Hant">五</text-zh>
+                <text-number>5</text-number>
+                <text-zh lang="zh-Hant">還</text-zh>
+                <text-sa lang="sa">विवर्तन (vivartanā)</text-sa>
+                <div class="dharma-icon">♻️</div>
+                <text-en lang="en" class="turning">Turning</text-en>
+            </text-row>
+            <text-row>
+                <text-zh lang="zh-Hant">六</text-zh>
+                <text-number>6</text-number>
+                <text-zh lang="zh-Hant">淨</text-zh>
+                <text-sa lang="sa">परिशुद्धि (pariśuddhiḥ)</text-sa>
+                <div class="dharma-icon">💧</div>
+                <text-en lang="en" class="purifying">Purifying</text-en>
+            </text-row>
+        </text-row-table>
         <text-pair>
             <text-zh lang="zh-Hant">因此萬行開發，降魔成道。</text-zh>
             <text-en lang="en">Caused by this myriad practices developed, pacifying harmful influences and realizing the path.</text-en>
         </text-pair>
     </card>
-    <unfinished>
-
-
-        <text-en lang="en"></text-en>
-        <text-zh lang="zh-Hant">當知佛為物軌，示跡若斯，三乘正士豈不同遊此路？</text-zh>
-        <text-en lang="en">One should know Buddha as a model for everything, showing the path as such, how could virtuous practitioners of all Three Vehicles not traverse this path?</text-en>
-        <text-en lang="en"></text-en>
-        <text-zh lang="zh-Hant">所言「六」者，即是數法，約數明禪，故言六也。如佛或約一數辯禪，所謂一行三昧；或約二數，謂一、止，二、觀；或約三數，謂三三昧；或約四數，所謂四禪；或約五數，謂五門禪；或約六數，謂六妙門；或約七數，謂七依定；或約八數，謂八背捨；或約九數，謂九次第定；或約十數，謂十禪支。如是等，乃至百千萬億阿僧祇不可說諸三昧門，悉是約數說諸禪也。雖數有多少，窮其法相，莫不悉相收攝，以眾生機悟不同故，有增減之數分別利物。</text-zh>
-        <text-en lang="en"></text-en>
+    <card>
+        <text-pair>
+            <text-zh lang="zh-Hant">當知佛為物軌，示跡若斯，三乘正士豈不同遊此路？</text-zh>
+            <text-en lang="en">One should know Buddha as a model for everything, showing the path as such, how could virtuous practitioners of all Three Vehicles not traverse this path?</text-en>
+        </text-pair>
+    </card>
+    <card>
         <text-zh lang="zh-Hant">所言「六」者，即是數法，約數明禪，故言六也。</text-zh>
         <text-zh lang="zh-Hant">What is called "six" here, is a dharma of enumeration, understanding dhyāna (禪,chán,zen,jhana) by enumeration, so it is called six.</text-zh>
-        <text-en lang="en"></text-en>
-        <text-zh lang="zh-Hant">如佛或約一數辯禪，所謂一行三昧；</text-zh>
-        <text-en lang="en">As Buddha sometimes explains dhyāna in a single enumeration, so-called "One Practice Samadhi";</text-en>
-        <text-en lang="en"></text-en>
-        <text-zh lang="zh-Hant">或約二數，謂一、止，二、觀；</text-zh>
-        <text-en lang="en">or explains in two-fold enumeration, referring first to, rest (śamatha), and secondly, intuiting (vipaśyanā);</text-en>
-        <text-en lang="en"></text-en>
-        <text-zh lang="zh-Hant">或約三數，謂三三昧；</text-zh>
-        <text-en lang="en">or explains in three-fold enumeration, so-called Three Samadhis;</text-en>
-        <text-en lang="en"></text-en>
-        <text-zh lang="zh-Hant">或約四數，所謂四禪；</text-zh>
-        <text-en lang="en">or explains in four-fold enumeration, so-called "Four Dhyānas";</text-en>
-        <text-en lang="en"></text-en>
-        <text-zh lang="zh-Hant">或約五數，謂五門禪；</text-zh>
-        <text-en lang="en">or explains in five-fold enumeration, so-called "Five Doors of Dhyāna";</text-en>
-        <text-en lang="en"></text-en>
-        <text-zh lang="zh-Hant">或約六數，謂六妙門；</text-zh>
-        <text-en lang="en">or explains in six-fold enumeration, so-called "Six Subtle Doors";</text-en>
-        <text-en lang="en"></text-en>
-        <text-zh lang="zh-Hant">或約七數，謂七依定；</text-zh>
-        <text-en lang="en">or explains in seven-fold enumeration, so-called "Seven Dependent Samadhis";</text-en>
-        <text-en lang="en"></text-en>
-        <text-zh lang="zh-Hant">或約八數，謂八背捨；</text-zh>
-        <text-en lang="en">or explains in eight-fold enumeration, so-called "Eight Abandonments";</text-en>
-        <text-en lang="en"></text-en>
-        <text-zh lang="zh-Hant">或約九數，謂九次第定；</text-zh>
-        <text-en lang="en">or explains in nine-fold enumeration, so-called "Nine Successive Samadhis";</text-en>
-        <text-en lang="en"></text-en>
-        <text-zh lang="zh-Hant">或約十數，謂十禪支。</text-zh>
-        <text-en lang="en">or explains in ten-fold enumeration, so-called "Ten Dhyāna Supports."</text-en>
+    </card>
+    <card>
+        <text-pair>
+            <text-zh lang="zh-Hant">如佛或約一數辯禪，所謂一行三昧；</text-zh>
+            <text-en lang="en">As Buddha sometimes explains dhyāna in a single enumeration, so-called "One Practice Samadhi";</text-en>
+        </text-pair>
+    </card>
+    <card>
+        <text-pair>
+            <text-zh lang="zh-Hant">或約二數，謂一、止，二、觀；</text-zh>
+            <text-en lang="en">or explains in two-fold enumeration, referring first to, rest (śamatha), and secondly, intuiting (vipaśyanā);</text-en>
+        </text-pair>
+        <sutra-sample>
+            <div>From <a href="https://snapdragon-fir-e8e.notion.site/Chapter-6-Vikalpa-Yoga-Differentiating-Yoga-5630e784745543a1923930221e7c947a">Chapter 6 (Vikalpa Yoga)</a> of the <a href="https://snapdragon-fir-e8e.notion.site/Sa-dhinirmocana-S-tra-LUSB-Standardized-Ed-494750121447412c9467488ec8a0be0e">Samdhinirmocana Sutra</a>:</div>
+            <text-pair>
+                <text-zh lang="zh-Hant"> 爾時慈氏菩薩摩訶薩白佛言：「世尊！菩薩何依何住，於大乘中修奢摩他、毘鉢舍那？」</text-zh>
+                <text-en lang="en">At that time Maitreya Bodhisattva addressed the Buddha saying, “World-Honored One! What does the bodhisattva rely upon, how do they cultivate <i>śamatha</i> and <i>vipaśyanā</i> while abiding within the Great Vehicle?”</text-en>
+            </text-pair>
+        </sutra-sample>
+    </card>
+    <card>
+        <text-pair>
+            <text-zh lang="zh-Hant">或約三數，謂三三昧；</text-zh>
+            <text-en lang="en">or explains in three-fold enumeration, so-called Three Samādhi;</text-en>
+        </text-pair>
+
+        <teaching-sample>
+            <text-row-table>
+                <text-row>
+                    <text-zh lang="zh-Hant">空三昧</text-zh>
+                    <text-sa lang="sa">शून्यता समाधि (Śūnyatā Samādhi)</text-sa>
+                    <text-en lang="en">Emptiness Samādhi</text-en>
+                </text-row>
+                <text-row>
+                    <text-zh lang="zh-Hant">无相三昧</text-zh>
+                    <text-sa lang="sa">अनि्मित समाधि (Animitta Samādhi)</text-sa>
+                    <text-en lang="en">Signlessness Samādhi</text-en>
+                </text-row>
+                <text-row>
+                    <text-zh lang="zh-Hant">无愿三昧</text-zh>
+                    <text-sa lang="sa">अप्रणिहित समाधि (Apraṇihita Samādhi)</text-sa>
+                    <text-en lang="en">Wishlessness Samādhi</text-en>
+                </text-row>
+            </text-row-table>
+        </teaching-sample>
+    </card>
+    <card>
+        <text-pair>
+            <text-zh lang="zh-Hant">或約四數，所謂四禪；</text-zh>
+            <text-en lang="en">or explains in four-fold enumeration, so-called "Four Dhyānas";</text-en>
+        </text-pair>
+
+        <sutra-sample>
+            <text-row-container>
+                <!-- First Dhyana -->
+                <text-row>
+                    <text-en lang="en">1</text-en>
+                    <text-sa lang="sa">Prathamadhyāna (प्रथमध्यान)</text-sa>
+                    <text-en lang="en">with seeking (vitarka) and reflection (vicāra)</text-en>
+                    <text-en lang="en">without</text-en>
+                </text-row>
+                <text-pair>
+                    <text-pi lang="pi">So vivicceva kāmehi vivicca akusalehi dhammehi savitakkaṃ savicāraṃ vivekajaṃ pītisukhaṃ paṭhamaṃ jhānaṃ upasampajja viharati.</text-pi>
+                    <text-en lang="en">Quite secluded from sensual pleasures, secluded from unwholesome states, he enters upon and abides in the first dhyana (jhana), which is accompanied by vitarka (applied thought) and vicara (sustained thought), with rapture and pleasure born of seclusion.</text-en>
+                </text-pair>
+
+                <!-- Second Dhyana -->
+                <text-row>
+                    <text-en lang="en">2</text-en>
+                    <text-sa lang="sa">Dvitīyadhyāna (द्वितीयध्यान)</text-sa>
+                    <text-en lang="en">with reflection (vicāra)</text-en>
+                    <text-en lang="en">without seeking (vitarka)</text-en>
+                </text-row>
+                <text-pair>
+                    <text-pi lang="pi">Vitakkavicārānaṃ vūpasamā ajjhattaṃ sampasādanaṃ cetaso ekodibhāvaṃ avitakkaṃ avicāraṃ samādhijaṃ pītisukhaṃ dutiyaṃ jhānaṃ upasampajja viharati.</text-pi>
+                    <text-en lang="en">With the stilling of vitarka (applied thought) and vicara (sustained thought), he enters upon and abides in the second dhyana (jhana), which has internal confidence and unification of mind, is without vitarka (applied thought) and vicara (sustained thought), and has rapture and pleasure born of concentration.</text-en>
+                </text-pair>
+
+                <!-- Third Dhyana -->
+                <text-row>
+                    <text-en lang="en">3</text-en>
+                    <text-sa lang="sa">Tṛtīyadhyāna (तृतीयध्यान)</text-sa>
+                    <text-en lang="en">with joy (prīti)</text-en>
+                    <text-en lang="en">without seeking (vitarka), reflection (vicāra), and joy (prīti)</text-en>
+                </text-row>
+                <text-pair>
+                    <text-pi lang="pi">Pītiyā ca virāgā upekkhako ca viharati sato sampajāno sukhañca kāyena paṭisaṃvedeti, yaṃ taṃ ariyā ācikkhanti – ‘upekkhako satimā sukha-vihārī’ti, tatiyaṃ jhānaṃ upasampajja viharati.</text-pi>
+                    <text-en lang="en">With the fading away of rapture, he dwells in equanimity, mindful and fully aware, still feeling pleasure with the body; he enters upon and abides in the third dhyana (jhana), on account of which the noble ones announce: ‘He has a pleasant abiding who has equanimity and is mindful.’</text-en>
+                </text-pair>
+
+                <!-- Fourth Dhyana -->
+                <text-row>
+                    <text-en lang="en">4</text-en>
+                    <text-sa lang="sa">Caturthadhyāna (चतुर्थध्यान)</text-sa>
+                    <text-en lang="en">neither seeking (vitarka)</text-en>
+                    <text-en lang="en">nor reflection (vicāra)</text-en>
+                </text-row>
+                <text-pair>
+                    <text-pi lang="pi">Sukhassa ca pahānā dukkhassa ca pahānā pubbeva somanassa-domanassānaṃ atthaṅgamā adukkhamasukhaṃ upekkhā-satipārisuddhiṃ catutthaṃ jhānaṃ upasampajja viharati.</text-pi>
+                    <text-en lang="en">With the abandoning of pleasure and pain, and with the previous disappearance of joy and grief, he enters upon and abides in the fourth dhyana (jhana), which has neither-pain-nor-pleasure and purity of mindfulness due to equanimity.</text-en>
+                </text-pair>
+            </text-row-container>
+        </sutra-sample>
+
+    </card>
+    <card>
+        <text-pair>
+            <text-zh lang="zh-Hant">或約五數，謂五門禪；</text-zh>
+            <text-en lang="en">or explains in five-fold enumeration, so-called "Five Doors of Dhyāna";</text-en>
+        </text-pair>
+
+
+
+    </card>
+    <card>
+        <text-pair>
+            <text-zh lang="zh-Hant">或約六數，謂六妙門；</text-zh>
+            <text-en lang="en">or explains in six-fold enumeration, so-called "Six Subtle Doors";</text-en>
+        </text-pair>
+    </card>
+    <card>
+        <text-pair>
+            <text-zh lang="zh-Hant">或約七數，謂七依定；</text-zh>
+            <text-en lang="en">or explains in seven-fold enumeration, so-called "Seven Dependent Samadhis";</text-en>
+        </text-pair>
+    </card>
+    <card>
+        <text-pair>
+            <text-zh lang="zh-Hant">或約八數，謂八背捨；</text-zh>
+            <text-en lang="en">or explains in eight-fold enumeration, so-called "Eight Abandonments";</text-en>
+        </text-pair>
+    </card>
+    <card>
+        <text-pair>
+            <text-zh lang="zh-Hant">或約九數，謂九次第定；</text-zh>
+            <text-en lang="en">or explains in nine-fold enumeration, so-called "Nine Successive Samadhis";</text-en>
+        </text-pair>
+    </card>
+    <card>
+        <text-pair>
+            <text-zh lang="zh-Hant">或約十數，謂十禪支。</text-zh>
+            <text-en lang="en">or explains in ten-fold enumeration, so-called "Ten Dhyāna Supports."</text-en>
+        </text-pair>
+    </card>
+    <card>
+        <text-pair>
+
+        </text-pair>
+    </card>
+    <card>
+        <text-pair>
+
+        </text-pair>
+    </card>
+    <card>
+        <text-pair>
+
+        </text-pair>
+    </card>
+    <unfinished>
         <text-en lang="en"></text-en>
         <text-zh lang="zh-Hant">如是等，乃至百千萬億阿僧祇不可說諸三昧門，悉是約數說諸禪也。</text-zh>
         <text-en lang="en">Like these, and even up to hundreds thousands millions billions and countless other unmentionable Samadhi methods, all are approximate enumerations to explain various Dhyāna.</text-en>
@@ -724,6 +1076,107 @@ document.addEventListener("DOMContentLoaded", () => {
         <text-en lang="en">mind breath naturally interdepend upon one another, relective thought settles into serene stillness.</text-en>
         <text-en lang="en"></text-en>
     </unfinished>
+
+    <card>
+        <h1>Appendix 1: Symbols</h1>
+        <table class="dharma-table">
+            <thead>
+                <tr>
+                    <th>Teaching (ZH-Hant)</th>
+                    <th>Teaching (EN)</th>
+                    <th>Symbol</th>
+                    <th>Rationale</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="dharma-row counting">
+                    <td class="counting">一、數，</td>
+                    <td class="counting">First, Counting (gaṇanā)</td>
+                    <td><span class="dharma-icon">🧮</span></td>
+                    <td>The abacus emoji symbolizes the systematic and focused activity of counting.</td>
+                </tr>
+                <tr class="dharma-row following">
+                    <td class="following">二、隨，</td>
+                    <td class="following">Second, Following (anugamaḥ)</td>
+                    <td><span class="dharma-icon">👣</span></td>
+                    <td>Footprints naturally suggest following a path or someone's steps.</td>
+                </tr>
+                <tr class="dharma-row resting">
+                    <td class="resting">三、止，</td>
+                    <td class="resting">Third, Resting (samatha)</td>
+                    <td><span class="dharma-icon">🧘</span></td>
+                    <td>The meditation emoji represents restfulness and the calming effect of meditation.</td>
+                </tr>
+                <tr class="dharma-row intuiting">
+                    <td class="intuiting">四、觀，</td>
+                    <td class="intuiting">Fourth, Intuiting (vipaśyanā)</td>
+                    <td><span class="dharma-icon">🌟</span></td>
+                    <td>The glowing star symbolizes insight, intuition, and deep seeing.</td>
+                </tr>
+                <tr class="dharma-row turning">
+                    <td class="turning">五、還，</td>
+                    <td class="turning">Fifth, Turning (vivartanā)</td>
+                    <td><span class="dharma-icon">♻️</span></td>
+                    <td>The recycle symbol effectively represents the concept of turning or transformation.</td>
+                </tr>
+                <tr class="dharma-row purifying">
+                    <td class="purifying">六、淨，</td>
+                    <td class="purifying">Sixth, Purifying (pariśuddhiḥ)</td>
+                    <td><span class="dharma-icon">💧</span></td>
+                    <td>The droplet symbolizes cleansing, purification, and renewal.</td>
+                </tr>
+            </tbody>
+        </table>
+        <h1>Appendix 2: Colors</h1>
+        <table class="dharma-table">
+            <thead>
+                <tr>
+                    <th>Teaching (ZH-Hant)</th>
+                    <th>Teaching (EN)</th>
+                    <th>Color</th>
+                    <th>Rationale</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="dharma-row counting">
+                    <td class="counting">一、數，</td>
+                    <td class="counting">First, Counting (gaṇanā)</td>
+                    <td class="counting">Red (#e63946)</td>
+                    <td>Symbolizes vitality, action, and focus.</td>
+                </tr>
+                <tr class="dharma-row following">
+                    <td class="following">二、隨，</td>
+                    <td class="following">Second, Following (anugamaḥ)</td>
+                    <td class="following">Yellow (#f0a500)</td>
+                    <td>Represents guidance, learning, and intellectual activity.</td>
+                </tr>
+                <tr class="dharma-row resting">
+                    <td class="resting">三、止，</td>
+                    <td class="resting">Third, Resting (samatha)</td>
+                    <td class="resting">Green (#06d6a0)</td>
+                    <td>Stands for calmness and natural balance.</td>
+                </tr>
+                <tr class="dharma-row intuiting">
+                    <td class="intuiting">四、觀，</td>
+                    <td class="intuiting">Fourth, Intuiting (vipaśyanā)</td>
+                    <td class="intuiting">Blue (#118ab2)</td>
+                    <td>Signifies wisdom, depth, and infinity.</td>
+                </tr>
+                <tr class="dharma-row turning">
+                    <td class="turning">五、還，</td>
+                    <td class="turning">Fifth, Turning (vivartanā)</td>
+                    <td class="turning">Orange (#fb8500)</td>
+                    <td>Represents transformation, energy, and warmth.</td>
+                </tr>
+                <tr class="dharma-row purifying">
+                    <td class="purifying">六、淨，</td>
+                    <td class="purifying">Sixth, Purifying (pariśuddhiḥ)</td>
+                    <td class="purifying">Purple (#9b5de5)</td>
+                    <td>Symbolizes spiritual purification, protection, and mysticism.</td>
+                </tr>
+            </tbody>
+        </table>
+    </card>
 </main>
 
 
