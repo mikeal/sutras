@@ -12,7 +12,6 @@ Translated by Tripitaka Master Kumarajiva
 T. Vol. 30 No. 1564 [cf. Nos. 1565-1567]
 
 
-
 不生亦不滅，
 Neither arising nor ceasing,
 不常亦不斷，
@@ -49,12 +48,18 @@ As all dharmas self nature,
 不在於緣中，
 Is not internally caused,
 以無自性故，
+Caused by lack of self nature,
 他性亦復無。
+Other nature also does not exist.
 
 因緣次第緣，
+Causal condition and sequential condition,
 緣緣增上緣，
+Conditioned condition and dominating condition
 四緣生諸法，
+Four conditions arise all dharmas,
 更無第五緣。
+There is no fifth condition.
 
 果為從緣生，
 為從非緣生？

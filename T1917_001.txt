@@ -236,7 +236,7 @@ So-called:
 9. mind making joy,
 
 十、心作攝，
-10. mind making concentration (saṃgraha),
+10. mind making focus/concentration (saṃgraha),
 
 十一、心作解脫，
 11. mind making liberation (vimukti),
@@ -491,16 +491,16 @@ Why is this so?
 Because there are two kinds of counting (gaṇanā):
 
 一者修數，
-first practicing counting (gaṇanā),
+the first is practicing counting (gaṇanā),
 
 二者證數。
-second realizing counting (gaṇanā).
+the second is confirming counting (gaṇanā).
 
 修數者，
-On practices counting (gaṇanā),
+One who practices counting (gaṇanā),
 
 行者調和氣息，
-A practitioner harmoniously modulates breath patterns,
+practices harmonious breathing patterns,
 
 不澁不滑，
 neither rough nor slick,
@@ -521,7 +521,7 @@ not distracted or scattered,
 this is called practicing counting.
 
 證數者，覺心任運，
-The realization of counting, is awakened mind effortlessly moving,
+The confirmation of counting, is awakened mind effortlessly moving,
 
 從一至十，
 from one to ten,
@@ -530,7 +530,7 @@ from one to ten,
 without force of effort,
 
 心住息緣，
-mind abides on breath dependence,
+mind abiding on breath dependence,
 
 覺息虛微，
 realizing subtle emptiness of breath,
@@ -541,31 +541,31 @@ appearances of mind become progressively subtle.
 患數為麁，意不欲數。爾時行者應當放數修隨。隨亦有二：一者修隨，二者證隨。修隨者，捨前數法，一心依隨息之出入，攝心緣息，知息入出，心住息緣，無分散意。是名修隨。證隨者，心既微細，安靜不亂，覺息長短，遍身入出，心息任運相依，意慮恬然凝靜。
 
 患數為麁，意不欲數。
-Afflicted by coarse counting, mind does not crave counting.
+Suffering from coarse counting, mind does not desire counting.
 
 爾時行者應當放數修隨。
 At such a time practioners should release counting to practice following.
 
 隨亦有二
-Following also has two kinds:
+Following also has two aspects:
 
 一者修隨，
-first is practicing following (anugamaḥ),
+the first is practicing following (anugamaḥ),
 
 二者證隨。
-second is realizing following (anugamaḥ).
+the second is confirming following (anugamaḥ).
 
 修隨者，捨前數法，一心依隨息之出入，
-Practicing following (anugamaḥ), abandoning the previous method of counting, solely relying on following breath as it enters and exits,
+Following (anugamaḥ) practitioners, abandon previous counting methods, single-mindedly depend on following breath entering and exiting,
 
 攝心緣息，知息入出，心住息緣，無分散意。
-focus mind dependent upon breath, aware of breath entering and exiting, mind abides with the breath, abiding without distraction.
+focus mind on breath dependence, aware of breath entering and exiting, mind abides on breath dependence, without scattered thoughts.
 
 是名修隨。
 This is called practicing following.
 
 證隨者，心既微細，安靜不亂，
-Realizing following, mind already very subtle, at peace calm and not distracted,
+Confirming following, mind already very subtle, peaceful and not distracted,
 
 覺息長短，遍身入出，
 aware of breath being long or short, pervading every body entering and exiting,
@@ -574,6 +574,21 @@ aware of breath being long or short, pervading every body entering and exiting,
 mind breath naturally interdepend upon one another, relective thought settles into serene stillness.
 
 覺隨為麁，心厭欲捨，如人疲極欲眠，不樂眾務。爾時行者應當捨隨修止。止亦有二：一者修止，二者證止。修止者，息諸緣慮，不念數隨，凝寂其心，是名修止。證止者，覺身心泯然入定，不見內外相貌，定法持心，任運不動。
+
+覺隨為麁，心厭欲捨，如人疲極欲眠，不樂眾務。
+Confirming following (anugamaḥ) is coarse, mind weary desires abandonment, like a person exhausted and desiring to sleep, not enjoying many tasks.
+
+爾時行者應當捨隨修止。
+At such a time, practitioners should abandon following and practice resting (samatha).
+
+止亦有二：一者修止，二者證止。
+Resting also has two aspects: the first is practicing resting (samatha), and the second is realising resting (samatha).
+
+修止者，息諸緣慮，不念數隨，凝寂其心，是名修止。
+Practicing resting (samatha) involves ceasing all dependent thoughts, not thinking of counting or following, making the mind calm and tranquil. This is called practicing resting.
+
+證止者，覺身心泯然入定，不見內外相貌，定法持心，任運不動。
+Realising resting (samatha) involves sensing the body and mind completely merge in samadhi, not perceiving inner or outer forms, with the samadhi principle (dharma) sustaining the mind, naturally unmoving.
 
 行者是時即作是念：「今此三昧雖復無為寂靜、安隱快樂，而無惠方便，不能破壞生死。」復作是念：「今此定者，皆屬因緣，陰界入法和合而有，虛誑不實。我今不見不覺，應須照了。」作是念已，即不著止，起觀分別。觀亦有二：一者修觀，二者證觀。修觀者，於定心中以惠分別，觀於微細出入息相，如空中風；皮、肉、筋、骨……三十六物，如芭蕉不實；心識無常剎那不住；無有我、人。身、受、心、法皆無自性。不得人法，定何所依？是名修觀。證觀者，如是觀時，覺息出入遍諸毛孔，心眼開明，徹見三十六物及諸虫戶，內外不淨，剎那變易，心生悲喜，得四念處，破四顛倒，是名證觀。
 
