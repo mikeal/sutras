@@ -1,21 +1,37 @@
 #----------------------------------------------------------------------
 #【經文資訊】大正新脩大藏經 第 31 冊 No. 1603 顯揚聖教論頌
+#【Scriptural Information】Taishō Shinshū Daizōkyō Vol. 31 No. 1603: Aparimitāyur-jñāna-nāma-mahāyāna-sūtra Verses
 #【版本記錄】發行日期：2024-01，最後更新：2022-10-12
+#【Version Record】Release Date: 2024-01, Last Updated: 2022-10-12
 #【編輯說明】本資料庫由 財團法人佛教電子佛典基金會（CBETA）依「大正新脩大藏經」所編輯
+#【Editorial Notes】This database is edited by the CBETA Foundation based on the Taishō Shinshū Daizōkyō
 #【原始資料】蕭鎮國大德提供，維習安大德提供之高麗藏 CD 經文，北美某大德提供，李明芳大德提供新式標點
+#【Original Data】Provided by Venerable Xiao Zhen Guo, CD text of the Korean canon by Venerable Wei Xi An, contributions from North American Venerable, and new punctuation by Venerable Li Ming Fang
 #【其他事項】本資料庫可自由免費流通，詳細內容請參閱【財團法人佛教電子佛典基金會資料庫版權宣告】
+#【Other Information】This database is freely distributable. For detailed information, please refer to the [CBETA Foundation Database Copyright Declaration]
 #----------------------------------------------------------------------
 
 No. 1603 [cf. No. 1602]
 顯揚聖教論頌
+Aparimitāyur-jñāna-nāma-mahāyāna-sūtra
+Treatise on the Revelation of the Profound (Verses)
 
 無著菩薩造
+Composed by Bodhisattva Asaṅga
 
 三藏法師玄奘奉　詔譯
+Translated by Tripiṭaka Master Xuanzang by Imperial Decree
+
 
 攝事品第一
+Chapter One: Integrating Activity
 
 善逝善說妙三身，　　無畏無流證教法，
+
+Well-Gone, well-spoken, wonderful Three Bodies,
+
+Without fear, without impurities, realizing the teachings.
+
 上乘真實牟尼子，　　我今至誠先讚禮。
 稽首次敬大慈尊，　　將紹種智法王位，
 無依世間所歸趣，　　宣說瑜伽師地者。
