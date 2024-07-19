@@ -1,0 +1,101 @@
+#----------------------------------------------------------------------
+#【經文資訊】大正新脩大藏經 第 16 冊 No. 714 緣起聖道經
+#【版本記錄】發行日期：2024-01，最後更新：2022-10-15
+#【編輯說明】本資料庫由 財團法人佛教電子佛典基金會（CBETA）依「大正新脩大藏經」所編輯
+#【原始資料】蕭鎮國大德提供，維習安大德提供之高麗藏 CD 經文，北美某大德提供，釋振溥法師提供新式標點
+#【其他事項】本資料庫可自由免費流通，詳細內容請參閱【財團法人佛教電子佛典基金會資料庫版權宣告】
+#----------------------------------------------------------------------
+
+No. 714 [Nos. 713, 715]
+緣起聖道經
+Sūtra on the Noble Path of Dependent Origination
+
+大唐三藏法師玄奘奉　詔譯
+Translation by Tripitaka Master Xuanzang by Imperial Decree
+
+如是我聞：
+Thus have I heard:
+
+一時薄伽梵在室羅筏國，住誓多林給孤獨園，與大苾芻眾千二百五十人俱，及諸菩薩摩訶薩等無量大眾。
+At one time, Bhagavān resided in Shravasti, in Jeta’s Grove, Anathapindika’s Park, with a great assembly of twelve hundred fifty bhikshus, and countless bodhisattvas.
+
+爾時世尊告諸大眾：「吾未證得三菩提時，獨處空閑，寂然宴坐，發意思惟：『甚奇！世間沈淪苦海，都不覺知出離之法，深可哀愍。謂雖有生、有老、有死，此沒、彼生，而諸有情不能如實知生、老死出離之法。』
+At that time, the World-Honored One told the great assembly: "Before my enlightenment under the Bodhi tree, I sat alone, meditating deeply: 'How strange! The world, drowned in an ocean of suffering, does not know the path to liberation. Though there is birth, aging, and death, beings do not understand the true path of liberation from birth and death.'
+
+「我復思惟：『由誰有故而有老死？如是老死復由何緣？』我於此事如理思時，便生如是如實現觀：『由有生故便有老死。如是老死由生為緣。』
+'I further pondered: 'Through what cause is there aging and death? What is the condition for aging and death?' I carefully contemplated and realized insightfully: 'Through birth there is aging and death. Aging and death arise dependent on birth.'
+
+「我復思惟：『由誰有故而得有生？如是生者復由何緣？』我於此事如理思時，便生如是如實現觀：『由有有故便得有生。如是生者由有為緣。』
+'I further pondered: 'Through what cause is there birth? What is the condition for birth?' I carefully contemplated and realized insightfully: 'Through becoming there is birth. Birth arises dependent on becoming.'
+
+「我復思惟：『由誰有故而得有有？如是有者復由何緣？』我於此事如理思時，便生如是如實現觀：『由有取故便得有有。如是有者由取為緣。』
+'I further pondered: 'Through what cause is there becoming? What is the condition for becoming?' I carefully contemplated and realized insightfully: 'Through clinging there is becoming. Becoming arises dependent on clinging.'
+
+「我復思惟：『由誰有故而得有取？如是取者復由何緣？』我於此事如理思時，便生如是如實現觀：『由有愛故便得有取。如是取者由愛為緣。』
+'I further pondered: 'Through what cause is there clinging? What is the condition for clinging?' I carefully contemplated and realized insightfully: 'Through craving there is clinging. Clinging arises dependent on craving.'
+
+「我復思惟：『由誰有故而得有愛？如是愛者復由何緣？』我於此事如理思時，便生如是如實現觀：『由有受故便得有愛。如是愛者由受為緣。』
+'I further pondered: 'Through what cause is there craving? What is the condition for craving?' I carefully contemplated and realized insightfully: 'Through sensation there is craving. Craving arises dependent on sensation.'
+
+「我復思惟：『由誰有故而得有受？如是受者復由何緣？』我於此事如理思時，便生如是如實現觀：『由有觸故便得有受。如是受者由觸為緣。』
+'I further pondered: 'Through what cause is there sensation? What is the condition for sensation?' I carefully contemplated and realized insightfully: 'Through contact there is sensation. Sensation arises dependent on contact.'
+
+「我復思惟：『由誰有故而得有觸？如是觸者復由何緣？』我於此事如理思時，便生如是如實現觀：『由有六處便得有觸。如是觸者六處為緣。』
+'I further pondered: 'Through what cause is there contact? What is the condition for contact?' I carefully contemplated and realized insightfully: 'Through the six sense bases there is contact. Contact arises dependent on the six sense bases.'
+
+「我復思惟：『由誰有故而有六處？如是六處復由何緣？』我於此事如理思時，便生如是如實現觀：『由有名色便有六處。如是六處名色為緣。』
+'I further pondered: 'Through what cause are there the six sense bases? What is the condition for the six sense bases?' I carefully contemplated and realized insightfully: 'Through name-and-form there are the six sense bases. The six sense bases arise dependent on name-and-form.'
+
+「我復思惟：『由誰有故而有名色？如是名色復由何緣？』我於此事如理思時，便生如是如實現觀：『由有識故便有名色。如是名色由識為緣。』
+'I further pondered: 'Through what cause is there name-and-form? What is the condition for name-and-form?' I carefully contemplated and realized insightfully: 'Through consciousness there is name-and-form. Name-and-form arise dependent on consciousness.'
+
+「我齊此識，意便退還，不越度轉，謂：『識為緣而有名色；名色為緣而有六處；六處為緣而有其觸；觸為緣受；受為緣愛；愛為緣取；取為緣有；有為緣生；生為緣故便有老死、愁、歎、憂、苦、擾、惱生起。如是積集純大苦聚。』
+'Thus understanding, I did not surpass this cognition: 'From consciousness, name-and-form arise; from name-and-form, the six sense bases; from the six sense bases, contact; from contact, sensation; from sensation, craving; from craving, clinging; from clinging, becoming; from becoming, birth; from birth, aging, death, sorrow, lamentation, pain, grief, and despair arise. Thus the entire mass of suffering accumulates.'
+
+「我復思惟：『無有誰故而無老死？由誰滅故老死隨滅？』我即於此如理思時，便生如是如實現觀：『無有生故便無老死。由生滅故老死隨滅。』
+'I further pondered: 'Through the cessation of what does aging and death cease? What condition ceases for aging and death to cease?' I carefully contemplated and realized insightfully: 'With the cessation of birth, aging and death cease. Aging and death cease with the cessation of birth.'
+
+「我復思惟：『無有誰故而無有生？由誰滅故此生隨滅？』我即於此如理思時，便生如是如實現觀：『無有有故便無有生。由有滅故生即隨滅。』
+'I further pondered: 'Through the cessation of what does birth cease? What condition ceases for birth to cease?' I carefully contemplated and realized insightfully: 'With the cessation of becoming, birth ceases. Birth ceases with the cessation of becoming.'
+
+「我復思惟：『無有誰故而無有有？由誰滅故此有隨滅？』我即於此如理思時，便生如是如實現觀：『無有取故便無有有。由取滅故有即隨滅。』
+'I further pondered: 'Through the cessation of what does becoming cease? What condition ceases for becoming to cease?' I carefully contemplated and realized insightfully: 'With the cessation of clinging, becoming ceases. Becoming ceases with the cessation of clinging.'
+
+「我復思惟：『無有誰故而無有取？由誰滅故此取隨滅？』我即於此如理思時，便生如是如實現觀：『無有愛故便無有取。由愛滅故取即隨滅。』
+'I further pondered: 'Through the cessation of what does clinging cease? What condition ceases for clinging to cease?' I carefully contemplated and realized insightfully: 'With the cessation of craving, clinging ceases. Clinging ceases with the cessation of craving.'
+
+「我復思惟：『無有誰故而無有愛？由誰滅故此愛隨滅？』我即於此如理思時，便生如是如實現觀：『無有受故便無有愛。由受滅故愛即隨滅。』
+'I further pondered: 'Through the cessation of what does craving cease? What condition ceases for craving to cease?' I carefully contemplated and realized insightfully: 'With the cessation of sensation, craving ceases. Craving ceases with the cessation of sensation.'
+
+「我復思惟：『無有誰故而無有受？由誰滅故此受隨滅？』我即於此如理思時，便生如是如實現觀：『無有觸故便無有受。由觸滅故受即隨滅。』
+'I further pondered: 'Through the cessation of what does sensation cease? What condition ceases for sensation to cease?' I carefully contemplated and realized insightfully: 'With the cessation of contact, sensation ceases. Sensation ceases with the cessation of contact.'
+
+「我復思惟：『無有誰故而無有觸？由誰滅故此觸隨滅？』我即於此如理思時，便生如是如實現觀：『無六處故便無有觸。六處滅故觸即隨滅。』
+'I further pondered: 'Through the cessation of what does contact cease? What condition ceases for contact to cease?' I carefully contemplated and realized insightfully: 'With the cessation of the six sense bases, contact ceases. Contact ceases with the cessation of the six sense bases.'
+
+「我復思惟：『無有誰故而無六處？由誰滅故六處隨滅？』我即於此如理思時，便生如是如實現觀：『無名色故便無六處。名色滅故六處隨滅。』
+'I further pondered: 'Through the cessation of what do the six sense bases cease? What condition ceases for the six sense bases to cease?' I carefully contemplated and realized insightfully: 'With the cessation of name-and-form, the six sense bases cease. The six sense bases cease with the cessation of name-and-form.'
+
+「我復思惟：『無有誰故而無名色？由誰滅故名色隨滅？』我即於此如理思時，便生如是如實現觀：『無有識故便無名色。由識滅故名色隨滅。』
+'I further pondered: 'Through the cessation of what do name-and-form cease? What condition ceases for name-and-form to cease?' I carefully contemplated and realized insightfully: 'With the cessation of consciousness, name-and-form cease. Name-and-form cease with the cessation of consciousness.'
+
+「我復思惟：『無有誰故而無有識？由誰滅故此識隨滅？』我即於此如理思時，便生如是如實現觀：『無有行故便無有識。由行滅故識即隨滅。』
+'I further pondered: 'Through the cessation of what does consciousness cease? What condition ceases for consciousness to cease?' I carefully contemplated and realized insightfully: 'With the cessation of karmic formations, consciousness ceases. Consciousness ceases with the cessation of karmic formations.'
+
+「我復思惟：『無有誰故而無有行？由誰滅故此行隨滅？』我即於此如理思時，便生如是如實現觀：『無無明故便無有行。無明滅故行即隨滅；由行滅故識亦隨滅；由識滅故名色隨滅；名色滅故六處隨滅；六處滅故觸亦隨滅；由觸滅故受亦隨滅；由受滅故愛亦隨滅；由愛滅故取亦隨滅；由取滅故有亦隨滅；由有滅故生亦隨滅；由生滅故老死、愁、歎、憂、苦、擾、惱皆亦隨滅。如是永滅純大苦聚。』
+'I further pondered: 'Through the cessation of what do karmic formations cease? What condition ceases for karmic formations to cease?' I carefully contemplated and realized insightfully: 'With the cessation of ignorance, karmic formations cease. With the cessation of karmic formations, consciousness ceases. With the cessation of consciousness, name-and-form cease. With the cessation of name-and-form, the six sense bases cease. With the cessation of the six sense bases, contact ceases. With the cessation of contact, sensation ceases. With the cessation of sensation, craving ceases. With the cessation of craving, clinging ceases. With the cessation of clinging, becoming ceases. With the cessation of becoming, birth ceases. With the cessation of birth, aging, death, sorrow, lamentation, pain, grief, and despair cease. Thus is the complete cessation of the mass of suffering.'
+
+「我復思惟：『我今證得舊道、舊徑、舊所行跡、古昔諸仙之所遊履。』
+'I further pondered: 'I have now realized the ancient path, the ancient trail, the ancient way walked by the sages of old.'
+
+「譬如有人遊行曠野、嶮穢、稠林，歘然值遇舊道、舊徑、舊所行跡、古昔諸人甞所遊履。彼即尋行。既尋行已，見舊城郭、古昔王都，園林、池沼無不具足，淨妙街衢甚可愛樂。其人見已，如是思惟：『我今宜應速詣王所，啟白斯事。』爾時彼人便到王所，啟白王言：『大王當知！我有因緣遊行曠野、嶮穢、稠林，歘然值遇舊道、舊徑、舊所行跡、古昔諸人甞所遊履。我即尋行。既尋行已，見舊城郭、古昔王都，園林池沼無不具足，淨妙街衢甚可愛樂。大王！今者若都彼城，定使大王昌隆廣大，安隱，豐樂，人民熾盛。』爾時其王便都彼城。後時王都昌隆廣大，安隱，豐樂，人民熾盛。
+'It is like a person wandering in a desolate, perilous, thick forest who suddenly finds an ancient path, ancient trail, ancient way walked by people long ago. Following it, they find an ancient city, the capital of ancient kings, with all the splendors of gardens, pools, and delightful streets. Seeing this, they think: 'I should quickly go to the king and report this.' Then they go to the king and say: 'Your Majesty! By chance, I have found this ancient path, ancient trail, ancient way walked by people long ago. Following it, I found an ancient city, the capital of ancient kings, with all its splendor. If Your Majesty moves the capital there, it would surely thrive, be peaceful and prosperous, with flourishing people.' The king then relocates the capital there, and in time the kingdom thrives, becoming peaceful, prosperous, and flourishing.
+
+「我亦如是。今已證得舊道、舊徑、舊所行跡、古昔諸仙甞所遊履。何等名為舊道、舊徑、舊所行跡、古昔諸仙甞所遊履？當知即是八支聖道，謂初正見，次正思惟、正語、正業、正命、正勤、正念、正定，惟至第八。如是名為舊道、舊徑、舊所行跡、古昔諸仙甞所遊履。我昔尋行。既尋行已，曾見老死，見老死集，見老死滅，見於老死趣滅行跡。如是曾見生、有、取、愛、受、觸、六處、名色、識、行，曾見行集，曾見行滅，曾見於行趣滅行跡。我於此法自然通達。現等覺已，告諸苾芻、諸苾芻尼、鄔波索迦、鄔波斯迦，及告種種外道、沙門、諸婆羅門、雜出家類無量大眾。是諸苾芻若於此中能正修行成能證者，便能證得正理法善。諸苾芻、苾芻尼、鄔波索迦、鄔波斯迦無量大眾，若於此中能正修行成能證者，便能證得正理法善。如是乃能增廣梵行，亦當饒益無量眾生，為諸天人正善開示。」
+'I also am like this. I have now realized the ancient path, the ancient trail, the ancient way walked by the sages of old. What is called the ancient path, the ancient trail, the ancient way walked by the sages of old? Know that it is the Eightfold Noble Path: first Right View, then Right Thought, Right Speech, Right Action, Right Livelihood, Right Effort, Right Mindfulness, and Right Concentration, reaching the eighth. This is called the ancient path, the ancient trail, the ancient way walked by the sages of old. I once followed it. After following it, I saw aging and death, saw the accumulation of aging and death, saw the cessation of aging and death, saw the path leading to the cessation of aging and death. Likewise, I saw birth, becoming, clinging, craving, sensation, contact, the six sense bases, name-and-form, consciousness, and karmic formations; saw the accumulation of karmic formations, saw the cessation of karmic formations, saw the path leading to the cessation of karmic formations. I naturally comprehend these truths. Having thus realized perfectly, I taught the bhikshus, bhikshunis, upasakas, and upasikas, as well as various external sects, ascetics, brahmins, renunciants, and a countless assembly. Those bhikshus who correctly practice this are able to realize the true, virtuous dharma. Bhikshus, bhikshunis, upasakas, upasikas, and the countless assembly who practice this correctly can realize the true, virtuous dharma. In this way, they expand Brahma conduct and greatly benefit countless beings, rightly guiding gods and humans.'
+
+時諸苾芻及諸菩薩摩訶薩等無量大眾，聞佛所說，歎未曾有，皆大歡喜，信受奉行。
+At that time, the bhikshus, bodhisattvas, and the countless assembly, hearing the Buddha’s words, were astonished, joyously accepted them, and practiced accordingly.
+
+緣起聖道經
+Sūtra on the Noble Path of Dependent Origination
