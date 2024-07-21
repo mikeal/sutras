@@ -1,9 +1,9 @@
 #!/bin/zsh
 
 # Set metadata variables
-AUTHOR="Mikeal Rogers, Xuanzang, Buddha"
-TITLE="Sūtra on the Noble Path of Dependent Origination"
-TAGS="Buddhism, Sutra"
+AUTHOR="Zhìyǐ, Mikeal Rogers (translator)"
+TITLE="Six Subtle Dharma Doors"
+TAGS="Buddhism, Meditation, Manual, Meditation Manual"
 PUBLISHER="Hear the World Sound"
 PUBDATE=$(date +%Y-%m-%d)  # Set current date dynamically
 LANGUAGE="en"
@@ -13,7 +13,7 @@ MARKDOWN_EXTENSIONS="footnotes,tables,codehilite,meta,nl2br,smarty,sane_lists,wi
 PAGE_BREAKS_BEFORE="//h:h1"
 
 # Define the list of txt files to convert
-TXT_FILE="T0714_001.md"
+TXT_FILE="T1917_001.md"
 
 CSS="./translation.css"
 FONT_FAMILY="FiraGO"
